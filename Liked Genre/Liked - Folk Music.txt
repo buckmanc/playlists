@@ -1,0 +1,33 @@
+#TODO change this into a "contains folk, exclude these" logic
+@default:LikesByGenre
+
+viking folk                       
+medieval folk                     
+rune folk                         
+nordic folk                       
+mongolian folk                    
+siberian folk                     
+tuvan folk                        
+dark folk                         
+folkmusik                         
+arab folk                         
+faroese folk                      
+norwegian folk                    
+folk                              
+bulgarian folk                    
+indie folk                        
+finnish folk                      
+british folk                      
+folk rock                         
+nz folk                           
+polish folk                       
+string folk                       
+tatar folk                        
+ukrainian folk                    
+appalachian folk                  
+canadian folk                     
+israeli folk                      
+latvian folk                      
+russian folk rock                 
+traditional folk                  
+western saharan folk              

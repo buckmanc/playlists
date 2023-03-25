@@ -1,0 +1,7 @@
+@NoLikes
+@LimitPerArtist:3
+@DeleteIfEmpty
+
+TopByArtistFromPlaylist:Liked - Dungeon Synth
+-album:Old Sorcery:Sorrowcrown # fantastic album, but it's not dungeon synth
+-Album:1SePwqHy1dfE8o7KsygEWE  # Old Sorcery game soundtrack 

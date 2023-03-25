@@ -1,0 +1,10 @@
+# female Iranian black metal vocalist that plays the accordion
+# research indicates she is *not* a nazi
+
+@default:allbyartist
+
+beaten victoriouses
+darkestrah
+mogh
+nashmeh
+tears of fire

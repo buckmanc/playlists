@@ -1,0 +1,1005 @@
+# this playlist is an automated warning
+# it will suddenly appear if I accidentally like any of these bands that appear on lists of fascists/nazis
+# I can then research the band and unlike the tracks if they're confirmed vile
+
+@deleteIfEmpty
+@default:LikesByArtist
+@sort:Artist
+@UpdateSort
+
+Marduk
+Winterfylleth	# black sun logo originally
+Vinland Rising	# song titled "for blood and soil"
+
+#wikipedia nsbm list
+Absurd
+Abusiveness
+Abyssic Hate
+Adolfkult
+Aryan Blood
+Aryan Terrorism
+Astrofaes
+Baise ma Hache
+Bannerwar
+Before God
+Bilskirnir
+Blutkult
+Branikald
+Capricornus
+Dark Fury
+Der Stürmer
+Deprimat
+Eisenwinter
+Eugenik
+Evil
+Forest
+Gaszimmer
+Gestapo 666
+Gestapo SS
+Gontyna Kry
+Grand Belial's Key
+Graveland[a]
+Grom
+Goatmoon
+Hagl
+Infernal War
+Infernal SS
+Ifernach
+Infernum
+Kalmankantaja
+Kataxu
+Kristallnacht
+Kroda
+Legion of Doom
+Leichenzug
+Lord Wind
+М8Л8ТХ
+Menneskerhat
+Naer Mataron
+Nacht Und Nebel
+Nezhegol
+Nitberg
+Nokturnal Mortum
+Patris
+Peste Noire
+Reich of the Black Sun
+Seigneur Voland
+Selbstmord
+Shepot run
+Sokyra Peruna
+Spear of Longinus
+Stahlfront
+Stutthof
+Stürm Kommand
+Sunwheel
+Svarga
+Sudentaival
+Temnozor
+Thor's Hammer
+The True Frost
+Totenburg
+Ulfhethnar
+Veles
+Velimor
+Wehrhammer
+Wodulf
+Wolfnacht
+
+# https://raddle.me/wiki/black_metal#the-garbage-and-their-sympathisers-nsbm-extreme-right-etc
+1389
+14 Sacred Words
+14/88
+14Winterkampf88
+5:45
+88
+AZA
+Abbysic Hate
+Abgeneigt
+Absurd
+Acherontas
+Ad Hominem
+Adolfkvlt
+Aeiou
+Aeonless
+Aesir
+Afraid of Destiny
+Agarthia
+Allfather
+Ahnenerbe
+Akitsa
+Aktion Totenkopf
+Akzent
+Alastor
+Alocer 88
+Amalek
+Amistad
+Ancestral Purity
+Ancient Hatred
+Ancient Rites
+Ancient Rune
+Antiparasitär
+Antisemitex
+Aorlhac
+Aparthate
+Archívum
+Arghoslent
+Ariertum
+Arischer Krieg
+Arisk Flesk
+Arisse
+Arkona
+Arktogäa
+Armaggedon
+Arnestati
+Arnstadt
+Aryan 88
+Aryan Art
+Aryan Blood
+Aryan Blood
+Aryan Hammer
+Aryan Honour
+Aryan Kampf 88
+Aryan Kommando 88
+Aryan Rebels
+Aryan Storm
+Aryan Supremacy
+Aryan Terrorism
+Aryan Tormentor
+Aryan Torture
+Aryan Tyrant
+Aryan Werewolf
+Aryan Wind
+Aryan Wood
+Aryanas
+Aryanhorde
+Aryantichrisst
+Aryanwülf
+Arysk
+Ash Pool
+Asmund
+Astarium
+Astral Legions
+Astral Oath
+Astrofaes
+Aufbruch
+Aufgegeben
+Aufschwung
+Aus dem Norden
+Auschwitz Symphony Orchestra
+Axis of Blood
+Axis of Resistance
+B-machina
+Baise Ma Hache
+Balmung
+Balmung
+Bannerwar
+Barbarians
+Barthafah
+Batallón de Castigo
+Bekhira
+Beorn
+Bergen 88 Belsen
+Bilskirnir
+Black Magic SS
+Black Storm Division
+Black Sun Rising
+BlackSStorm
+Blackmoon Warrior 88
+Blasphemous Overlord
+Blitzkrieg
+Blood Effigy
+Blood Libel
+Blood of Kingu
+Bloodscent
+Bloodstrength
+Blut und Boden
+Blutaar
+Blutfahne
+Blutgeist
+Blutkult
+Blutrache
+Blutrache
+Blutschrei
+Blutschuld
+Blutskrieg
+Blutstolz
+Bolg
+Bomber
+Bonemachine
+Bound for Glory
+Branikald
+Brigada Totenkopf
+Brutal Begude
+Buchenwald Oven
+Buldok
+Burning Blood
+Burshtyn
+Burzum
+Calslagen
+Calth
+Campo de Mayo
+Campo Nero SS
+Capricornus
+Carpathia
+Celticthrone
+Centaurus
+Ceremony of Innocence
+Chants de Guerre
+Chemin de Haine
+Christcrusher
+Circle of Dawn
+Circus Maximus
+Clandestine Blaze
+Cold Grave
+Comando de Exterminio
+Combat
+Command
+Comrade Borislav 88
+Concubia Nocte
+Corvus Invictus
+Count Shannäth
+Crack
+Cripta Oculta
+Crux Dissimulata
+Cult of Hatred
+Cultur Noctis
+Cultus
+D.C.D.
+Damzell
+Dark Earth
+Dark Fury
+Darkart
+Darkat
+Darkskin
+Darkthule
+Death Warrant
+Deaths Head
+Deathstorm88
+Deathspell Omega	# had a guest track from a nazi who writes about pedophilia
+Deep Dark Forest
+Defenders of Europe
+Defrontis
+Degrade
+Deplored
+Der Dunkel Einsatz Kommando
+Der Stürmer
+Desolation Triumphalis
+Deströyer 666
+Dhorg
+Diaboli
+Diabolis Interriym
+Divide et Impera
+Division S
+Division Triad
+Disiplin
+Docteur Z
+Dominion
+Donar's Krieg
+Drachenfeuer
+Dragón de Hierro
+Draumvakzeph
+Draupnir
+Dreary Nightspirit
+Dreadful Relic
+Drom
+Drowning the Light
+Drudkh
+Dub Buk
+Dunkelwhite
+Durandal
+Dushkriti
+Dysangelium
+E.A.G.L.E.
+Eaglenest
+Earth Frost
+Edelweiss
+Eingar
+Eingar
+Einher
+Einheriar
+Einsatz Kommando
+Einsatzgruppe
+Einsatzgruppen
+Einsatzkommando
+Einspruch
+Eisenkampf
+Eisenwinter
+Eisigwald
+Eldrig
+Elfenbloed
+Elisabetha
+Elitism
+Eljudnir
+Endless Pride
+Endlosung
+Endsieg
+Envolter
+Equimanthorn
+Estirpe Imperial
+Eternal Blood
+Eternal Strife
+Ethos Heroicon
+Eugenik
+Evil
+Excalibur
+Exile
+Eye of Odin
+Eyelids
+Eztlacuani
+Faethon
+Fanisk
+Fanisk
+Fatherland
+Fatherland
+Faustgeist
+Faustian Dawn
+Femegericht
+Feuernacht
+Final Stand
+Flame of War
+Flammentod
+Folkvang
+Forefather
+Forest
+Forlor
+Forgotten Forests
+Fortress
+Frangar
+Frakass
+Freezing Moon
+Freude
+Frostkrieg
+Frostland
+Fullmoon
+Funeral
+Furor
+Furors Krieg
+Futhark 14
+Fx-05 Xiuhcoatl
+Fyrdung
+Galgenberg
+Gammadion
+Gaskammer
+Gaszimmer
+Gateway Of The Sun
+Gauntlet’s Sword
+Geimhre
+Gelal's Dark Cult
+Genocide
+Genocide
+Genocide
+Genseric
+Gestapo 666
+Gestapo SS
+Gestapo SS
+Gjallar Horn
+Gleichschaltung
+Gloriosa Bandeira NS
+Goatmoon
+Goatpenis
+Godless North
+Gontyna Kry
+Granatus
+Grand Belial's Key
+Granulosum
+Grav
+Graveland
+Graven
+Grief Division
+Gris
+Grom
+Gromol
+Gungnir
+Haar
+Hagalaz
+Hagl
+Hammer
+Hammer of Hate
+Hammer zur Wehr
+Harkenkreuz
+Hastur
+Hate Forest
+Hate Supremacist
+Hate XXX
+Hatenwar
+Haustmyrkr
+Havoc
+Heartless
+Hebrewdead
+Hegemoon
+Heidenwelt
+Heiliger Krieg
+Heiliges Reich
+Heldentod
+Heldentum
+Heldune
+Helhesten
+Hellscream
+Hellstrike
+Hellvetron
+Heretical Warlust
+Herjan
+Hexenkreis
+Heydrich
+Himmelfahrstrasse
+Hitler
+Holdaar
+Hollentur
+Holocaust
+Holocaust
+Holocaust Storm
+Holocauste
+Holocaustus
+Honor
+Hordes of Hate
+Horytnica
+Hrodvitnir
+Hrossharsgrani
+Hun
+Hunting Season
+Huzar
+Hvangur
+Hvitskaldr
+Hyperborean
+Hypervorea
+Ichor
+Ilse Koch
+Immortal Pride
+Immortal Pride
+Impallus Mortiis
+Infernal War
+Infernum
+Inquisition
+Involved Patriots
+Intolitarian
+Iron Youth
+Iron Youth 88
+Irrwald
+Ismåne
+Iudaeorum Mortem
+Iuvenes
+Jedem Das Seine
+Jedem das Seine
+Jerusolima Est Perdita
+Jew Atomizer
+Jewicide
+Jewicide
+Jewicide
+Judas Iscariot
+Judenfeind
+Jugra
+Justícia
+K28
+Kaevum
+Kahlkopf
+Kaiadas
+Kaiadas
+Kalt
+Kamaedzitca
+Kampfzeit
+Karakondjo
+Kataxu
+Katharia
+Ketzer
+Khors
+Khrematorium SS
+Khronoz
+Khronoz
+Kiborg
+King of Demons
+Kolohorth
+Kremator
+Kreuzfeuer
+Kriegshetzer
+Kriegsverb
+Krigsrop
+Kristallnacht
+Kroda
+Krypteia
+Kukulcan
+Kult Ofenzivy
+Kwelhekse
+L.C.F.
+L.S.S.A.H.
+Le Diable Blanc
+Lebensborn 88
+Legion of Doom
+Legion of Wolves
+Leibstandarte
+Leibstandarte
+Leichenzug
+Leidenfrost
+Lemovice
+Lord of Evil
+Lord of Hate
+LSSAH
+Luror
+Lut'
+Lykantrop
+Lösung Krieg
+Lúgubre Eclipse
+M8L8TH
+MVSN
+Maeströ Cröque Mört
+Magog
+Malsaint
+Malveillance
+Maléfice
+Marduk
+Martial
+Maseregoth
+Massenvernichtung
+Massgrave
+Maus
+Maximum Perversum
+Menegroth
+Menneskerhat
+Menneskerhat
+Meztlixictlico
+Milice Française
+Milit
+Miryam's Cunt
+Misanthropic Kommando
+Misein
+Misere Luminis
+Mjölnir
+Molot
+Molot Severa
+Moon
+Moon
+Moontower
+Moor
+Morbus Mundi
+Morgennebel
+Morke
+Mors Summa
+Morth
+Mortiferus
+Mountains
+Murmuüre
+N.S.D.A.P.
+NSBM
+Na Rasputje
+Nacht und Nebel
+Nachtfalke
+Nachtkrieger
+Nachtkult
+Nachtwraak
+Naer Mataron
+Nar Mattaru
+Nasha Vaina
+Nation War
+Nattfog
+Nattstrid
+Nazgul SS
+Necromant
+Negorgodon
+Negrobutcher
+Neit
+Nekrokrist SS
+Nervengas
+Neskor
+Neues Reich
+Never Say Die
+Nezhegol
+Nidhöggsburg
+Night and Fog
+Nitberg
+Nocturnal Depression
+Nocturnal Supremacy
+Nokturnal Mortum
+Nokturne
+Nordglanz
+Nordisches Blut
+Nordkampf
+Nordreich
+Nordvrede
+Norrhem
+Norsekrieg
+Northern
+Northern Werewolves
+Northstream
+Nosferatu
+Nothing
+Nova
+Noxt
+Nyogthaeblisz
+Oak
+Oberon
+Obłęd
+Odal
+Odal Rune
+Odin's Law
+Ohtar
+Old Fire
+Old Firm
+Old Legacy
+Opfer Rassenhass
+Opferblut
+Opferdolch
+Oracle Kaputt
+Orcrist
+Orcus Tyrannus
+Order of the Death's Head
+Order of the White Hand
+Ordine Nero
+Ordnung
+Orgullo Blanco
+Ornament of Sin
+Orthanc
+Osculum Infame
+Oskal
+Oswenzim
+Outbreak
+PD SS Totenkopf
+Pagan Storm
+Pagan Warrior 88
+Paganblut
+Pagancult
+Paganfist
+Pagan Hammer
+Pansomnus
+Pantheon
+Pantheon
+Panzergreif
+Panzerhitler
+Panzerjager
+Panzerkampf Sturmangriff
+Patron 14
+Paulistarum
+Pentagammadion
+Permafrost
+Perverse Monastyr
+Pervogoat
+Perunwit
+Peste Noire
+Pestiun
+Pestschwadron
+Piarevaracien
+Plaga
+Pogrom
+Pozytywka
+Propaganda
+Protest
+Prowler 88
+Punishment Systems
+Pure Disgust for Humanity
+Pureblood
+Quisling
+Rabenschrei
+Rafnagud
+Raggradarh
+Rahowa
+Raio Negro
+Rassenkrieg
+Rautahaamu
+Raven Dark
+Ravenbanner
+Ravensbruck
+Ravensbrück 666
+Recrucifier
+Reek of the Unzen Gas Fumes
+Reichsblood
+Reidh
+Resistencia 88
+Retaguardia
+Retribution
+Right Wing Messiah
+Rodogor
+Rodonitza
+Rodosvet
+Rodovest
+Rovina
+Rostorchester
+Rundagor
+Rus Hail
+S.A.R.
+SS Mann
+SS Reich
+Saccara
+Sacrificia Mortuorum
+Sacrifício Sumério
+Sale Freux
+Saltus
+Sangre y Terror
+Satan 88
+Satanic Holocaust Warfare
+Satanic Impalement
+Satanic Warmaster
+Scharfrichter
+Schattenmond
+Schiffbruch 88
+Schutzstaffel
+Schwarze Sonne
+Seigneur Voland
+Seges Findere
+Selbstmord
+Shadow Order, The
+Shining
+Sieg
+Sieg Rex 88
+Sieg oder Tod
+Siegertyp
+Siegtruppen
+Sielunvihollinen
+Sigfodur
+Sigrblot
+Sinedrion
+Sirin
+Skjuld
+Skullcrusher
+Slavic Rebirth
+Solar Wisdom
+Soldierss of Evil
+Sombre Chemin
+Sombres Forets
+Sonnenkreuz
+Sonnenrad
+Southule
+Southule
+Slave Whipping Blasphemy
+Spear of Longinus
+Spellbound
+Spiritual Agony
+Spiritual Conquest
+Spite Extreme Wing
+Spreegeschwader
+Squadron
+Stahlfront
+Stella Arja
+Stella Polaris
+Stolzkrieg
+Storm Front 88
+Storming Hate
+Stormheit
+Stormlüst
+Stormtroopers
+Strength
+Strijdgeest
+Stronghold
+Sturm
+Sturmabteilung
+Sturmgewehr
+Stutthof
+Sunchariot
+Sunwheel
+Svarazic
+Svarga
+Svartr Sturm
+Svartrit
+Svartskog
+Svolder
+Swastica
+Swastyka
+Symphony of Sorrow
+Syny Severa
+Szálasi
+Szron
+Sühnopfer
+Taliesin
+Tank Genocide
+Taranis
+Taranis
+Temacnost
+Temnozor
+Tenebrous
+Territory
+Terror 88
+Terror Is a Man
+Teutonia
+Teyaotlani
+Thallium
+The Creed
+The Shadow Order
+The True Frost
+The True Werwolf
+Thor's Hammer
+Thornsland
+Thunder
+Thunderbolt
+Thunderbolt Brigade
+Thy Old Throne
+Titkolt Ellenállás
+Tivaz
+Tlateotocani
+Tlillan Calmecac
+Todesmarsch
+Todesstrafe
+Todfeind
+Tormentia
+Tormentor
+Totale Vernichtung
+Totale Vernietiging
+Totenburg
+Totenkopf
+Totenreich
+Toter Winter
+Triskelon
+Trist Vintry Vandre
+Tunglskin
+Tyranath
+Tyskland
+Two Runes
+Udun
+Ulfhethnar
+Ulfhethnar
+Ull
+Ultima Thule
+Ultimaratio
+Ultimatum
+Urdung
+Uriburu
+Uruk-Hai
+Valaskjalf
+Valem 88
+Valfodreich
+Valhalla Saints
+Valhallian
+Valsblut
+Valth Beake
+Vandal
+Varg
+Vargleide
+Vargsang
+Veil
+Veles
+Velimor
+Verlorenheit
+Vermine
+Vermuten Gotze
+Vernichtungskamp
+Vetis
+Via Dolorosa
+Victoire Païenne
+Vierte Reich
+VII Batallón de la Muerte
+Vinland Warriors
+Vinterskog
+Visurgis
+Volhv
+Volkskampf
+Volrisch
+Vorfahrkult
+Vorghoth
+Vothana
+Vouïvre
+Vril
+Vrildom
+Vritrahn-Werwolf
+Völkermord
+Völkermord
+Völkischer Beobachter
+WAR 88
+Waffen SS
+Waffen SS
+Waffenbrüder
+Waldvater
+Walhalla
+Wannsee
+War 88
+War Command
+War Sieg
+Warhead
+Warhead
+Warlord
+Walknut
+Warbutcher
+Warmonger
+Wataha
+Warwulf
+Wehrhammer
+Wehrmacht Kommand
+Wehrwolf
+Wehrwolf SS
+Weidervereihegung
+Weißen nur einen Tag
+Weltmacht
+WerWolf Division
+Werewolf
+Werewolf Front
+Werewolf Satan
+Wewelsburg
+Wewelsburg
+Whispersorrow
+White Death
+White Diamond Death
+White Guard
+White Storm 88
+Whites Load
+White Wolves Kommando
+Wiking 1940
+Wilkolak
+Winds of Wrath
+Winterfrost
+Wintergewitter
+Wir Sind Thule
+Wisdom Mist
+Wodensthrone
+Wodulf
+Wojnar
+Wolf's Moon
+Wolfclan
+Wolfenhords
+Wolfhammer Division
+Wolfkrieg
+Wolfnacht
+Wolfrache
+Wolfsangel
+Wolfsangel
+Wolfshof
+Wolfskrieg
+Wolfspawn
+Wolfssang
+Wolfssturm
+Wolfszorn
+Wolfvonreich
+Worldwide Genocide
+Wotan Folk
+Wotan Sølv
+Wotanic Commando
+Wotanorden
+Wotansvolk
+Wulfhere
+Wulfhere
+Xarsyth
+Xebgas
+Xenocide
+Xenophobia
+Xenophobia
+Xenophobic
+Yaocuicatl
+Yggdrasil
+Ymir
+Zagharos
+Zauberer
+Zavod 31
+Zotz Kimil
+Zurzir
+Zyklonkrieg 88
+Other
+Ármány
+Æresblod
+Übermensch
+Ülven 88
+Νόστοι
+Агрессор
+Арийский Штурм
+Аркона
+Арья Варта
+Бодхисатва
+Вандал
+Варяг
+Велимор
+Вепрь
+Влок
+Водокрест
+Волколак
+Волкотень
+Волх
+Гром
+Заводь
+Коловрат
+Крада
+Кранты
+Крода
+Лютень
+Лють
+М8Л8ТХ
+Молат
+На Распутье
+Набат
+Нави Эхо
+Нежеголь
+Родна Защита
+Родовест
+Россия
+Русич
+Сварожич
+Сокира Перуна
+Сыны Севера
+Харза
+Хорсс
+Циклон-Б
+Яровит
+Темнозорь
+Ռահվիրա

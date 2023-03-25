@@ -1,0 +1,8 @@
+@default:LikesByGenre
+
+symphonic metal
+melodic metal
+power metal
+progressive metal
+
+-artist:Korpiklaani #korpiklaani is more folk metal than symphonic metal!

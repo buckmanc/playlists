@@ -1,0 +1,6 @@
+@NoLikes
+@LimitPerArtist:3
+@DeleteIfEmpty
+
+TopByArtistFromPlaylist:Liked - LoFi no VGM
+-genre:*vgm*

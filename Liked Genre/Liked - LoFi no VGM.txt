@@ -1,0 +1,6 @@
+@default:LikesByGenre
+
+*lofi*
+-genre:*vgm*
+-artist:gamechops
+

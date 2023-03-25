@@ -1,0 +1,810 @@
+@default:TopByArtist
+@LimitPerArtist:1
+# https://rateyourmusic.com/list/drowned_scars/the_ladies_of_black_metal/
+# https://www.discogs.com/lists/Female-Fronted-Black-Metal/264028?page=1&limit=250
+
+# these turn out to be a lot of other things besides black metal
+# still pretty sweet though
+# *tons* of overlapping artist names though
+# hence the exclusions at the bottom, made with --exclude-current-artist
+
+-Genre:*Christian*
+
+TopByArtistFromPlaylist:27qq6nyKJ0UfdcjNUZ6EHc ###more reliable playlist
+
+.NEMA
+12 Southern North
+A Tree Of Signs
+Aara
+Absidia
+Acamar
+Accursed Creator
+Acheron
+Acherontas
+Act of God
+Ad Aeternum
+Ad Inferna
+Adaestuo
+Adore
+Adorned In Ash
+Adraste
+Adultery
+Afterblood
+Afterlife
+Agrona
+Aherusia
+AIAA
+Aigilas
+Ails
+Akgnar
+Albino Python
+Alkahest
+Alkonost
+Altar Defecation
+Amalie Bruun
+Amesoeurs
+Amissa Anima
+Among The Torrent
+AmortE
+Amthrÿa
+Anapilis
+Anastatica
+Ancestral Legacy
+Ancestral Volkhves
+Ancient Ceremony
+Anesmwythder
+Angor Animi
+Angrbodas Curse
+Angryon
+Antichrisis
+Antigonė
+Apostasy
+Arcane Grail
+Asagraum
+Asaru
+Asenath Blake
+Atenoux
+Aube Grise
+Augu Sigyn
+Automb
+Avathar
+Awake the Mighty Dragon
+Azdora
+Bagatur
+Barbarian Prophecies
+Beaten Victoriouses
+Being Alive Is Beautiful
+Bellzlleb
+Belofte
+Bethlehem
+Black Dementia
+Black March
+Black Palace Symphony
+Black Widows
+Bleeder
+Blood Rituals
+Bloodbells Chime
+Bloody Pride
+Bog Oak
+Bonestripper
+Bonfire
+Bovary
+Burial Place
+Burning Pantheon
+BVDK
+Caedeous
+Cailleach Calling
+Cairiss
+Cantata Sangui
+Cantodea Dianthus
+Capitollium
+Cariosus
+Carnarium
+Celestial Crown
+CHERNOTA
+Chordewa
+Christfuck
+Christian Death
+Climatic Terra
+Consummatum Est
+Convictive
+Corrupted Melody
+Covenant
+Cradle of Filth
+Craven
+Crest of Darkness
+Cruachan
+Cryogenic
+Culto Pagano
+Cultus Profano
+Daedalean Complex
+Daemona
+Dagor Dagorath
+Damnatio Aeterna
+Damonik
+Dämonik
+Dark Armageddon
+Dark Mirror Ov Tragedy
+Dark Silence
+Dark Tales
+Darkult
+Darzamat
+Dask
+Dawn Of Ouroboros
+Dead
+Death Dies
+Defacing God
+Dehumanize
+Dementiae
+Desecration
+Despise
+Detest
+Deus Ater
+Dia De Los Muertos
+Dies Ater
+Dismal Euphony
+Dismal
+Dissidence
+Divahar
+Doctrine X
+Dolch
+Dom Zły
+Dominion III
+Doodswens
+Draconic
+Dragonknight
+Drastique
+Draugurinn
+Dreadeth
+Dreaming Dead
+Dryad
+Dying Kings
+Eastern Front
+Ebonylake
+Ecthyma
+Edenfall
+Eidyllion
+Elathan
+Elegeion
+Embrace Of Hedera
+Enchantya
+EndlessNight
+Enon Chapel
+Enter Chaos
+Entität
+Epistasis
+Equimanthorn
+Errant
+Ethereal Sin
+Ethereal
+Evil Regiment
+Evol
+Ex Cops
+Exhumer
+Exorcizm
+Eye Of Nix
+Fangorn
+Faron
+Fayenne
+Feminazgul
+Fjell Thyngor
+Flusso Delirante Persecutorio
+Folkearth
+Folkodia
+Forever Slave
+Frost Despair
+Frostbite
+FullMoon's Insignia
+Funeral Cult
+Funeral Desekrator
+Funeral Of God
+Funeral RIP
+Gawk
+Gloomy Grim
+Gorgon
+Gothic Sky
+Gracefallen
+Grauen
+Grimalkin
+Grinning Shadows
+###Hadal # only female vocalist for the demo, 3 other Hadals
+Halgadom
+Hawthorn
+Hecate
+Heksena
+Hekte Zaren
+Hell Putrefaction
+HellFynder
+Her Enchantment
+Hicks Kinison
+Hildr Valkyrie
+Holdaar
+Höllensturm
+Hulder
+Humanitas Error Est
+Iarnvidjur
+Iersinia
+Ieschure
+Ilkim Oulanem
+İlkim Oulanem
+Imminent Doom
+Immortal Bird
+Imopectore
+Imperator Infernum
+In Silentio Noctis
+In Tormentata Quiete
+Infallible
+Infaustes
+Infinited Hate
+Insected
+Insidius Infernus
+Into Darkness
+Iron Bazooka
+Joyless
+Kabukimono
+Karyn Crisis Gospel Of The Witches
+Korova
+Korpblod
+Kramp
+Krang
+Kryphos
+Kutrankan
+La Caruta di li Dei
+La Torture Des Ténèbres
+Labei Ritual
+Lacrimal
+Lamia Culta
+Last Legion Alive
+Lebenssucht
+Leicohtica
+Les Discrets
+Lifes Illusion
+Lisa Lombardo
+Lisa the Wolf
+Lisa The Wolfe
+Lodge
+Lonely Star
+Lucid Fear
+Luctus Hydra
+Luctus' Hydra
+Lustravi
+Luxul
+Luxúria De Lillith
+Macbeth
+Malnàtt
+Malzera
+Markhor
+Markus Öhrn
+Mars Mantra
+Matianak
+Mercy Brown
+Meza Virs
+Miasmic Theory
+Midnight Fullmoon
+Mindful Of Pripyat
+Mindshroud
+Mire Of Despondency
+Modraniht
+Mondsaal
+Mons Lvnae
+Moonglade
+Moonlight Sword
+MOR
+Morak
+Mordrean
+Mortt
+Mortuum
+Murder Persons
+Mustasuo
+Mylidian
+Mysticisme
+Mythic
+Nahabat
+Narcotic Death
+Nargathrond
+Natan
+Nattergal
+Nàttsòl
+Natures Grave
+Naven
+Necrofaith
+Nekrodelirium
+Nema
+Nepharitus
+Neroth
+Neurothing
+Never
+Neverendinghate
+Nictofilia
+Nihilation
+Nihilistium
+Ninhursag
+Noctilium
+Nocturnal Pestilence
+Nocturnal Toxin Carnage
+NOÊTA
+Nordwitch
+Norrsköld
+Nosturaack
+Nuclëar Fröst
+Oathbreaker
+Oathean
+Oblivion Castle
+Obscura Amentia
+Obscuring Veil
+Oculi Melancholiarum
+Ol Sonuf
+Oligarch
+ON
+Opus Eclypse
+Ordo Funebris
+Oreb Zarak
+Origeem
+Orkrist
+Oxiplegatz
+Pagan Spirits
+Pagan Storm
+Panychida
+Parakletos
+Pathology
+Penance Stare
+Pentadream
+Përgamo
+Peste Noire
+Phoenix
+Postnecrum
+Preterite
+Proclivity Gloom
+Profanal
+Progetto Chaosgoat666
+Progetto:ChaosGoat.666
+Providence
+Psy Kick
+Psychalgia
+Putrefied Beauty
+Putrid Flesh
+Pyrrah
+Quiar
+Ragana
+Rain of Sorrow
+Ram-Zet
+Rauni
+Redox
+Rhetra
+Ritual Knife
+Ritual Moon
+Rug
+Sacer Cruor
+Sadhara
+Sagrada Blasfêmia
+Salix Babylonica
+Sanctus Nosferatu
+Sargatanas
+Sariola
+Saros
+Satan Sluts
+Satanation
+Satanist Order
+Satriarch
+Secessionist
+Sedna
+Seducent Evil
+Seeds of Iblis
+Seethr
+Self Spiller
+Semargl
+Serpent & Seraph
+Serpent And Seraph
+Severed Receptors
+shEver
+Showhorses
+Sidus Atrum
+Simbelmyne
+Sinergy
+Sinister
+Sisters Memon
+Šmiercieslaŭ
+Snorlax
+Soldados Del Infierno
+Solis In Antris
+Sollertia
+Sølvë
+Somnus
+Sorguinazia
+Soulgrind
+Soulthorn
+Spiritus Diaboli
+Srefa
+Stålvargar
+Stormgaze
+Straightout
+Strega
+Suicide Forest
+Supruga
+Svart Sorg
+Svízel
+Sylvaine
+SYMD
+Synodic
+t h a c l t h i
+Talamyus
+Tartarus
+Tears of Ea
+Temple Koludra
+Tenebra
+Thaclthi
+The Ancient Queen
+The Antiprism
+The Wage Of Sin
+The Witch
+Theatres des Vampires
+Thrall
+Throne of Malediction
+Todtgelichter
+Tormentula
+Trail of Tears
+Trinacria
+Trobar Clus
+Trobar De Morte
+Tsarina
+Twin Obscenity
+Umdhlebi Terror
+Umut Babilon
+Uncanny Reality
+Unholy Night
+Unholy Throne
+Uranus
+Utburd
+V Kaos
+Vale
+Valkyrie
+Valpurga
+Vaultwraith
+Vehemal
+Velociter
+Vereor Nox
+Vergine Stuprata
+Vermilia
+Vesperith
+Vidharr
+Viento Nokturno
+Vindicta
+Vinterbarn
+Violent Magic Orchestra
+Violet Moon
+V-kaos
+Voice of Midnight
+Vomitwolves
+Vore
+Vouna
+Vradiazei
+Vulto Abissal
+War Ancestry
+Wavelength:Satan
+WavelengthSatan
+Wildspeaker
+Winged
+Winter Lantern
+Winterfallen
+Winterthrall
+Witte Wieven
+Worship Of Keres
+Wrath of Mot
+Xvarhnah
+XxGekixX
+Yeldah
+Ylva de Lune
+Your Last Wish
+Yuggot
+Yxxan
+Yylva
+Zad
+Zdań
+Zepar
+Zgroza
+Артания
+Ледяной Гром
+Н.О.В.А.Р.А.
+Неметон 
+Полусвет
+Триера
+Трызна 
+Туман
+蛮蜚之魃
+闃月
+
+
+
+-Artist:1PCPNjSSwwuOiWeNNvIP6q #  Fayenne
+-Artist:2SkzcKYjJ0fRWKZMTB2DMC #  Moonglade
+-Artist:3mRwwqUZr0C6qv48KQaTA1 #  Zad
+-Artist:0pLFJEoYAF87B6LU5uXxFn #  darkWind
+-Artist:0ACSUFsIi1K1ksv8jKHnJx #  Sigh
+-Artist:6fB34AF855g3nh8P2zuhy3 #  Joyless
+-Artist:2gyVL1um2Sw0NUgHHIfEpa #  The Horrorist
+-Artist:0PekJc8BKTGLkGKnZGUaF0 #  Double Dose
+-Artist:09M3JufmS8kzs9LPB27aLh #  Faron
+-Artist:2C8YGxYqhf8Tg0vzEys5Kr #  Dxpe Dylan
+-Artist:0dz3zGrWuLhEZrY9QGmRDk #  D.C. the Savage
+-Artist:3PEz2oW8tncfz4La5JaDtp #  Lodge
+-Artist:7kNk0SkIrksxVblb60XNMA #  Elathan
+-Artist:4pmhXI28rsmNVhvrXh4Sj2 #  Detest
+-Artist:1Pl4AY7yyNBLEgxJrNDEO2 #  Redox
+-Artist:0q3rSaU4gD0T1Y6Gv19dYg #  Sam Caldwell
+-Artist:6emLva0MhgKhAuQ4rgLoBG #  Evol
+-Artist:1i9boYyWPAZZLSrDcIov6U #  Gxxfy
+-Artist:5yOpyy8jX6SR06H80Esect #  Zuy
+-Artist:7LeHdLOuiySZgt7ewdckbX #  Afterlife
+-Artist:6T4bHeSo6IlGF6vmN1ilxh #  Suicide Forest
+-Artist:2W2AeHqNIUvhlOtqt1u6Ry #  Providence
+-Album:1aRhu0xtlPbAb1X8us0uOD # folk songs by that one lady
+
+-Artist:661471zR96CJGBs7sViYvL #  Dismal
+-Artist:5ofAqkUU7OQJgOgN7DpjyP #  Cernunnos
+-Artist:0Bf6zx1KsoDT3w0fI7VpWK #  Zuzana Hakl
+-Artist:1qZB0J4MRz1xXZFLQ1Wee9 #  Geminite
+-Artist:2vWU6Nh2uoapOUL7MtEJfe #  Zad
+-Artist:1fYQUXDkq8891ofd1YkcVE #  Cryogenic
+-Artist:5vqCdSabqzPOTPvsuZKkc9 #  Flowtec
+-Artist:4bSt8UpLlu3w9PVMbbM2Cp #  NYX
+-Artist:5kprXLL3gR3GifRFg7CeUz #  DRYAD
+-Artist:5NdT3wporBV93QxoOyNRpO #  Frostbite
+-Artist:5Tm4ZUUwuNHUvNiljEx8cX #  Craven
+-Artist:1jjpp3luboOaaiorg1sXcS #  Mynameisbleu
+-Artist:19YhruRrQw4r54gzKsueEI #  Sigh
+-Artist:4PdWhVbc6dPIo9amL0jVvV #  Bovary
+-Artist:6QYKwJCNw8TOagS6hWKu0T #  Hawthorn
+
+-Artist:0bOSAPkFoTUw2zP36Ux7rE #  Dolch
+-Artist:73p1Bqqjs3uimqHv8BCthF #  WINGED
+-Artist:7MubbTDLkJ8bVQtfbdLit3 #  Valkyrie
+-Artist:2etAPiLAKf7XOQwmoVbsGP #  Nine Callisto
+-Artist:16Obtkg2IWryTpErZny87j #  Valkyrie
+-Artist:208ZUd6oCC4n74nHGxohZc #  Jake Knight
+-Artist:6rJPCPv9Nf0AeCFYCDNTZd #  Sinister
+-Artist:7ChWed72SVaNKJYzZkwcAA #  Aherusia
+-Artist:55szUXqPj531x961fTZEMB #  Hardsounds
+-Artist:4Vlmuk0gE3Zp7KnoN3QQfd #  Nictofilia
+-Artist:3xf9tq8VZybgZ48QnxyTNr #  MOR
+-Artist:2WDaFa7CWykoSxVyh2jkBr #  Markhor
+-Artist:6XkvaMSDLYcjkSNZF9Gaah #  Bleeder
+-Artist:13qmbtWUvLnO5nwsavIupI #  Blitzkrieg
+-Artist:46BJbJncKOdTse8p3KsIU2 #  DAKU
+-Artist:4rvGDBdgNX1TOQF2djvZuV #  Md
+-Artist:6jd5B6x28bxLJFROhQ0jgu #  Sinister
+-Artist:503jMzlAxbEpfltywmU45E #  SOE
+-Artist:5CK0GUy6VBZ72CI7jkdixy #  Violet Moon
+-Artist:26afg4mk75ImovetMHBb3q #  Jaymal
+-Artist:3c8zLbcRtk5kjttSC73GjM #  Produced By Kamikaze
+-Artist:45bQG8vd1yDjmDiSPC23As #  False
+-Artist:5IS8IdBZd7qOWwuHhH0P3G #  Morak
+-Artist:2IKNB699QaQBWfehTCm7Ux #  HECATE
+-Artist:03gzaCXYdHmN3GsR1R5zAy #  LONELY STAR
+-Artist:5XkvjaKECp4f3LUT2EJX4D #  MALLY
+-Artist:7cACKxZylpfVGqoM83tmto #  PRETTY TDH
+-Artist:2iIykN1nVl4ZxVvVvfY8Ci #  Vinterbarn
+-Artist:77LWQfycyAtBuKgn1kGPbm #  HeXer
+-Artist:11SXbOVeg2f0QLIsOZZW6a #  Covenant
+-Artist:0DXWckJrjkevjgjDiskm8m #  Hecate
+-Artist:2dEGIYt9cIGWdOsZquGGfT #  Side Waves
+-Artist:78dLjSk68xKtmmeUZdJiCs #  Nictofilia
+-Artist:2T2OU4YxN2vcvqSILgl8wY #  Uranus
+-Artist:2FYGC0bFOUqwuy7zlsoiTh #  Karbal
+-Artist:7xToGDUNHq1ioqbyP3ckMf #  Naven
+-Artist:7C3Uj0rtqLeiNwAmTeO5Ky #  The Witch
+-Artist:40Tvc0YqFTtmJgaqnNiSX4 #  Michy De Angelis
+-Artist:4GoSrVx3CrnWCvJGbOCduF #  Frank K Pini
+-Artist:3etXoHA3i5qQLCzGtMfECO #  Evol
+-Artist:2fMwfDqpwXN5VcwukokTz6 #  Evol
+-Artist:6OhpU7O2A3Y8NuUIKVfMVJ #  2AM
+-Artist:2qtNQPW8w5OIA1vMeni86a #  Enrico D'Amico
+-Artist:1HFFghmCz3XQByd8BqtMp3 #  Weezy
+-Artist:2uGx12OVkVeQ5z6jOhsRoR #  Dask
+-Artist:4s9HJ2zLde7mncs78ye0Ez #  Dask
+-Artist:1OXSpqiNXNSrXFScD48fg7 #  Redox
+-Artist:60xN7p4nsgZ8VaN677PBch #  MARS MANTRA
+-Artist:7tDWhwmYL0iTl4lA04jtw1 #  Mythic
+-Artist:4Pw3p66i06iOmtVtEE0U7F #  Deathonate
+-Artist:2TK6zWunJejAD4hzioyQ36 #  Saros
+-Artist:5MDdAC5nfnmiXNDxKeU2Eg #  Moonglade
+-Artist:4Qxmyr0HGQhz6z7en47W4a #  Covenant
+-Artist:0L57c1GtgWcYzJ7fvgBIBE #  Giiants
+-Artist:0q6QW3UMmQgKhvDz8997aE #  Bonfire
+-Artist:2fnzoYnIG6Nerppg1w4e7i #  Amorte
+-Artist:5qSEyXASarYcmusWDpPo81 #  KRANG
+-Artist:0UIf2o8u8PeXFfkwMQGyN1 #  Atrus
+-Artist:6Ya7KScLBrUodVY4dBhtnB #  Xolotl
+-Artist:36AuD5OkRaB2QcWUQ2bFeH #  Desecration
+-Artist:5Xoi8eqgs2EPlOWYpEWQHU #  Nema
+-Artist:2jgBQPzCCbTspfzv8Z0Fu3 #  Туман
+-Artist:4zBdZhUzinlpeUerys6vy6 #  Sigh
+-Artist:0xq6H4WZKLJxtzgyF2pyz1 #  The Witch
+-Artist:2xX40yn6TfOeCVFMWjBGFG #  Craven
+-Artist:0DiFGAYVR4tUSBqPIn20ZT #  Tartarus
+-Artist:5OzzR6tnKcNW0DwfwGtl87 #  Hexer
+-Artist:4wMkHInfNwMjJFVOMsAaE2 #  Rage Hoover
+-Artist:3oMuALMGNkRZ5OZaktx8s0 #  Luis Add
+-Artist:68foNfXkscvR8qkzoUmfYS #  Dask
+-Artist:0QAr50oDaeD5IMxRMl6YdG #  Rug
+-Artist:69nMDWnVXYjgqJRpRiWy7g #  Taufique Muzic
+-Artist:2ozqW0fCkcFYds6DQi9bop #  Sinister
+-Artist:6YKZEfMscxXcqk2iRT9Bhg #  Bonfire
+-Artist:1U5FlgCSnU8vvZpKUSuZCS #  Sedna
+-Artist:6y6YA3Ij3pOn5YkARZ9FIv #  somnus
+-Artist:4bwPsEDJ85jtEklzs9BTYK #  Despise
+-Artist:2SntDYlqeOdiW2KeB48d2b #  Mythic
+-Artist:3HBK12ak0DI8wGf0RgW2SL #  Apostasy
+-Artist:6FCtHC5drxw1GRHNQ2Nyt2 #  Frostbite
+-Artist:2EwF2gYoW8W9iJZZywJnhH #  Afterlife
+-Artist:6RP1K1wkZspPke5e7QohWv #  Neve
+-Artist:7sX10yz8KkNhuXboDu6m3r #  Panta Ray
+-Artist:1HuGqnZr4OtghjZX881zr2 #  Jacques Chillax
+-Artist:0hXzDHmgD05vZPXm80fTkY #  Meshac
+-Artist:0qC2SI9OFSf8kPxojvf5pg #  Déborah
+-Artist:3G1p8qrQt86s9XYfeuQqma #  Ragana
+-Artist:1Vmrp5lle2v6lhiIt0abpN #  Myrkur
+-Artist:7DcpDiMLwYnC2coVzFH9Ph #  Ethereal
+-Artist:5eahdXWKqyfeSrfJhK5n5r #  Draconic
+-Artist:3nzs6bowitMirGXyGQ72Qx #  Amesoeurs
+-Artist:2vIkCRyQkyCAIE2SKK29xf #  Streben
+-Artist:1xU878Z1QtBldR7ru9owdU #  Phoenix
+-Artist:6Oea8iw8kd4z4fUOAMPP4m #  Bovary
+-Artist:2FalZFSGkNN66DLHbpkTUv #  Cryogenic
+-Artist:0BRolOQvyYtPIT0CNVTyg3 #  Acamar
+-Artist:43qiJZNk28uEng7UEBJVBz #  Dark Tales
+-Artist:1XtIfyGTXfSC7pdWmtuA26 #  Todtgelichter
+-Artist:0QDWhtzcUKyJCw2xSsklYY #  Sinergy
+-Artist:1eArw5nz7c5nEpjXy2Pskw #  Neurothing
+-Artist:428JBcwV33GXF2d3GqWYHO #  Craven
+-Artist:3BfQJmKR1TQxI7RTBiJUWH #  Sedna
+-Artist:31lYb6bPaTj3ys2RFmjQ81 #  AD Inferna
+-Artist:6tM1Ee7vvwLgBQIGbmWoEd #  Sinergy
+-Artist:0588LtEoG0T4gPRVwslqv2 #  Korova
+-Artist:25YPLpodXNdAVgmTQcvcVC #  Rug
+-Artist:3ACbVQlfUaW0Qm2DDe5T18 #  Evol
+-Artist:6s4vwEPGtL6GSmedKlGpDa #  Covenant
+-Artist:7y3k78OCkHP2c26mY1P43a #  Krang
+-Artist:0d8ysjxCVUOv4a5woB2CDp #  Strega
+-Artist:6RbgY5OdhFZ0qPGg9sieSi #  Nema
+-Artist:0skvtNuTIfsVQqH1BanRCX #  Tsarina
+-Artist:1YoxFkZXJDpoJiwMgkaufX #  Sinister
+-Artist:0oad1RRAiN1UpaOWbIB0EW #  Saint Punk
+-Artist:4Aev2C886Vrz69nU66gzi2 #  Evol
+-Artist:2BsrzEqKs274GNGypLoxqD #  Cryogenic
+-Artist:3qcJaihgzOvKmOg9UAJ2KA #  Gawk
+-Artist:6NlNcCpYc2adrM6qMwbwLj #  Zelada
+-Artist:1X5q9rIt5kQ4JVgxrKsIha #  Somnus
+-Artist:2Cbao7qlH6EyjGo2MeHNLW #  Naven
+-Artist:2YaYNpTFVmEgw57N27R8Cu #  Craven
+-Artist:2dKZypJTEFmqwehvMnIsWM #  Zak Joshua
+-Artist:7hLu3c1aJqdqemTqD0afwC #  Providence
+-Artist:66i2eh5j3xoAWl7gfKD9G6 #  Fanatic
+-Artist:454eECORMCJhObH01Bm1Pv #  Bayer Full
+-Artist:4NWg4g7MdfWaxmFTVjFvG7 #  Redox
+-Artist:5E61OnYiCe8b4XBnPmjAkr #  Mister Dex
+-Artist:1Kv0qQXJwludvBxicX3SZP #  Tartarus
+-Artist:7ckh13u6RiY2FJdio0A2xE #  Hecate
+-Artist:03MdoyI8Rba5wVMNdDQ7hi #  Frostbite
+-Artist:3FO3yG4PDHGfbosZX64irS #  Lodge
+-Artist:073MaTDxPq1nQ5JcODcfb5 #  Thrall
+-Artist:6DC6EhWgLdypIw5y8mIAbu #  Aureal
+-Artist:2bc63dYCMGcCVzFRDDyxH9 #  Tartarus
+-Artist:2K5S4DKFct66G76ZVyJA0i #  Valkyrie
+-Artist:12A83CWwFiyXy90ScLWPIe #  LIZOT
+-Artist:2ytXAUlfstEUhiJof7mdPD #  NATAN
+-Artist:4dhMdOjG35quYoRkRSU6bK #  Frostbite
+-Artist:1z1ctFe6fCr5aZnCGKt6rN #  Slaine
+-Artist:0gxKIqjKb7nMwrLgyL2bsK #  Crummz
+-Artist:1M2DZ0t5hEKDXJCsyIPEKu #  Sedna
+-Artist:3kdPTAYD5fOnq68OSpgvWD #  Joyless
+-Artist:5sQOcPEkIvztjRIDrjVLEe #  Valkyrie
+-Artist:6GFS6sKpp1MvR11dvtVhWa #  Jamie Carriere
+-Artist:132KgltDcqLgAqXU3QPuNT #  T-Rhyme
+-Artist:0GVP6vGuK1UqTYhWUHpYBd #  Gorgon
+-Artist:76GRn2M9W4B8qoIuL9pL80 #  Sigh
+-Artist:0vbiqisZhSQzHnSwbzqLmz #  Sinister
+-Artist:4oHYGd3e91HmuItxci2oh1 #  Covenant
+-Artist:6s4y7vGdL4UrREsrmz9Oy2 #  Sinister
+-Artist:4C6xDIhVPYAh3CuWtpW4u5 #  Mythic
+-Artist:5zuj50qAKsoooIkQbdXVnJ #  Queen Coakley
+-Artist:640rRSFY5H9V6hnS0JAVb1 #  Hawthorn
+-Artist:7nrje6RDLUpfKMIzuPIVNG #  KRANG
+-Artist:3P4TGIauG2RsXGfBDSTXom #  Dos
+-Artist:048mx5qVYxDIsfsbps1kj4 #  Providence
+-Artist:4zwXHIRJTN8R159sWQTo5m #  Tsarina
+-Artist:4wqxGet1SbDDfvatvOTOsk #  Krang
+-Artist:6b44cOAKLus6apxNDAOIFc #  Suicide Forest
+-Artist:4lh7iXXlN3TZeH1SItpFYb #  Black Table
+-Artist:1ev7PlqDfheM9uQr7KznPL #  Pleaser
+-Artist:1vHXk0EFbVQN8pKD2363fv #  False
+-Artist:7pIPTBQ4ZbWg9RjV8s7NlQ #  REDOX
+-Artist:0QGf9eXoQrw9OtoFraBdeI #  Vindicta
+-Artist:514ZFQ1wcW8PCPq4FTzBJY #  Sigh
+-Artist:2e6WdKGFlWwaP2Ce7Z3p2i #  Adore
+-Artist:04a9pLJ1pFRNGPPLeaACHG #  Cryogenic
+-Artist:2dZP2zTTtROzlHLeNttJ2P #  Trailer Park Pope
+-Artist:36r4ltZmLqtiDBdAs9XSqn #  NxxxxxS
+-Artist:0A6NOpVteQELrEJL1d4hgX #  Mythic
+-Artist:17yY2qFyeOWefPR9RFH8c9 #  Nictofilia
+-Artist:67lVupLilpkPx6iW5PQ0pY #  Mari Froes
+-Artist:5DuNIESULPBI2Tr1ENFMIR #  Macbeth
+-Artist:15Tra1ytu0naoNByIhZArl #  Kim Kyung Ho
+-Artist:0a5JcWqYvVQFOGWt6SxvL7 #  METHOD
+-Artist:3jJ1rOmznRHDDGnU60vO6i #  VASSLINE
+-Artist:0cVAshUDQXzj7LUBq9BLLl #  Remnants of the Fallen
+-Artist:27ztYHDlyrko7J1Qe3K8b0 #  Dark Mirror Ov Tragedy
+-Artist:4xS1C9pM9EoHEM1Gxxzf4m #  ABTB
+-Artist:1GZ4Uvp24ONgEzNrweNdaB #  A'byss
+-Artist:6JWrNB3ufB6QvsV0Qeah2O #  Kim Sounghun
+-Artist:4S4sxnI0Kad5rACzgimKn6 #  주상균
+-Artist:0Bexw6wzjWSeWdRPTIrTeU #  MEMNOCH
+-Artist:49GFsYWe0dutqMzKp8iXWD #  Sinister
+-Artist:1nlGP1pHTBla5j9jfijUwx #  Korova
+-Artist:0tisrzeGmFse6RLnx3BkOn #  Uranus
+-Artist:7aiIIPZtSgcrmdTRXQJK2c #  Mercy Brown
+-Artist:2zjsuG7xmBsvyImhJrwntK #  Dehumanize
+-Artist:0CIc1v1njTYxvr6VBRYm6A #  Korova
+-Artist:21VA1j9thh3LHkEVcbluDE #  Bonfire
+-Artist:0L4ck2zYVy2UUgwIwlJJb9 #  BaReign
+-Artist:2QLKxqyQRtFp77DEelSDFe #  Providence
+-Artist:5WSfF96ZBsAxxs2CXhX3p9 #  Jellil do Rego
+-Artist:1Vaz8GEh1wbxZNlGqdiW14 #  Sigh
+-Artist:5KNHG3W7zYkLxTOzLwfL8Z #  Grammo
+-Artist:1294dVI0ikTcBpr3uqUrZr #  YoungNori
+-Artist:4bdqv1CK6D4Teits7wlKVP #  Krang
+-Artist:0yh6ZvqsYBJk7huBHSvHcL #  Snorlax
+-Artist:2ftJlez6UudaIrITviiQgY #  Mythic
+-Artist:79RibUw84EdTyKkYKB4vLi #  James Hall
+-Artist:3XycbmcKERStv5IxYhBgZM #  Afterlife
+-Artist:0obpXguKxlrWaaHhnvBp32 #  Afterlife
+-Artist:4DX8qGEmFCvPud2zyuhyTH #  Evol
+-Artist:0rIROc9qyjwndVoDFa2WD0 #  Frostbite
+
+-Artist:66SRGSUWA26P7hEIEodl9w #  Adore
+-Artist:7nU8MC37CC7UsWktxyaFrp #  Dismal
+-Artist:4euDK3DaDCdpKyXQmIPoQF #  SheveR
+-Artist:2cV6KwiCELdEfsIPibICgq #  Providence
+-Artist:7y1hV1CxVdcfMjAjMS25OE #  Covenant
+-Artist:72F3UYArsYBNSxKIX0YHIC #  Gabby Perkins
+-Artist:4gHmTkSAd0VBDGgtsekgts #  Somnus
+-Artist:0lSg3aveInYBE3FoaO1wib #  Nictofilia
+-Artist:4M67zbSOEDuf91SYlrd7ek #  Frangly
+-Artist:0kTX6TbEol1Q3aAwywoQ2S #  Draconic
+-Artist:4FAHRqEgMiutvBnTeoXwyS #  JOYLESS
+-Artist:450qB1X38iSr2kwCXdDpeV #  TRINACRIA
+-Artist:0K45i8KRJZK8iSrAlL5m5h #  Nema
+-Artist:2kOA8kfaSnjun28IDUqFoz #  Trobar Clus
+-Artist:0s7sRYlawCCJc4cjK03vVO #  snorlax
+-Artist:0NFi9EJmtBho05hllwq66V #  foxglove lofi
+-Artist:6CVYtrpTqSmAwSrl0NxD9f #  Dismal
+-Artist:3GW5Tp2rF8RTV90ZngJPwF #  Straightout
+-Artist:4OxGO3DRk9HrwlOUG64gpt #  Adore
+-Artist:4pINd1gsmHkqbvuNDwrs2q #  Nyx
+-Artist:16VrM8yvZSxtFEvwcm5mDZ #  inserT.producT.Here
+-Artist:7d4RdAHMHYrZ0csleutTla #  HEXER
+-Artist:63UWoMbk1CQ5Yk2O5bChVV #  Ghvst
+-Artist:5mzQQFMsTBUqRM3mG5SMCD #  Nyx
+-Artist:4RNKRRN5FAqraESTWW9V87 #  Xolotl
+-Artist:6JpBhMV3vBJclXkD9cObHd #  Providence
+-Artist:4h6fF0qhOl9MNjE85UoWX5 #  nemA
+-Artist:40X7tXw4Tk4m5WFDfGJnZe #  Sonny Zero
+-Artist:4JLZJ6s7YH3yiwFmi6uZgf #  Pyrrah
+-Artist:4EvMsRay62teze0MoH5idT #  Hexer
+-Artist:1taQIxFMiGqnLPE0ieFlrb #  Mythic
+-Artist:4z5vGKQkF8igK1HOvTA2uL #  Nyx
+-Artist:1WxXoUEF3FnqDWNuJ4uBsx #  GAWK
+-Artist:2azE5O5mm6cZKVThJPrSIY #  Ahmadassundawi
+-Artist:135gYIRXAwhRKtFIh8mehP #  Semargl
+-Artist:135gYIRXAwhRKtFIh8mehP #  Semargl
+-Artist:135gYIRXAwhRKtFIh8mehP #  Semargl
+-Artist:31IU9U4cHAO5tPOy8qtTWE #  Evol
+-Artist:3WCXePZ1J03e2VVqU5sWWK #  Gorgon
+-Artist:2yQN9MA0I58zAeSbzieGMS #  Providence
+-Artist:3k9OoG8uV3Z67EUHHYPnYI #  Saros
+-Artist:5dEDf5l1Nz5k7zapz0jLBz #  Afterlife
+-Artist:2M25CQcoRUlPzEiXhRneEx #  Dismal
+-Artist:2EX1sx6sqnVUndanhxi33Y #  WAIO
+-Artist:3Py6IDRA3OVdrQxn3kC67i #  Laughing Buddha
+-Artist:3h8ai5fGAudfKEhxUTBIad #  Frostbite
+-Artist:2rMCDuYsBN1j6JOSUAEWiw #  Detest
+-Artist:6zn0izHq6hShiK9H6jID17 #  Motormouth Recordz

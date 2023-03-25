@@ -1,0 +1,13 @@
+@default:AllByArtist
+@LeaveImageAlone
+
+Golden Light
+Andvari
+Cave Mouth
+Crown of Asteria
+Enon Chapel
+Great Cold Emptiness
+6hXonF1DK45IuMCemMiyD2 #Heksebrann
+Iarnvidjur
+Tomblord
+-Artist:5FKFbl2AqE6xL5bMEkXk4y # wrong cave mouth

@@ -1,0 +1,6 @@
+@default:LikesByGenre
+
+atmospheric black metal           
+ambient black metal               
+album:Old Sorcery:Sorrowcrown	# normally does dungeon synth, but damn, this album is good
+Evilfeast			# probably already labeled atmo black but eh

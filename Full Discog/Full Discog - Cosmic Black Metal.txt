@@ -1,0 +1,22 @@
+@default:AllByArtist
+@LeaveImageAlone
+@updatesort
+
+Darkspace
+Forhist
+Darchon
+Almyrkvi
+Mesarthim # two spotify artists but they're the same irl artist
+Synodic 
+
+Album:Urfaust - Empty Space Meditation
+#Nebula Orionis - Starthrone if not all of Nebula Orionis
+#they have other spacey albums too, but not all of them are, riftgate and spacecovers
+
+-artist:39KXbYbNytDdBoxLkrIwAB # an unrelated Darkspace
+-Artist:6U8ggExzo4lywwLH03GrRQ #  Dark Space
+-Artist:6oZy4Wucyubh2UzV59gHYN #  King Marino
+-Artist:31u1oSpRKJLC7VxkAjVjdh #  Saddoc
+-Artist:5L5xPJUwOFRwmsLeomj0xv #  Novuh Kaine
+-Artist:4A3YPkGqRQrCpYU5EF1UzI #  Rocko Tesla
+-Artist:2Fy5gf1UQY332twQmg1gfw #  Nyukyung

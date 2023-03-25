@@ -1,0 +1,346 @@
+@sort:don't
+@default:album
+@limitperalbum:1
+@runonce
+@UpdateSort
+#-Genre:*Christian*
+
+Blind Guardian - The God Machine
+Immolation - Acts of God
+Negative Plane - The Pact....
+Sumerlands - Dreamkiller
+Voivod - Synchro Anarchy
+White Ward - False Light
+Sigh - Shiki
+Blut Aus Nord - Disharmonium - Undreamable Abysses
+Messa - Close
+Autonoesis - Moon of Foul Magics
+Satan - Earth Infernal
+Wormrot - Hiss
+Darkthrone - Astral Fortress
+The Chasm - The Scars of a Lost Reflective Shadow
+Amorphis - Halo
+Ashenspire - Hostile Architecture
+Deathspell Omega - The Long Defeat
+Ares Kingdom - In Darkness at Last
+Evil Invaders - Shattering Reflection
+Ghost - Impera
+Misþyrming - Með hamri
+Riot City - Electric Elite
+Cauldron Born - Cold Steel for the Necromancer 					# not on spotify
+Pharmacist - Flourishing Extremities on Unspoiled Mental Grounds
+Sonja - Loud Arriver
+Autopsy - Morbidity Triumphant
+Stratovarius - Survive
+Avantasia - A Paranormal Evening with the Moonflower Society
+Imperial Triumphant - Spirit of Ecstasy							# typo, fixed
+Blackbraid - Blackbraid I
+Drudkh - All Belong to the Night
+Aeviterne - The Ailing Facade
+Threshold - Dividing Lines
+Artificial Brain - Artificial Brain
+Inanna - Void of Unending Depths								# not on spotify
+Watain - The Agony & Ecstasy of Watain
+Véhémence - Ordalies
+Kreator - Hate Über Alles
+Fellowship - The Saberlight Chronicles
+Cult of Luna - The Long Road North
+Allegaeon - Damnum
+Hath - All That Was Promised
+Gevurah - Gehinnom
+Kvaen - The Great Below
+Moonlight Sorcery - Piercing Through the Frozen Eternity
+Devil Master - Ecstasies of Never Ending Night					# typo, fixed
+Wake - Thought Form Descent
+Revocation - Netherheaven
+An Abstract Illusion - Woe
+Luzifer - Iron Shackles
+Sakis Tolis - Among the Fires of Hell
+Grand Belial's Key - Kohanic Charmers							# not on spotify
+Steel Inferno - Evil Reign
+Phobophilic - Enveloping Absurdity
+Megadeth - The Sick, the Dying... and the Dead!
+Persefone - Metanoia
+The Antichrist Imperium - Volume III: Satan in His Original Glory # on spotify, worked in isolation
+Grenadier - Trumpets Blare in Blazing Glory
+Hammers of Misfortune - Overtaker
+Wędrujący Wiatr - Zorzysta staje oćma
+Ripped to Shreds - Jubian										# right but has extra symbols
+Destruction - Diabolical
+Haunter - Discarnate Ails
+Wiegedood - There's Always Blood at the End of the Road			# typo, fixed
+Horn - Verzet
+The Halo Effect - Days of the Lost
+Aara - Triade II: Hemera										# seems fine?
+Power Paladin - With the Magic of Windfyre Steel
+Gaerea - Mirage
+Arjen Anthony Lucassen's Star One - Revel in Time
+Wilderun - Epigone												# "bonus tracks" in album name
+Avatarium - Death, Where Is Your Sting
+Decapitated - Cancer Culture
+Ataraxy - The Last Mirror
+Trhä - vat gëlénva!!!
+Belphegor - The Devils
+Wolf - Shadowland												# missorted
+The Otolith - Folium Limina
+Ultha - All That has Never Been True
+Fer de Lance - The Hyperborean
+Undeath - It's Time... to Rise from the Grave
+In the Woods... - Diversum
+Trial (Swe) - Feed the Fire
+Oceans of Slumber - Starlight and Ash
+Battle Beast - Circus of Doom
+Heaving Earth - Darkness of God
+Nocturnal Triumph - Nocturnal Triumph							# missing
+Early Moods - Early Moods
+Razor - Cycle of Contempt
+Worm - Bluenothing
+Saxon - Carpe Diem
+Daeva - Through Sheer Will and Black Magic
+Verberis - Adumbration of the Veiled Logos
+Faceless Burial - At the Foothills of Deliration
+Venator - Echoes from the Gutter
+Meshuggah - Immutable
+Scarcity - Aveilut
+Nechochwen - Kanawha Black
+Protector - Excessive Outburst of Depravity
+Borealis - Illusions
+Origin - Chaosmos
+Sanhedrin - Lights On
+Disillusion - Ayam
+Suppresion - The Sorrow of Soul Through Flesh
+Saor - Origins
+Darkest Era - Wither on the Vine
+Skull Fist - Paid in Full
+Grima - Frostbitten
+Spell - Tragic Magic
+Stormruler - Sacred Rites & Black Magick
+Djevel - Naa Skrider Natten Sort
+Soilwork - Övergivenheten
+Molten Chains - Orisons of Vengeance
+Dark Funeral - We Are the Apocalypse
+Arch Enemy - Deceivers
+Seventh Wonder - The Testament
+Fallujah - Empyrean
+Deathhammer - Electric Warfare
+Saidan - Onryo II: Her Spirit Eternal
+Kampfar - Til klovers takt
+Lorna Shore - Pain Remains
+Asunojokei - Island
+Panzerfaust - The Suns of Perdition - Chapter III: The Astral Drain
+Hate Forest - Innermost
+Behemoth - Opvs Contra Natvram
+Mizmor/Thou - Myopia
+Bran - Odcházení
+Archgoat - All Christianity Ends
+Hangman's Chair - A Loner
+Mournful Congregation - The Exuviae of Gods, Part 1
+Sadist - Firescorched
+Paganizer - Beyond the Macabre
+Cloud Rat - Threshold
+Imprecation - In Nomine Diaboli
+Destroyer 666 - Never Surrender
+Armory - Mercurian
+Stangarigel - Na Severe Srdca
+Cosmic Putrefaction - Crepuscular Dirge for the Blessed Ones
+Schizophrenia - Recollections of the Insane
+The Temple - Of Solitude Triumphant
+Dream Unending - Song of Salvation
+Tony Martin - Thorns
+Visions of Atlantis - Pirates
+Vermilia - Ruska
+Septicflesh - Modern Primitive
+Malthusian/Suffering Hour - Time's Withering Shadow
+Konquest - Time And Tyranny
+Toxik - Dis Morta
+Swampborn - Beyond Ratio
+Miscreance - Convergence
+Esoctrilihum - Consecration of the Spiritüs Flesh
+Marrasmieli - Martaiden Mailta
+Scorpions - Rock Believer
+Ozzy Osbourne - Patient Number 9
+Cauchemar - Rosa Mystica
+Terzij De Horde - In One of These, I Am Your Enemy
+Conan - Evidence of Immortality
+Candlemass - Sweet Evil Sun
+Assumption - Hadean Tides
+Inexorum - Equinox Vigil
+Gudsforladt - Friendship, Love and War
+Bloodbath - Survival of the Sickest
+Friends of Hell - Friends of Hell
+Ash of Ashes - Traces
+High Command - Eclipse of the Dual Moons
+Mirror - The Day Bastard Leaders Die
+Spiter - Bathe the Babe in Bats' Blood
+A Pale December - Death Panacea
+Heltekvad - Morgenrødens helvedesherre
+Tome of the Unreplenished - Earthbound
+Glemsel - Forfader
+Kardashev - Liminal Rite
+Eric Wagner - In the Lonely Night of Mourning
+Nite - Voices of the Kronian Moon
+Cloven Hoof - Time Assassin
+Vital Spirit - Still as the Night, Cold as the Wind
+Critical Defiance - No Life Forms
+Therion - Leviathan II
+Chaotian - Effigies of Obsolescence
+Hissing - Hypervirulence Architecture
+Hell Fire - Reckoning
+Kathaaria - To Be Shunned by All... As Centres of Pestilence
+Midnight Rider - Beyond the Blood Red Horizon
+Soulfly - Totem
+Nostalghia - Au milieu de l'hiver
+Vio-Lence - Let the World Burn
+Temple of Void - Summoning the Slayer
+Incandescence - Le Coeur De L'homme
+Shadow of Intent - Elegy
+Vorga - Striving Towards Oblivion
+Soreption - Jod
+Sedimentum - Suppuration morphogénésiaque
+Abhor - Sex Sex Sex (Ceremonia Daemonis Antichristi)
+Dragonland - Power of the Nightstar
+Månegarm - Ynglingaättens Öde
+Spiritus Mortis - The Great Seal
+Elder - Innate Passage
+White Rune - Dawn of the White Rune
+Woods of Desolation - The Falling Tide
+Lifvsleda - Sepulkral Dedikation
+Det Eviga Leendet - Reverence
+Tòmarùm - Ash In Realms Of Stone Icons
+Brymir - Voices in the Sky
+Skid Row - The Gang's All Here
+Predatory Light - Death and the Twilight Hours
+In Aphelion - Moribund
+Raptore - Blackfire
+Celeste - Assassine(s)
+Tchornobog/Abyssal - Split
+Bâ'a - Egrégore
+Metalian - Beyond the Wall
+Owls Woods Graves - Secret Spies of the Horned Patrician
+Sumerian Tombs - Sumerian Tombs
+Boris - Heavy Rocks
+Parish - Parish
+Black Fucking Cancer - Procreate Inverse
+Corpsessed - Succumb to Rot
+Devin Townsend - Lightwork
+Eliminator - Ancient Light
+Luminous Vault - Animate the Emptiness
+Sphere - Blood Era
+Shape of Despair - Return to the Void
+Krisiun - Mortem Solis
+Konvent - Call Down the Sun
+HammerFall - Hammer of Dawn
+Sisyphean - Colors of Faith
+Come to Grief - When the World Dies
+MMXX - Sacred Cargo
+The Troops of Doom - Antichrist Reborn
+Emissary - Emissary
+Horns & Hooves - I Am the Skel Messiah
+Tankard - Pavlov's Dawgs
+Pensées Nocturnes - Douce Fanges
+Jade - The Pacification of Death
+Exhumed - To the Dead
+Wolfheart - King of the North
+Marc Urselli’s SteppenDoom - SteppenDoom
+Trollfest - Flamingo Overload
+Misery Index - Complete Control
+Evergrey - A Heartless Portrait
+Altars - Aescetic Reflection
+Dark Millennium - Acid River
+Wind Rose - Warfront
+Ultra Silvam - The Sanctity of Death
+Lord Belial - Rapture
+Knoll - Metempiric
+Matenrou Opera - 真実を知っていく物語
+Misanthropæ - Untitled
+Stryper - The Final Battle
+Lord Vigo - We Shall Overcome
+Tomb Mold - Aperture of Body
+Witchslayer - Witchslayer
+A Sound of Thunder - The Krimson Kult
+Coldworld - Isolation
+Jani Liimatainen - My Father's Son
+Vórtize - ¡Tienes Que Luchar!
+Amon Amarth - The Great Heathen Army
+Doublegeddon - Geddon Dangerous
+Falls of Rauros - Key to a Vanishing Gate
+Queensrÿche - Digital Noise Alliance
+It Doesn't Get Better - It Doesn't Get Better
+Mico - Zigurat
+Ufomammut - Fenice
+Hulder - The Eternal Fanfare
+Wampyrinacht - Night Of The Desecration: Les Jardins De Nyx
+De Profundis - The Corruption of Virtue
+Deserted Fear - Doomsday
+Xentrix - Seven Words
+Lustre - A Thirst for Summer Rain
+Firtan - Marter
+Rotten Tomb - Visions of a Dismal Fate
+Kontact - First Contact
+Live Burial - Curse of the Forlorn
+Order of Nosferat - Nachtmusik
+Species - To Find Deliverance
+Graceless - Chants from Purgatory
+Slaegt - Goddess
+Pure Wrath - Hymn To The Woeful Hearts
+Pyrithe - Monuments to Impermanence
+Midnight - Let There be Witchery
+Pestilent Hex - The Ashen Abhorrence
+Abyssus - Death Revival
+Die Apokalyptischen Reiter - Wilde Kinder
+Te Ruki - Marako Te Ruki
+Truchło Strzygi - Gwiezdny Demon
+Desecresy - Unveil in the Abyss
+Dreamtale - Everlasting Flame
+Judicator - The Majesty of Decay
+Molder - Engrossed in Decay
+Arrayan Path - Thus Always to Tyrants
+Eruption - Tellurian Rupture
+Traitor - Exiled to the Surface
+Universally Estranged - Dimension of Deviant Clusters
+Venom Inc. - There's Only Black
+Innumerable Forms - Philosophical Collapse
+Astronoid - Radiant Bloom
+Abbath - Dread Reaver
+Malevolence - Malicious Intent
+Nocturna - Daughters of the Night
+Thormesis - If Mania Never Ends
+Psycroptic - Divine Council
+Edenbridge - Shangri-La
+Sabaton - The War to End All Wars
+Aequorea- DIM
+Animalize - The Meat We're Made Of
+Church of Disgust - Weakest is the Flesh
+Vauruvã - Por Nós da Ventania
+Fallen Sanctuary - Terranova
+Mathan - Darkroot Tzantza
+Coscradh - Nahanagan Stadial
+Bomber - Nocturnal Creatures
+Monasterium - Cold Are the Graves
+Seizure - Forbidden Tales
+Validor - Full Triumphed
+Beyond Mortal Dreams - Abomination Of The Flames
+Fugitive - Maniac
+Kostnatění - Oheň hoří tam, kde padl
+Tzompantli - Tlazcaltiliztli
+Ad Noctem Funeriis - Abyss, Fire, Brimstones
+Bedsore / Mortal Incarnation - Split
+Miss May I - Curse of Existence
+Doldrum - The Knocking, or the Way Too Long Album Title
+Vacuous - Dreams of Dysphoria
+Lunar Spells - Demise of Heaven
+Astral Tomb - Soulgazer
+Black Death Cult - Diaspora
+Induction - Born from Fire
+Kaarne - Rubicon
+Vimur - Transcendental Violence
+Jungle Rot - A Call to Arms
+Maule - Maule
+Midas - Midas
+Obsidious - Iconic
+Corpsegrinder - Corpsegrinder
+Lordi - Abusement Park
+Morbific - Squirm Beyond the Mortal Realm
+Crowbar - Zero and Below
+Mortuous - Upon Desolation
+Downcross - Hexapoda Triumph

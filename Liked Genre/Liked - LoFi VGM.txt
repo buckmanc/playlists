@@ -1,0 +1,4 @@
+@default:LikesByGenre
+
+*lofi*
+-playlistartists:liked - lofi no vgm

@@ -1,0 +1,8 @@
+LikesByGenre:*symphonic metal*
+
+LikesByArtist:Xiphea
+LikesByArtist:2ptnIz20vfY42tWs37357w # Sacha something
+
+-artist:fleshgod apocalypse
+-artist:unleash the archers
+-artist:carach angren

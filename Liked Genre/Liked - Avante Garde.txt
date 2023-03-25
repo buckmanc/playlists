@@ -1,0 +1,6 @@
+LikesByArtist:Igorrr
+LikesByArtist:Pensées Nocturnes
+
+LikesByArtistFromPlaylist:6JXgCuj9eBDcCMT6qkOMog #the sound of avant-garde metal, could fuck up this playlist but we'll see
+LikesByArtistFromPlaylist:2J868NHUC4kB1immnc2jZn #2021 in avant garde metal
+-Artist:Myrkur

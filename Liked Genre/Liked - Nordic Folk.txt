@@ -1,0 +1,5 @@
+@default:LikesByGenre
+
+viking folk                       
+rune folk                         
+nordic folk                       

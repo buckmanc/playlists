@@ -1,0 +1,10 @@
+@default:TopByArtist
+
+# https://www.reddit.com/r/rabm/comments/ldi2tp/antifascist_alternatives_to_deathspell_omega/
+
+Imperial Triumphant
+Ulcerate
+Pale Chalice
+Plebeian Grandstand
+Serpent Column
+Rejoice the Light

@@ -1,0 +1,25 @@
+likesbygenre:dungeon synth
+#Evilfeast have some dungeon synth and some atmoblack
+
+# atmo black artists
+-artist:summoning
+-artist:midnight odyssey
+-artist:darchon
+-artist:burzum
+-artist:moongates guardian
+-artist:eldamar
+-artist:Evilfeast
+-artist:Emyn Muil
+-artist:0wmguM6RhXVAX7jqWWCQlK # Cantique Lépreux
+-album:Old Sorcery:Sorrowcrown # fantastic album, but it's not dungeon synth
+-Album:1SePwqHy1dfE8o7KsygEWE  # Old Sorcery game soundtrack 
+
+# dark ambient artists
+-artist:arcana
+-artist:Desiderii Marginis
+-artist:apoptose
+-artist:atrium carceri
+
+# other
+-Artist:1DO3ytbfXlJUOoy77yH7IH # Forndom
+-Artist:3TH8tc8N1s363bBYROkk9f # Wonders of Nature

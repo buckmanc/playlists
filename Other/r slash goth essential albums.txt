@@ -1,0 +1,105 @@
+@default:album
+@limitperalbum:1
+
+# https://www.reddit.com/r/goth/wiki/essentialgothalbums/
+
+Acid Bats - Cosmogonia
+The Agnes Circle - Some Vague Desire
+Alien Sex Fiend - Curse
+And Also the Trees - And Also The Trees		# album not on spotify
+Asylum Party - Borderline					# artist not on spotify
+Autumn's Grey Solace - Within The Depths Of A Darkened Forest
+Belgrado - Siglo XXI
+Bat Nouveau - Metamorphoses
+Bauhaus - In The Flat Field
+Bauhaus - The Sky's Gone Out
+Big Electric Cat – Dreams Of A Mad King*	# "(2021 Deluxe Edition)"
+The Birthday Party - Junkyard
+The Bolshoi - Bigger Giants					# title was missing an entire word
+Christian Death - Ashes
+Christian Death - Catastrophe Ballet*		# "feat so-and-so"
+Christian Death - Only Theatre of Pain
+Cinema Strange - Cinema Strange
+Clan of Xymox - Clan of Xymox				# missing, but on spotify?
+Clan of Xymox - Medusa
+Cocteau Twins - Garlands
+Cocteau Twins - Head Over Heels
+Cocteau Twins - Treasure
+Corpus Delicti - Sylphes
+Corpus Delicti - Twilight
+The Cure - Disintegration
+The Cure - Faith
+The Cure - Pornography
+The Cure - Seventeen Seconds
+The Damned - Phantasmagoria
+The Danse Society - Seduction*				# "(The Society Collection)"
+Dead Can Dance - Dead Can Dance*			# "(Remastered)"
+Death Cult - Death Cult						# missing, but on spotify?
+Diva Destruction - Passion’s Price
+Drab Majesty - The Demonstration
+Eat Your Make-Up - First Dinner				# artist not on spotify
+The Eden House - Smoke & Mirrors
+Fangs on Fur - Fangs on Fur					# artist not on spotify
+Faith and the Muse - Evidence of Heaven
+Fields of the Nephilim - Dawnrazor
+Fields of the Nephilim - Elizium
+Fields of the Nephilim - The Nephilim
+The Frozen Autumn - Pale Awakening
+Ghosting - Disguised in Black
+Horror Vacui - New Wave Of Fear
+Inkubus Sukkubus - Wytches					# typo in artist name
+Joy Division - Unknown Pleasures
+Joy Division - Closer
+Kælan Mikla - Kælan Mikla					# missing, but on spotify?
+Kælan Mikla - Nótt eftir nótt
+Kommunity FK - Close One Sad Eye			# album not on spotify
+Lebanon Hanover - Let Them Be Aliens
+Lebanon Hanover - Tomb For Two
+Little Nemo - Sounds in the Attic
+London After Midnight – Psycho Magnet		# different kind of dash; adding support for this
+London After Midnight - Selected Scenes From The End of the World
+Lords of the New Church - Lords of the New Church
+Lycia - Cold
+Lycia - Ionia
+The March Violets - The Botanic Verse
+The March Violets - Natural History			# album not on spotify
+Mephisto Walz - Insidious
+The Merry Thoughts - Psychocult				# album not on spotify
+The Mission - God's Own Medicine			# dupe, as a live version has an identical name
+Molchat Doma - Этажи
+Nosferatu - Lord of the Flies
+Nox Novacula - The Beginning				# album not on spotify
+Paralisis Permanente - El Acto
+Paralysed Age - Nocturne					# album not on spotify
+Pink Turns Blue - If Two Worlds Kiss
+Pink Turns Blue - Meta
+Red Lorry Yellow Lorry - Talk About The Weather*	# spotify version is a combo album
+Rosetta Stone - An Eye for the Main Chance	# album not on spotify
+Rubella Ballet - At Last It's Playtime		# album not on spotify
+Scarlet’s Remains - Palest Grey				# nearly identical dupes
+Scary Bitches - Lesbian Vampyres from Outer Space
+Scary Black - Are You Afraid of the Dark?
+Sex Gang Children - Blind!
+Sex Gang Children - Song and Legend
+She Past Away - Belirdi Gece
+She Past Away - Disko Anksiyete
+The Shroud - Drowning Dreams
+Siouxsie and the Banshees - Juju
+Siouxsie and the Banshees - A Kiss in the Dreamhouse
+Sisters of Mercy - First and Last and Always	# no "the" in artist name
+Sisters of Mercy - Floodland					# no "the" in artist name
+Sisters of Mercy - The Reptile House E.P		# no "the" in artist name
+Skeletal Family - Futile Combat
+Specimen - Azoic
+Specimen - Batastrophe EP						# album not on spotify
+Suspiria - The Great and Secret Show			# album not on spotify
+Switchblade Symphony - Serpentine Gallery
+T.S.O.L - Dance with Me
+Twin Tribes - Shadows
+UK Decay - For Madmen Only
+Voodoo Church - Unholy Burial					# album not on spotify
+Virgin Prunes - If I Die, I Die *40th*			# only two dif remasters
+Virgin Prunes - The Moon Looked Down and Laughed*	#"remastered", had an ampersand 
+The Wake - Masked								# dupes from two same named albums
+Xmal Deutschland - Tocsin
+45 Grave - Sleep in Safety
