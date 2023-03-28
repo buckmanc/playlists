@@ -1,0 +1,7 @@
+@default:LikesByGenre
+
+stoner metal
+doom metal
+sludge metal
+
+LikesByArtistFromPlaylist:*stoner* # frankly I'm impressed that this works

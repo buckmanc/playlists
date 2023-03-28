@@ -61,7 +61,7 @@ Steel Inferno - Evil Reign
 Phobophilic - Enveloping Absurdity
 Megadeth - The Sick, the Dying... and the Dead!
 Persefone - Metanoia
-The Antichrist Imperium - Volume III: Satan in His Original Glory # on spotify, worked in isolation
+The Antichrist Imperium - Volume III Satan in His Original Glory # on spotify, worked in isolation, attempting w/o :
 Grenadier - Trumpets Blare in Blazing Glory
 Hammers of Misfortune - Overtaker
 Wędrujący Wiatr - Zorzysta staje oćma
@@ -71,17 +71,17 @@ Haunter - Discarnate Ails
 Wiegedood - There's Always Blood at the End of the Road			# typo, fixed
 Horn - Verzet
 The Halo Effect - Days of the Lost
-Aara - Triade II: Hemera										# seems fine?
+Aara - Triade II Hemera										# seems fine, attempting w/o :
 Power Paladin - With the Magic of Windfyre Steel
 Gaerea - Mirage
 Arjen Anthony Lucassen's Star One - Revel in Time
-Wilderun - Epigone												# "bonus tracks" in album name
+Wilderun - Epigone*												# "bonus tracks" in album name
 Avatarium - Death, Where Is Your Sting
 Decapitated - Cancer Culture
 Ataraxy - The Last Mirror
 Trhä - vat gëlénva!!!
 Belphegor - The Devils
-Wolf - Shadowland												# missorted
+Wolf - Shadowland												
 The Otolith - Folium Limina
 Ultha - All That has Never Been True
 Fer de Lance - The Hyperborean
@@ -91,8 +91,8 @@ Trial (Swe) - Feed the Fire
 Oceans of Slumber - Starlight and Ash
 Battle Beast - Circus of Doom
 Heaving Earth - Darkness of God
-Nocturnal Triumph - Nocturnal Triumph							# missing
-Early Moods - Early Moods
+Nocturnal Triumph - Nocturnal Triumph							# not on spotify
+Early Moods - Early Moods										# missing
 Razor - Cycle of Contempt
 Worm - Bluenothing
 Saxon - Carpe Diem
@@ -108,7 +108,7 @@ Borealis - Illusions
 Origin - Chaosmos
 Sanhedrin - Lights On
 Disillusion - Ayam
-Suppresion - The Sorrow of Soul Through Flesh
+Suppression - The Sorrow of Soul Through Flesh
 Saor - Origins
 Darkest Era - Wither on the Vine
 Skull Fist - Paid in Full
@@ -123,25 +123,25 @@ Arch Enemy - Deceivers
 Seventh Wonder - The Testament
 Fallujah - Empyrean
 Deathhammer - Electric Warfare
-Saidan - Onryo II: Her Spirit Eternal
+Saidan - Onryo II Her Spirit Eternal							# missing, had :
 Kampfar - Til klovers takt
 Lorna Shore - Pain Remains
 Asunojokei - Island
-Panzerfaust - The Suns of Perdition - Chapter III: The Astral Drain
-Hate Forest - Innermost
+Panzerfaust - The Suns of Perdition - Chapter III The Astral Drain				# missing, had :
+Hate Forest - Innermost									# not on spotify
 Behemoth - Opvs Contra Natvram
-Mizmor/Thou - Myopia
-Bran - Odcházení
+Mizmor - Myopia											# can't handle two artist names
+BRAN - Odcházení										# seems fine, no idea why it's missing
 Archgoat - All Christianity Ends
 Hangman's Chair - A Loner
 Mournful Congregation - The Exuviae of Gods, Part 1
 Sadist - Firescorched
 Paganizer - Beyond the Macabre
-Cloud Rat - Threshold
+Cloud Rat - Threshold									# seems fine, no idea why it's missing
 Imprecation - In Nomine Diaboli
 Destroyer 666 - Never Surrender
 Armory - Mercurian
-Stangarigel - Na Severe Srdca
+Stangarigel - Na Severe Srdca							# artist not on spotify
 Cosmic Putrefaction - Crepuscular Dirge for the Blessed Ones
 Schizophrenia - Recollections of the Insane
 The Temple - Of Solitude Triumphant
@@ -269,7 +269,7 @@ It Doesn't Get Better - It Doesn't Get Better
 Mico - Zigurat
 Ufomammut - Fenice
 Hulder - The Eternal Fanfare
-Wampyrinacht - Night Of The Desecration: Les Jardins De Nyx
+Wampyrinacht - Night Of The Desecration Les Jardins De Nyx
 De Profundis - The Corruption of Virtue
 Deserted Fear - Doomsday
 Xentrix - Seven Words
@@ -344,3 +344,5 @@ Morbific - Squirm Beyond the Mortal Realm
 Crowbar - Zero and Below
 Mortuous - Upon Desolation
 Downcross - Hexapoda Triumph
+
+-Artist:7bV8v6oa1DQo6pz5ETSSJz # wrong origin, similar album name

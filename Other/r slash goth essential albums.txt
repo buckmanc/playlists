@@ -1,6 +1,8 @@
 @default:album
 @limitperalbum:1
 
+# TODO make a way to fix the file/playlist name
+
 # https://www.reddit.com/r/goth/wiki/essentialgothalbums/
 
 Acid Bats - Cosmogonia
