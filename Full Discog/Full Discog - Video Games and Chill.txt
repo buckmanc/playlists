@@ -1,0 +1,6 @@
+@Default:Album
+
+GameChops - *and chill*
+Helynt - *and chill*
+-Album:GameChops - *Stardew* # I know everything in this playlist *except* Stardew
+

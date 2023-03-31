@@ -207,7 +207,6 @@ Gracefallen
 Grauen
 Grimalkin
 Grinning Shadows
-###Hadal # only female vocalist for the demo, 3 other Hadals
 Halgadom
 Hawthorn
 Hecate
@@ -538,7 +537,6 @@ Zgroza
 -Artist:6T4bHeSo6IlGF6vmN1ilxh #  Suicide Forest
 -Artist:2W2AeHqNIUvhlOtqt1u6Ry #  Providence
 -Album:1aRhu0xtlPbAb1X8us0uOD # folk songs by that one lady
-
 -Artist:661471zR96CJGBs7sViYvL #  Dismal
 -Artist:5ofAqkUU7OQJgOgN7DpjyP #  Cernunnos
 -Artist:0Bf6zx1KsoDT3w0fI7VpWK #  Zuzana Hakl
@@ -554,7 +552,6 @@ Zgroza
 -Artist:19YhruRrQw4r54gzKsueEI #  Sigh
 -Artist:4PdWhVbc6dPIo9amL0jVvV #  Bovary
 -Artist:6QYKwJCNw8TOagS6hWKu0T #  Hawthorn
-
 -Artist:0bOSAPkFoTUw2zP36Ux7rE #  Dolch
 -Artist:73p1Bqqjs3uimqHv8BCthF #  WINGED
 -Artist:7MubbTDLkJ8bVQtfbdLit3 #  Valkyrie
@@ -759,7 +756,6 @@ Zgroza
 -Artist:0obpXguKxlrWaaHhnvBp32 #  Afterlife
 -Artist:4DX8qGEmFCvPud2zyuhyTH #  Evol
 -Artist:0rIROc9qyjwndVoDFa2WD0 #  Frostbite
-
 -Artist:66SRGSUWA26P7hEIEodl9w #  Adore
 -Artist:7nU8MC37CC7UsWktxyaFrp #  Dismal
 -Artist:4euDK3DaDCdpKyXQmIPoQF #  SheveR
@@ -808,10 +804,134 @@ Zgroza
 -Artist:3h8ai5fGAudfKEhxUTBIad #  Frostbite
 -Artist:2rMCDuYsBN1j6JOSUAEWiw #  Detest
 -Artist:6zn0izHq6hShiK9H6jID17 #  Motormouth Recordz
-
 -Artist:3mUHAiDazZq75gh6If5zoD #  R.A. The Rugged Man
 -Artist:3zbkrfuUCL0hSeXSSbKr1Q #  Amalie Bruun
 -Artist:2kQ4ttxqjuXRDMmsYXHlZD #  Jakatta
 -Artist:5cWh5zsmOIFhuPL0Ay1e7f #  Dave Lee
 -Artist:6gnvHPFDgWP4LiES4X0Ajz #  Afterlife
 -Artist:0DojVTkjNHlvHA78ayJiFP #  Evol
+-Artist:4nZExG4YopPT85kHT5EoHT #  Zdań
+-Artist:25v8ecGLtk4FrhLAwZ09Os #  Into Darkness
+-Artist:7e7nmtA3OQEUdVjn5rG3Tz #  Ethereal
+-Artist:699OTQXzgjhIYAHMy9RyPD #  Playboi Carti
+-Artist:53jUEBC2whloRpELoilcy3 #  Ex Cops
+-Artist:5nEWKkUf6IA0Ry5wBOG1J0 #  MHE
+-Artist:1GQ3ma30BmJLcUVgt6Z0o6 #  Afterlife
+-Artist:6D1DgoF2TYTbPQbRPEriaI #  Afro Medusa
+-Artist:2Y6asIJrFQnT9yTDuHmYtT #  Afterlife
+-Artist:5zGxYEPyynjUkIBgKRI1Wt #  Ancst
+-Artist:1R66u3Zc7qiTlzMYnXdV31 #  Black Widows
+-Artist:7lRdwPPDetwnIUfJHejstX #  Somnus
+-Artist:7idePLxTfU4PytfBcdu6Ym #  Bethlehem
+-Artist:4Jvi6gJOZyJSeDkWVzHWCk #  Uranus
+-Artist:0m59iBo9KowhdsBGCII9XO #  Thrall
+-Artist:1JkFWxfjiw7KhDqIhbh0bM #  Uranus
+-Artist:1Mn6Os1MVwomrB5SnGFVJO #  Gary D.
+-Artist:6UUUa4HW9J8uLuWvsw0iRJ #  Antichrisis
+-Artist:7lVsUqT98h3GpKifLj0tSH #  Providence
+-Artist:3cjaNGcEg2TfRV0u0cMYUu #  Kramp
+-Artist:1EIGIAVFbT5V5BfCDVtNMn #  Macbeth
+-Artist:233gXv7Xzva0zuCryqCFvl #  Providence
+-Artist:5sAh1jI8vTGKLBVfAzKRbZ #  RasDaveed El Harar
+-Artist:5yHTx7LDOvDBQI6Rpq1tKd #  Korova
+-Artist:11zG3SH7tJ36wYmCJ2oWyB #  Covenant
+-Artist:3YHTeUkrxXAPuApG5dYu1Y #  False
+-Artist:3y6Bw2UFauDCu4zs6sIChH #  The Wage Of Sin
+-Artist:6QpbkfyEQJ3JiQw2AbTRUH #  Cruachan
+-Artist:4ntQf6invi5QKY1HVvqbVb #  Nema
+-Artist:6WX3JJjcUvlamgMqgElRz4 #  Straightout
+-Artist:24usPS6scUvbG7goMpZbHJ #  Natan
+-Artist:674TqX6581VEbWnsUcmo1L #  Irina Dubtsova
+-Artist:1N9DoRapNTLLhsZbwJtLxs #  Nyx
+-Artist:1N31CecFzIPPsVzxzyvPhv #  Zuno
+-Artist:4QnQEdrgSw1oDDDdJ7sQSc #  Korova
+-Artist:4dHvB4JWxk9T1czvKXtxtf #  Déborah
+-Artist:1ESY7oFQxV2vU1zVPHgbCg #  SEDNA
+-Artist:6w4Cn8sKMa6PYhT91LoTTy #  Sony Tran
+-Artist:6JxCqhJAsfQD6i2hdnzqUJ #  Evol
+-Artist:5DC33P36gLkAeHSAGPQowo #  Nhật Hà
+-Artist:5XEElGiDOnpU7Rz92HYDVh #  Nut
+-Artist:426Ms3YOv5tGfUy2V0Damx #  Uranus
+-Artist:776uRsooWrGiVZkVWtvfgO #  Miss K8
+-Artist:7rBKdYlOrwTHDRWZagPWoT #  Detest
+-Artist:1qoZ25OBzbJhrGZyXRbw9a #  Providence
+-Artist:6gCDNdjFVbuMhQs6lPOtzn #  Gorgon
+-Artist:2zC17oh6SahZYOOYWxhISd #  Craven
+-Artist:4VLZWJV6x7gfDSasogv3sb #  MOR
+-Artist:0axAywC6N1oXIqe4HQL2Gw #  Nguyên
+-Artist:1bFOMacB1TfMrwNfkxEa8B #  Seth
+-Artist:2gj7RuicfpWUqKZYiHumir #  Uranus
+-Artist:019FjnM3IKqCPJSheRYgcd #  Frostbite
+-Artist:7wBexNk7clSqokJU3Bmu7A #  Crypt1d
+-Artist:1E2TumHVxgY3umE0LTOCgI #  Zad
+-Artist:3Sa3l0jBg69D9hQ6rda0fQ #  Providence
+-Artist:3e4WuYJHYxCKN3z2OEzyJR #  Redox
+-Artist:0gzovTAQcy61jS5BS9xwCh #  Lin tasiena
+-Artist:6LukrliXoZlWXx5pvQvSoS #  WINGED
+-Artist:5plLEwdxDMiAnVd4c7LJrb #  Vore
+-Artist:0xrxQmMCVs2is6yJ1b370T #  Hawthorn
+-Artist:4XnFQe4yxM1tlrCGCUUtdo #  After Life
+-Artist:6wxmjy4rHJ2j8ycju92Xi8 #  Hiroschema
+-Artist:3dqPir2rSmzLwKUvSgTUrh #  Evol
+-Artist:2WmJ5KhtaMQtyzpLIKbICs #  BluShakurx
+-Artist:3cJ5TBwfbW0ugjovtFUOWI #  Karno
+-Artist:1hd6hNnZKGCvS18azTQ3yV #  Nita
+-Artist:5xTjG9GcSgiBH40CTSPiaU #  Adore
+-Artist:23PiXT18hTwb505S4K1xeo #  FM Pro (Efeh P)
+-Artist:3g5sQIoJAKcyMu2P6vGz5K #  Bovary
+-Artist:1GF5XJpbBx3Ai4fa7vJTjx #  Kodo Cartoon
+-Artist:1YKaNpfxCVl2D7uwFV2KCG #  Sinister
+-Artist:7Ln76w7uOKqAI7dglzPW2q #  MacBeth
+-Artist:5PvlmZMeSRZaW9tVIIMktv #  Chocolate Sushi
+-Artist:3BqcZVHIGoj5bM26y0oAPW #  Nyx
+-Artist:3surWQRPK2zVhJ9HmxZMQa #  Frostbite
+-Artist:0LuinDyHPTdb3i4SkYu8aB #  Iván Vázquez
+-Artist:3kIlB5hIWlIIUYqL2xlcRv #  Valkyrie
+-Artist:69uLlJnLf44tEXByaWSb5P #  Rug
+-Artist:7IZpTI4x36fD4T8iw3PGNO #  Antigone
+-Artist:7obYvLXgPIs5JxLltdWN8E #  Antigone
+-Artist:5UOB2qJHhkUv3G7ENL9lGn #  Náttsól
+-Artist:0QcVmbF9E3yeVNqMIPpK4f #  Martian Arts
+-Artist:2WXmCwCBVXeReOQG0ZMIbw #  Psykick
+-Artist:3IbpBuf1QrkXMYmAyfhepe #  ZDAN
+-Artist:0Q6ldYAFD8bo6DuC7WiHWc #  Trinacrìa
+-Artist:37C67KU6s3Ag1HE7GFIX0G #  DeDka
+-Artist:7q29ZT6pyW0RefQkTnG9rx #  Antigone
+-Artist:7duliekRuvDqTeJRRlpEUC #  Vradiazei
+-Artist:0Yq5OY8ZwQc2clIUwynFLs #  Zad
+-Artist:2ek5FMa6BbxBGksPQSYAi1 #  ZDAN
+-Artist:0mZ1NASNdhB4TolDetuqPa #  Z_Dan
+-Artist:6AMwoQMEIgEiMDB006ERCm #  Afterlife
+-Artist:5kTHArogkH5y6gQhzUF2cf #  SØLVE
+-Artist:48nHO1cuTbpx4ELhChsxX1 #  Sidewalks and Skeletons
+-Artist:3sK0zAJs4dulw90fWepi5p #  Néma
+-Artist:3DrEm62ilN3fTqLOJlBTq3 #  Rubens
+-Artist:1CZqzkjQycPPyQLfuG3dtr #  Hécate
+-Artist:19YlSmZnYULL9i2Z0pbXEj #  Young Energy
+-Artist:6UDRqvrYiU2Dxy3cLVywkf #  PsyKick
+-Artist:1DKFplSwHugz51OkdQ9z7q #  MingDaNinja
+-Artist:2I4cNVBBWeOr6L45PomXoJ #  Covenant
+-Artist:0UeH1gkSxku6wpSOZIW8PK #  BOVARY.
+-Artist:2mC01ZM1gOjHQH6UGKBYvN #  Déborah
+-Artist:4wK19pVMrkr04sLt1l4vIn #  Monic (BR)
+-Artist:4RBdlWlMbsao9WN3ETNt1K #  Morak
+-Artist:2PNpOFCgSXNcbmIWK595K7 #  SYMD
+-Artist:54YWXGlIB0pJcpjQPxlpv5 #  Covenant
+-Artist:0wgOvk2wtfaR192gxvKNjL #  Sínister
+-Artist:0GBkbiNH9o5z5ISQpg4Sy0 #  JoZi
+-Artist:70gV2Vf8j4ZofEZsBb0t9O #  Adorè
+-Artist:4pfItUt5FVIlTgr30GV39V #  Afterlife
+-Artist:5BoS3IpvJVrR6TjCk0wFm0 #  Afterlife
+-Artist:1xRPV9vWh2zvi0bBovz6Z4 #  Dogz Music
+-Artist:274JojhV4zGJX0Z6WPgg5x #  DJ Shaan
+-Artist:5E31JVlMh2IXgaOuIQEkLo #  Afterlife
+-Artist:1t0DC3W42brRKLf28tGrse #  Afterlife
+-Artist:7tYuqbOJ55s7fdeJ7YMIyO #  FALSE
+-Artist:1R9UPp1zffXdSd7vmhNz9f #  Anna-Carina Woitschack
+-Artist:5rK4qltYpIzxV6287eTqIw #  Stefan Mross
+-Artist:38LRlLsgspTuKZKnbLXojT #  Jojo
+-Artist:0QxFDs03k6MbHCO8joAByf #  Joyless
+-Artist:1fbTJoknQViBKCPazMZnAO #  The Providence
+-Artist:5iZzpdeGBBXyAOQpyVkEGz #  Vale
+-Artist:43uF9q1lrWUnPWpITz194M #  Vale
+-Artist:4qVC0sDNqjmSme8EsAETqr #  Valkyrie
