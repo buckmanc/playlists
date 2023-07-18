@@ -1,0 +1,6 @@
+@NoLikes
+@LastXDays:30
+@ReleasedAfter:2023-04-01
+AllByArtistFromPlaylist:Screechy Women
+
+@ExceptArtistFromPlaylist:set it off,ghostemane,kim dracula

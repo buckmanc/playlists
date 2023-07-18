@@ -23,3 +23,5 @@ likesbygenre:dungeon synth
 # other
 -Artist:1DO3ytbfXlJUOoy77yH7IH # Forndom
 -Artist:3TH8tc8N1s363bBYROkk9f # Wonders of Nature
+
+-Artist:7cQYuSfsavW0BrcspRRJMi #  Paysage D'Hiver

@@ -1,0 +1,9 @@
+@NoLikes
+@LimitPerArtist:3
+@DeleteIfEmpty
+
+TopByArtistFromPlaylist:Liked - LoFi VGM - No GameChops
+-PlaylistTracks:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
+-PlaylistAlbums:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
+-Album:0YEZKLE3OnX9l8R65Y9Lt8 # Strike The Earth (Shovel Knight Remix) (2014)
+-Album:1Oht7VSm68oklaqPyvx26S # Volume I (2011)

@@ -4,3 +4,8 @@
 
 TopByArtistFromPlaylist:Liked - LoFi no VGM
 -genre:*vgm*
+-genre:*anime*
+-track:*star wars*
+-track:*animal crossing*
+-track:*zeldas lullaby*
+-track:*dark souls*

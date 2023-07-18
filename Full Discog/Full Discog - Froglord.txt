@@ -1,5 +1,6 @@
 @default:AllByArtist
 @LeaveImageAlone
+@UpdateSort
 
 4DjZB2WHgX0CBEBhMPhrdP	# all hail Froglord
 #-Artist:3AY3eOjDbGZibbjqTQT3rw # wrong Froglord

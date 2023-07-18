@@ -1,0 +1,271 @@
+#@LastXDays:30
+@UpdateSort
+AllByArtistFromPlaylist:4OechinjxWqHoDDeOP619j
+-PlaylistTracks:4OechinjxWqHoDDeOP619j
+-PlaylistTracks:avgc - auto candidates
+
+-Artist:Henrik Janson
+-Artist:Dj Cutman
+
+# ideally the below composers should only be excluded if not included by another artist name
+# otherwise, they could be excluded if they're not the only artist
+-Artist:Koji Kondo
+-Artist:Nobuo Uematsu
+-Artist:Hitoshi Sakimoto
+-Artist:Christopher Larkin
+
+# --shared vgc exclusions--
+# --avgc--
+
+# -- avgc --
+
+-Artist:DS Music
+-Artist:ViolinGamer
+-Artist:TPR
+-Artist:Gamechops
+-Artist:The Collab Playground
+-Artist:Kara Comparetto
+# --all vgc--
+# -- all shared vgc --
+
+# video game composers
+@ExceptArtistFromPlaylist:Koji Kondo,Kow Otani,Yoko Shimomura,Tsutomu Narita,Nobuo Uematsu,Hitoshi Sakimoto,Christopher Larkin,Takahito Eguchi,Noriko Matsueda,Hirokazu Tanaka,Kenji Yamamoto,Ryoji Yoshitomi,Minako Hamano
+
+
+-Album:* - *Original Soundtrack*
+-Album:* - *Official Soundtrack*
+-Album:* - *Original Game Soundtrack*
+-Album:* - *Film Soundtrack*
+-Album:* - *inspired soundtrack*
+-Album:* - *Christmas*
+-Album:* - *Piano improvisations*
+-Album:* - *anime theme*
+-Album:* - *movie score*
+-Album:* - *ghibli*
+-Album:* - *beethoven*
+-Album:* - *secret and pop*
+-Album:* - *disney*
+-Album:* - *piano & vocal*
+-Album:* - *emotional anime*
+-Album:* - *lofi
+-Album:* - lofi*
+-Album:* - *intimate piano*
+-Album:* - *film and tv classics*
+-Album:* - *classical and contemporary piano*
+-Album:* - *worship*
+
+-Album:* - *do you wanna build a snowman*
+-Album:* - *hunger games*
+-Album:* - *from tangled
+-Album:* - *poohs grand adventure
+-Album:* - into the new world
+-Album:* - anime piano*
+-Album:* - *Naruto album*
+-Album:* - *ghibli*
+
+-artist:sungha jung
+-artist:dan avidan	#	works with super guitar bros on non-vgc stuff
+
+# classical composers
+-artist:*beethoven*
+-artist:*mozart*
+-artist:*chopin*
+-artist:*debussy*
+-artist:*tchaikovsky*
+-artist:*rachmaninoff*
+-artist:*franz liszt*
+-artist:*johann*bach
+-artist:*edvard grieg
+-artist:felix mendelssohn
+-artist:erik satie
+-album:* - *Erik satie*
+
+# modern composers
+-artist:dustin o'halloran
+-artist:yiruma
+-artist:lou ma rhee
+
+-artist:doctor who
+
+-Album:Isac Saleh - Game Themes Cover Mix Vol 1* # two versions; the second has been chosen
+-Album:Isac Saleh - Elder Scrolls Series Vol 1* # two versions; manually de-duped
+# at present the above line is not working
+-Album:John Oeth - Constellations
+-Album:John Oeth - Sketches
+-Album:John Oeth - Castles of Spain
+-Album:John Oeth - Fronimo
+-Album:John Oeth - *Endwalker* # too much
+-Album:John Oeth - New World*
+-Album:Kyle Throw - The Chasm # mod soundtrack
+-Album:Sam Griffin - Time
+-Album:Sam Griffin - RPG National Anthem*
+-Album:Sleeping Phoenix - *(With Rain)*
+-Album:Sleeping Phoenix - Rainy Dreams*
+-Album:Jonas Lefvert - Bonum Musica
+-Album:Jonas Lefvert - Musica Aeterna
+-Album:Jonas Lefvert - Classical Guitar
+-Album:Jonas Lefvert - Soundtracks for Guitar
+
+-Album:Wesley Sprayue - second of infamy*
+-Album:Wesley Sprayue - piano ideam musica
+-Album:Wesley Sprayue - eve inspired music
+-Album:Wesley Sprayue - the healing wall
+-Album:Wesley Sprayue - across the stars
+
+-album:Jonathan Morris - *unabridged
+
+-Album:Steven Melin - Game Music Treasury* # a bazillion albums of original music
+-Album:Steven Melin - Healing Hands*
+-Album:Steven Melin - *bit adventure
+-Album:Steven Melin - jrpg battle quest*
+-Album:Steven Melin - this is our family
+#-Album:Steven Melin - 
+
+-album:daigoro789 - a tribute to 25*
+-album:daigoro789 - a tribute to 21*
+-album:daigoro789 - a tribute to 19*
+-album:daigoro789 - piano tribute to adele*
+-album:daigoro789 - 60 track select*
+
+ # easy way of excluding some lyrical songs
+-Track:*versio en catala*
+-Track:*version en espanol*
+-Track:*english version*
+
+-Track:*christmas*
+-Track:silent night
+
+-Track:*One Punch Man*
+-Track:*From Inception*
+-Track:*From Interstellar*
+-Track:*From Gladiator*
+-Track:*from pride and prejudice*
+-track:*from tokyo ghoul*
+-track:*your lie in april*
+-Track:*The Two Towers*
+-Track:*The Hobbit*
+-Track:*Game of Thrones*
+-Track:*Concerning Hobbits*
+-Track:*From Violet Evergarden*
+-Track:*from naruto*
+-Track:*Naruto
+-Track:*Naruto Shippuden*
+-track:*jiraiya and tsunade*
+-Track:*My Hero Academia*
+-Track:*From Your Name*
+-Track:*From Parasyte*
+-Track:*my neighbor totoro*
+-Track:*spirited away*
+-Track:*grave of the fireflies*
+-Track:*Avengers*
+-Track:*the day after tomorrow*
+-Track:*from star wars
+-Track:let it snow
+-Track:*beauty and the beast*
+-Track:*parte de tu mundo*
+-Track:*little mermaid*
+-Track:*from up
+-track:*mandalorian*
+-track:*Boba Fett*
+-track:the force theme*
+-track:*from frozen
+-track:*let it go*from frozen*
+-album:* - *frozen soundtrack*
+-track:*princess mononoke*
+-album:* - *princess mononoke*
+-track:kiss the girl
+-track:take on me*
+-track:dancing queen*
+-track:friends theme*
+-track:*from suzume*
+-track:hotel california*
+-track:*from tangled
+-track:*from tangled*cover*
+-track:*from tangled*piano*
+-track:*howls moving castle*
+-track:*from la la land
+-track:*from corpse bride*
+-track:*universal reiki*
+-track:*the cinematic orchestra
+-track:*arrietty
+-track:hallelujah
+-track:*from the village
+-track:*from Anastasia
+-track:*call me by your name*
+-track:*from a silent voice
+-track:*from weathering with you*
+-track:*pocahontas*
+-track:*from h2o just add water*
+-track:*thomas the tank engine*
+-track:thomas and the trucks
+-track:*from haibane renmei*
+-track:walking in the air*
+-track:*doctor who*
+-track:*how to train your dragon*
+-track:*twin peaks*
+-track:imperial march*
+-track:Davy Jones*
+-track:once upon a December
+-track:*sword art online*
+-track:*Pirates of the Caribbean*
+-track:*clannad
+-track:part of your world*
+-track:love is an open door*
+-track:*winnie the pooh*
+-track:*mickey mouse club*
+-track:*from lord of the rings
+-album:*lord of the rings trilogy*
+-track:rewrite the stars* # from the greatest showman
+-track:*from the greatest showman*
+-track:*attack on titan
+-track:*from k-on
+-track:*kyoto anime
+-track:*neon genesis evangelion*
+-track:*from angel beats*
+-track:*from one piece*
+-track:*jujutsu kaisen*
+-track:*animenz version*
+-track:*princess kaguya*
+-track:*from the lion king*
+-track:*from fantastic beasts and where*
+-album:* - *animenz version*
+-track:*from demon slayer*
+-track:*no game no life*
+-track:*for flute & piano duet*
+-track:*jojo's bizarre*
+-album:* - *finding dory*
+-album:* - *moana soundtrack*
+-album:* - *la la land soundtrack*
+-album:* - *one piece soundtrack*
+-album:* - *coco soundtrack*
+-album:* - *yuri on ice*
+-album:* - *fairy tail soundtrack*
+-album:* - *hunter x hunter*
+-album:* - *alexis ffrench*
+-album:* - *erik satie*
+-album:* - *joe hisaishi*
+-album:* - *ryuichi sakamoto*
+-album:* - *yiruma*
+-track:* - *his dark materials*
+-album:* - *escaflowne*
+
+
+
+
+-Track:5kzAPyiyOrLgnPYOofe1jD	#	Morunas - Toss A Coin To Your Witcher (from "The Witcher Series") - String Version (2020)
+-Track:0ljZc01gUB4YrmmlPuDqAY	#	Besso0, Nokae - Oni - Piano Edit (2017)
+-Track:4lljYwnF3SkbHDBHby6hRT	#	Giovanni Rotondo, Live Voices, Greg Pattillo, Salome Scheidegger, Samantha Ballard, Meine Meinung, Harry Murrell, Eric Stephenson - The Battle of Mon Chi Bill (2018)
+-Album:648LC7Yi6SJpvmV5Kpul7K	#	Salome Scheidegger - "Nuvole Bianche" (Ludovico Einaudi) (2018)
+-Track:0amnkRf0ebY685LVToTsoa	#	Brandon Mild - Broken Promises (2018)
+-Track:5N2ew5PyQYBzeJxzzzftEs	#	Brandon Mild - Looking at Stars (2018)
+-Track:5Nk8avRd31ZL4zWVSXxK9k	#	Salome Scheidegger - Divergent Paths (2018)
+-Album:648LC7Yi6SJpvmV5Kpul7K	#	Salome Scheidegger - "Nuvole Bianche" (Ludovico Einaudi) (2018)
+-Track:0PYgfVJ8opxSmgGwXgTNj4	#	Salome Scheidegger - Daredevil (Opening Theme) (2018)
+-Track:62nfkXxq1Lefh8SKZao6fq	#	Salome Scheidegger - Shallow (2018)
+-Album:52Nrawr9zuVyBvMP1cEYNA	#	Claire Waluch - Popular Piano Covers (2019) # no vg here
+-Artist:3V1f0YghvSHTnUSWevaxMZ	#	Ds músic
+-Track:1r3BXdkGu3gN6XfLdnCFC6	#	Brandon Mild - Golden (2020)
+-Track:4ItYagqayr0z30yRRZGOf8	#	Salome Scheidegger - No Time to Die (2020)
+
+# --manual exclusions--
+

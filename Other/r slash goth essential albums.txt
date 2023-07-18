@@ -1,5 +1,6 @@
 @default:album
 @limitperalbum:1
+@onlycreateplaylist
 
 # TODO make a way to fix the file/playlist name
 

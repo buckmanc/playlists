@@ -7,6 +7,9 @@
 @sort:Artist
 @UpdateSort
 
+# don't swap in IDs. I'll investigate if there's a match when I see a match
+@Don'tModify
+
 Marduk
 Winterfylleth	# black sun logo originally
 Vinland Rising	# song titled "for blood and soil"

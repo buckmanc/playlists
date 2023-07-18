@@ -1,8 +1,0 @@
-@default:LikesByArtist
-@limitperartist:5
-Twilight Force
-Epica
-Sirenia
-Amberian Dawn
-Xandria
-Xiphea

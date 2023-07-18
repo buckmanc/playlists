@@ -1,4 +1,17 @@
 @default:LikesByGenre
 
 *lofi*
--playlistartists:liked - lofi no vgm
+-playlisttracks:liked - lofi no vgm
+
+#artists that Spotify labels lofi that aren't, or aren't what I want here
+-artist:Robert Davidson
+-Artist:7M1OtLgGeX29Ivo1llzubY #  Super Piano 64
+-Artist:7usmxn0C7UWfnOZFZS1AUf #  Altered Beasts
+
+-Album:2DSGQ59YAs1Mm9EoIqNK2g # Trainwreck of Electro Swing (from "A Hat In Time") (2022)
+-Album:6CGxznqClEBpBFjdzb4X9t # Year 4 (2020)
+-Artist:1eyGtJBOiRGtvXAEhQHpBS #  Smooth McGroove
+
+-Album:6i4NpxIiZGZ5L81bEW1cbK # The First Try (2008)
+-Album:3UqtrI73uajshR3MJKuGWg # FantomenK,meganekoCrystal Tokyo (2017)
+-Album:2GcMkLb39xCotzy8Kep0nS # SARE - Zelda Remixed: Music from "The Legend of Zelda" (2018)

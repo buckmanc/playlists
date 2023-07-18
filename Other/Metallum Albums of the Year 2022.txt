@@ -1,348 +1,409 @@
 @sort:don't
 @default:album
 @limitperalbum:1
-@runonce
+@onlycreateplaylist
 @UpdateSort
 #-Genre:*Christian*
 
-Blind Guardian - The God Machine
-Immolation - Acts of God
-Negative Plane - The Pact....
-Sumerlands - Dreamkiller
-Voivod - Synchro Anarchy
-White Ward - False Light
-Sigh - Shiki
-Blut Aus Nord - Disharmonium - Undreamable Abysses
-Messa - Close
-Autonoesis - Moon of Foul Magics
-Satan - Earth Infernal
-Wormrot - Hiss
-Darkthrone - Astral Fortress
-The Chasm - The Scars of a Lost Reflective Shadow
-Amorphis - Halo
-Ashenspire - Hostile Architecture
-Deathspell Omega - The Long Defeat
-Ares Kingdom - In Darkness at Last
-Evil Invaders - Shattering Reflection
-Ghost - Impera
-Misþyrming - Með hamri
-Riot City - Electric Elite
-Cauldron Born - Cold Steel for the Necromancer 					# not on spotify
-Pharmacist - Flourishing Extremities on Unspoiled Mental Grounds
-Sonja - Loud Arriver
-Autopsy - Morbidity Triumphant
-Stratovarius - Survive
-Avantasia - A Paranormal Evening with the Moonflower Society
-Imperial Triumphant - Spirit of Ecstasy							# typo, fixed
-Blackbraid - Blackbraid I
-Drudkh - All Belong to the Night
-Aeviterne - The Ailing Facade
-Threshold - Dividing Lines
-Artificial Brain - Artificial Brain
-Inanna - Void of Unending Depths								# not on spotify
-Watain - The Agony & Ecstasy of Watain
-Véhémence - Ordalies
-Kreator - Hate Über Alles
-Fellowship - The Saberlight Chronicles
-Cult of Luna - The Long Road North
-Allegaeon - Damnum
-Hath - All That Was Promised
-Gevurah - Gehinnom
-Kvaen - The Great Below
-Moonlight Sorcery - Piercing Through the Frozen Eternity
-Devil Master - Ecstasies of Never Ending Night					# typo, fixed
-Wake - Thought Form Descent
-Revocation - Netherheaven
-An Abstract Illusion - Woe
-Luzifer - Iron Shackles
-Sakis Tolis - Among the Fires of Hell
-Grand Belial's Key - Kohanic Charmers							# not on spotify
-Steel Inferno - Evil Reign
-Phobophilic - Enveloping Absurdity
-Megadeth - The Sick, the Dying... and the Dead!
-Persefone - Metanoia
-The Antichrist Imperium - Volume III Satan in His Original Glory # on spotify, worked in isolation, attempting w/o :
-Grenadier - Trumpets Blare in Blazing Glory
-Hammers of Misfortune - Overtaker
-Wędrujący Wiatr - Zorzysta staje oćma
-Ripped to Shreds - Jubian										# right but has extra symbols
-Destruction - Diabolical
-Haunter - Discarnate Ails
-Wiegedood - There's Always Blood at the End of the Road			# typo, fixed
-Horn - Verzet
-The Halo Effect - Days of the Lost
-Aara - Triade II Hemera										# seems fine, attempting w/o :
-Power Paladin - With the Magic of Windfyre Steel
-Gaerea - Mirage
-Arjen Anthony Lucassen's Star One - Revel in Time
-Wilderun - Epigone*												# "bonus tracks" in album name
-Avatarium - Death, Where Is Your Sting
-Decapitated - Cancer Culture
-Ataraxy - The Last Mirror
-Trhä - vat gëlénva!!!
-Belphegor - The Devils
-Wolf - Shadowland												
-The Otolith - Folium Limina
-Ultha - All That has Never Been True
-Fer de Lance - The Hyperborean
-Undeath - It's Time... to Rise from the Grave
-In the Woods... - Diversum
-Trial (Swe) - Feed the Fire
-Oceans of Slumber - Starlight and Ash
-Battle Beast - Circus of Doom
-Heaving Earth - Darkness of God
-Nocturnal Triumph - Nocturnal Triumph							# not on spotify
-Early Moods - Early Moods										# missing
-Razor - Cycle of Contempt
-Worm - Bluenothing
-Saxon - Carpe Diem
-Daeva - Through Sheer Will and Black Magic
-Verberis - Adumbration of the Veiled Logos
-Faceless Burial - At the Foothills of Deliration
-Venator - Echoes from the Gutter
-Meshuggah - Immutable
-Scarcity - Aveilut
-Nechochwen - Kanawha Black
-Protector - Excessive Outburst of Depravity
-Borealis - Illusions
-Origin - Chaosmos
-Sanhedrin - Lights On
-Disillusion - Ayam
-Suppression - The Sorrow of Soul Through Flesh
-Saor - Origins
-Darkest Era - Wither on the Vine
-Skull Fist - Paid in Full
-Grima - Frostbitten
-Spell - Tragic Magic
-Stormruler - Sacred Rites & Black Magick
-Djevel - Naa Skrider Natten Sort
-Soilwork - Övergivenheten
-Molten Chains - Orisons of Vengeance
-Dark Funeral - We Are the Apocalypse
-Arch Enemy - Deceivers
-Seventh Wonder - The Testament
-Fallujah - Empyrean
-Deathhammer - Electric Warfare
-Saidan - Onryo II Her Spirit Eternal							# missing, had :
-Kampfar - Til klovers takt
-Lorna Shore - Pain Remains
-Asunojokei - Island
-Panzerfaust - The Suns of Perdition - Chapter III The Astral Drain				# missing, had :
-Hate Forest - Innermost									# not on spotify
-Behemoth - Opvs Contra Natvram
-Mizmor - Myopia											# can't handle two artist names
-BRAN - Odcházení										# seems fine, no idea why it's missing
-Archgoat - All Christianity Ends
-Hangman's Chair - A Loner
-Mournful Congregation - The Exuviae of Gods, Part 1
-Sadist - Firescorched
-Paganizer - Beyond the Macabre
-Cloud Rat - Threshold									# seems fine, no idea why it's missing
-Imprecation - In Nomine Diaboli
-Destroyer 666 - Never Surrender
-Armory - Mercurian
-Stangarigel - Na Severe Srdca							# artist not on spotify
-Cosmic Putrefaction - Crepuscular Dirge for the Blessed Ones
-Schizophrenia - Recollections of the Insane
-The Temple - Of Solitude Triumphant
-Dream Unending - Song of Salvation
-Tony Martin - Thorns
-Visions of Atlantis - Pirates
-Vermilia - Ruska
-Septicflesh - Modern Primitive
-Malthusian/Suffering Hour - Time's Withering Shadow
-Konquest - Time And Tyranny
-Toxik - Dis Morta
-Swampborn - Beyond Ratio
-Miscreance - Convergence
-Esoctrilihum - Consecration of the Spiritüs Flesh
-Marrasmieli - Martaiden Mailta
-Scorpions - Rock Believer
-Ozzy Osbourne - Patient Number 9
-Cauchemar - Rosa Mystica
-Terzij De Horde - In One of These, I Am Your Enemy
-Conan - Evidence of Immortality
-Candlemass - Sweet Evil Sun
-Assumption - Hadean Tides
-Inexorum - Equinox Vigil
-Gudsforladt - Friendship, Love and War
-Bloodbath - Survival of the Sickest
-Friends of Hell - Friends of Hell
-Ash of Ashes - Traces
-High Command - Eclipse of the Dual Moons
-Mirror - The Day Bastard Leaders Die
-Spiter - Bathe the Babe in Bats' Blood
-A Pale December - Death Panacea
-Heltekvad - Morgenrødens helvedesherre
-Tome of the Unreplenished - Earthbound
-Glemsel - Forfader
-Kardashev - Liminal Rite
-Eric Wagner - In the Lonely Night of Mourning
-Nite - Voices of the Kronian Moon
-Cloven Hoof - Time Assassin
-Vital Spirit - Still as the Night, Cold as the Wind
-Critical Defiance - No Life Forms
-Therion - Leviathan II
-Chaotian - Effigies of Obsolescence
-Hissing - Hypervirulence Architecture
-Hell Fire - Reckoning
-Kathaaria - To Be Shunned by All... As Centres of Pestilence
-Midnight Rider - Beyond the Blood Red Horizon
-Soulfly - Totem
-Nostalghia - Au milieu de l'hiver
-Vio-Lence - Let the World Burn
-Temple of Void - Summoning the Slayer
-Incandescence - Le Coeur De L'homme
-Shadow of Intent - Elegy
-Vorga - Striving Towards Oblivion
-Soreption - Jod
-Sedimentum - Suppuration morphogénésiaque
-Abhor - Sex Sex Sex (Ceremonia Daemonis Antichristi)
-Dragonland - Power of the Nightstar
-Månegarm - Ynglingaättens Öde
-Spiritus Mortis - The Great Seal
-Elder - Innate Passage
-White Rune - Dawn of the White Rune
-Woods of Desolation - The Falling Tide
-Lifvsleda - Sepulkral Dedikation
-Det Eviga Leendet - Reverence
-Tòmarùm - Ash In Realms Of Stone Icons
-Brymir - Voices in the Sky
-Skid Row - The Gang's All Here
-Predatory Light - Death and the Twilight Hours
-In Aphelion - Moribund
-Raptore - Blackfire
-Celeste - Assassine(s)
-Tchornobog/Abyssal - Split
-Bâ'a - Egrégore
-Metalian - Beyond the Wall
-Owls Woods Graves - Secret Spies of the Horned Patrician
-Sumerian Tombs - Sumerian Tombs
-Boris - Heavy Rocks
-Parish - Parish
-Black Fucking Cancer - Procreate Inverse
-Corpsessed - Succumb to Rot
-Devin Townsend - Lightwork
-Eliminator - Ancient Light
-Luminous Vault - Animate the Emptiness
-Sphere - Blood Era
-Shape of Despair - Return to the Void
-Krisiun - Mortem Solis
-Konvent - Call Down the Sun
-HammerFall - Hammer of Dawn
-Sisyphean - Colors of Faith
-Come to Grief - When the World Dies
-MMXX - Sacred Cargo
-The Troops of Doom - Antichrist Reborn
-Emissary - Emissary
-Horns & Hooves - I Am the Skel Messiah
-Tankard - Pavlov's Dawgs
-Pensées Nocturnes - Douce Fanges
-Jade - The Pacification of Death
-Exhumed - To the Dead
-Wolfheart - King of the North
-Marc Urselli’s SteppenDoom - SteppenDoom
-Trollfest - Flamingo Overload
-Misery Index - Complete Control
-Evergrey - A Heartless Portrait
-Altars - Aescetic Reflection
-Dark Millennium - Acid River
-Wind Rose - Warfront
-Ultra Silvam - The Sanctity of Death
-Lord Belial - Rapture
-Knoll - Metempiric
-Matenrou Opera - 真実を知っていく物語
-Misanthropæ - Untitled
-Stryper - The Final Battle
-Lord Vigo - We Shall Overcome
-Tomb Mold - Aperture of Body
-Witchslayer - Witchslayer
-A Sound of Thunder - The Krimson Kult
-Coldworld - Isolation
-Jani Liimatainen - My Father's Son
-Vórtize - ¡Tienes Que Luchar!
-Amon Amarth - The Great Heathen Army
-Doublegeddon - Geddon Dangerous
-Falls of Rauros - Key to a Vanishing Gate
-Queensrÿche - Digital Noise Alliance
-It Doesn't Get Better - It Doesn't Get Better
-Mico - Zigurat
-Ufomammut - Fenice
-Hulder - The Eternal Fanfare
-Wampyrinacht - Night Of The Desecration Les Jardins De Nyx
-De Profundis - The Corruption of Virtue
-Deserted Fear - Doomsday
-Xentrix - Seven Words
-Lustre - A Thirst for Summer Rain
-Firtan - Marter
-Rotten Tomb - Visions of a Dismal Fate
-Kontact - First Contact
-Live Burial - Curse of the Forlorn
-Order of Nosferat - Nachtmusik
-Species - To Find Deliverance
-Graceless - Chants from Purgatory
-Slaegt - Goddess
-Pure Wrath - Hymn To The Woeful Hearts
-Pyrithe - Monuments to Impermanence
-Midnight - Let There be Witchery
-Pestilent Hex - The Ashen Abhorrence
-Abyssus - Death Revival
-Die Apokalyptischen Reiter - Wilde Kinder
-Te Ruki - Marako Te Ruki
-Truchło Strzygi - Gwiezdny Demon
-Desecresy - Unveil in the Abyss
-Dreamtale - Everlasting Flame
-Judicator - The Majesty of Decay
-Molder - Engrossed in Decay
-Arrayan Path - Thus Always to Tyrants
-Eruption - Tellurian Rupture
-Traitor - Exiled to the Surface
-Universally Estranged - Dimension of Deviant Clusters
-Venom Inc. - There's Only Black
-Innumerable Forms - Philosophical Collapse
-Astronoid - Radiant Bloom
-Abbath - Dread Reaver
-Malevolence - Malicious Intent
-Nocturna - Daughters of the Night
-Thormesis - If Mania Never Ends
-Psycroptic - Divine Council
-Edenbridge - Shangri-La
-Sabaton - The War to End All Wars
-Aequorea- DIM
-Animalize - The Meat We're Made Of
-Church of Disgust - Weakest is the Flesh
-Vauruvã - Por Nós da Ventania
-Fallen Sanctuary - Terranova
-Mathan - Darkroot Tzantza
-Coscradh - Nahanagan Stadial
-Bomber - Nocturnal Creatures
-Monasterium - Cold Are the Graves
-Seizure - Forbidden Tales
-Validor - Full Triumphed
-Beyond Mortal Dreams - Abomination Of The Flames
-Fugitive - Maniac
-Kostnatění - Oheň hoří tam, kde padl
-Tzompantli - Tlazcaltiliztli
-Ad Noctem Funeriis - Abyss, Fire, Brimstones
-Bedsore / Mortal Incarnation - Split
-Miss May I - Curse of Existence
-Doldrum - The Knocking, or the Way Too Long Album Title
-Vacuous - Dreams of Dysphoria
-Lunar Spells - Demise of Heaven
-Astral Tomb - Soulgazer
-Black Death Cult - Diaspora
-Induction - Born from Fire
-Kaarne - Rubicon
-Vimur - Transcendental Violence
-Jungle Rot - A Call to Arms
-Maule - Maule
-Midas - Midas
-Obsidious - Iconic
-Corpsegrinder - Corpsegrinder
-Lordi - Abusement Park
-Morbific - Squirm Beyond the Mortal Realm
-Crowbar - Zero and Below
-Mortuous - Upon Desolation
-Downcross - Hexapoda Triumph
+4aoy2NnmDpWvjWi9taOHYe # Blind Guardian - The God Machine
+1rGfm7jdqOjE2uMcbhbJsp # Immolation - Acts Of God
+5k7Jar9kC6Yw7OiWm6Kzas # Negative Plane - The Pact
+12Yv3UWaeM3DpJT1TEnbei # Sumerlands - Dreamkiller
+7p3f8b0cCBnrHmP7VpGZgw # Sumerlands - Dreamkiller
+2JZN65DjGzT65ondXiQDHI # Voivod - Synchro Anarchy
+1k9JH2nPsI1Lb9ny0rFVpj # Voivod - Synchro Anarchy
+0IphrKSbGYqoAJFENobr8q # White Ward - False Light
+4RbsEs32Y34iOZvc3TnDTO # Sigh - Shiki
+2E0VM3yGCaKSgd2CENiNbr # Blut Aus Nord - Disharmonium - Undreamable Abysses
+7AzLM5tPYEPYDi8ceFJzFP # Messa - Close
+4mrrs4sJ5AMYU6Csepz8m2 # Autonoesis - Moon of Foul Magics
+3546mWMdmMbXpMVopfDINz # Satan - Earth Infernal
+6XfFWtshKIYvwjI6qAqR8m # Wormrot - Hiss
+0BKXemLWwkU9t6KiYCdVzj # Darkthrone - Astral Fortress
+2q8bvh3cwfNkTU8BpaVwHM # The Chasm - The Scars of a Lost Reflective Shadow
+3EATOOixZ8TxrSqvbtF46A # Amorphis - Halo
+2yFxLI1tMhzY04Oz67WoPr # Ashenspire - Hostile Architecture
+4qpbZOJK0Fm35wWvc3ZOsi # Deathspell Omega - The Long Defeat
+48sF8n3hIbwdq4YP03glOR # Ares Kingdom - In Darkness at Last
+5NkcJCyn7G9CTnXPPakprm # Evil Invaders - Shattering Reflection
+3fn4HfVz5dhmE0PG24rh6h # Ghost - IMPERA
+7ElQKlJ86fFutJePL9P4bC # Misþyrming - Með hamri
+2MUCVtOUGisrKFRKzCBItz # Riot City - Electric Elite
+Cauldron Born - Cold Steel for the Necromancer #  Could not find item. Remove this comment to try again			 not on spotify
+18qREmgUSt5w1fWZOyC3Zk # Pharmacist - Flourishing Extremities on Unspoiled Mental Grounds
+7Ap2dUt3QS6CnJKiC126vG # SONJA - Loud Arriver
+0rNeQyZdV5rD6U4xjXj21T # Autopsy - Morbidity Triumphant
+5YpR8eoKWv0BVGJvLwn8bx # Stratovarius - Survive
+1s1HJF1Zn5f0VTwRRLOBVb # Stratovarius - Survive
+2iJh6o9qiZHBukshvWoRXI # Avantasia - A Paranormal Evening with the Moonflower Society
+1ndGwkfVOx1WpPGluiOEl9 # Imperial Triumphant - Spirit Of Ecstasy			 typo, fixed
+4QIrLGsFHl9Q6WxajyQSH6 # Blackbraid - Blackbraid I
+1iorfnXseadchyorGIKjuI # Drudkh - All Belong to the Night
+1HSgjH56IueTuSn0Jizr2g # Aeviterne - The Ailing Facade
+7knrgJVj2Q95gEecolDfeR # Threshold - Dividing Lines
+3TXzJXJDbXRMW2RtX5eDRs # Artificial Brain - Artificial Brain
+Inanna - Void of Unending Depths #  Could not find item. Remove this comment to try again			 not on spotify
+7qmZz6yfRiXAoW4lgOPi4W # Watain - The Agony & Ecstasy of Watain
+51Dl5cWH5JcNauvuzKBKjl # VÉHÉMENCE - Ordalies
+1uWrXYT7gBJ39hy4PLptnF # Kreator - Hate Über Alles
+4BSudvLi4v6OZWm3uN5BSo # Kreator - Hate Über Alles
+52U9u5JGMUgPCTiOtS2Hro # Fellowship - The Saberlight Chronicles
+0mFOKK4EHSie3Hu1bhOiIB # Cult Of Luna - The Long Road North
+1LbK8xqE3DF6DE9drbwacI # Allegaeon - DAMNUM
+53MtM2aU3PXqSfcrkhd1jR # Hath - All That Was Promised
+6MdKNbene2uB87TlXfFQFX # Gevurah - Gehinnom
+2lQPha6uNZbNC6Jes7ukoU # Kvaen - The Great Below
+4A3MbWuHJxprtVQJoMDHji # Moonlight Sorcery - Piercing Through the Frozen Eternity
+7wj5mUpQvojB6qHytMq44H # Devil Master - Ecstasies Of Never Ending Night			 typo, fixed
+7EjCMFid4UoMFYxsJMs020 # Wake - Thought Form Descent
+1swdOihxBBv2mwFNtbD0xm # Revocation - Netherheaven
+6X8cqvrWfIjRf09pfcLECo # An Abstract Illusion - Woe
+3ihCgUA86kGnh6wTWqCgzR # Luzifer - Iron Shackles
+4pUmkwAF3H7l6hC1YDnRsV # Luzifer - Iron Shackles
+2sIkTZlCedNCHRdB1BSCz3 # Sakis Tolis - Among the Fires of Hell
+3SPcruAoKeUcnlX5GIL5J8 # Sakis Tolis - Among the Fires of Hell
+Grand Belial's Key - Kohanic Charmers #  Could not find item. Remove this comment to try again			 not on spotify
+70w0oqZPEJvaMrTUz5KOWp # Steel Inferno - Evil Reign
+0ULfAaYkPeQfu3f64qNiuy # Phobophilic - Enveloping Absurdity
+1ziUtOuRT545OI4cnHEMhC # Megadeth - The Sick, The Dying… And The Dead!
+7M7cKzx8rLJUw9xU81yKXu # Persefone - metanoia
+4k47QEjfxhb9qb5cmB6pTg # The Antichrist Imperium - Volume III: Satan in His Original Glory			 on spotify, worked in isolation, attempting w/o :
+1TFTjYf6C6sTT7q61CxE1Z # Grenadier - Trumpets Blare in Blazing Glory
+7fJYG6f3MUrE6KEAr4hBDk # Hammers of Misfortune - Overtaker
+5jgxWJ79noaLvZWhEazyDo # Wędrujący Wiatr - Zorzysta Staje Oćma
+7p4lFRfi4snBH7Mj3hMUmQ # Ripped to Shreds - 劇變 (Jubian)			 right but has extra symbols
+2isxVXQWcdXHHt2d7YOgXE # Destruction - Diabolical
+13bxe7kV1ThWrgULOtBOAx # Destruction - Diabolical
+7jzxkX2KQYwL3zltRNSLSo # Haunter - Discarnate Ails
+0hpFRZEgy6k8J7gS29F0Q4 # Wiegedood - There's Always Blood At The End Of The Road			 typo, fixed
+3eTjYSjEnOLjPfnMScQz9R # Horn - Verzet
+1Xs6w4Qx0rHSteeQls8LRI # The Halo Effect - Days Of The Lost
+7hFCSY0JLmWyeNT8NkBkm7 # The Halo Effect - Days Of The Lost
+1CHX9SdRukJJUSLu9Ld5Sp # Aara - Triade II : Hemera			 seems fine, attempting w/o :
+1BDshY4jstd1N5h7fIOCsn # Power Paladin - With the Magic of Windfyre Steel
+4XaR6FbfvrS2xc0Sbkq4uu # Gaerea - Mirage
+4CzTlPRcOppWVblSVXuo7k # Gaerea - Mirage
+59eeYsYn4KBOtOtAPCESVW # Arjen Anthony Lucassen's Star One - Revel In Time
+4F4zzCVXkFuDiH9pnf88Jk # Arjen Anthony Lucassen's Star One - Revel in Time
+1fvGhdUzdva8Y7vHD8RtNV # Wilderun - Epigone (Bonus Tracks Edition)			 "bonus tracks" in album name
+3zHDVHsSvlmKeTHgCZHwbG # Avatarium - Death, Where Is Your Sting?
+72jY1dE5LsDMUJp1i1G2J8 # Avatarium - Death, Where Is Your Sting
+1h4pyfLZgGi11i560BmZp0 # Decapitated - Cancer Culture
+3p1VGj7t6THMp6TC4ZvP0B # Decapitated - Cancer Culture
+2XF06ED6nEjCLiPbPrmBhN # Ataraxy - The Last Mirror
+0wMIRau0Ds90pixG7HIg76 # Trhä - vat gëlénva!!!
+6e7leFXRbdDiNLl0aCuips # Belphegor - The Devils
+3XChH0deyZy39f2ntkqG96 # Wolf - Shadowland
+4uWuWYJ5KY9PEYmUysob6G # Wolf - Shadowland
+1wSj2n7kBol86cHIzIwpjS # The Otolith - Folium Limina
+4RuRLCI0lT6EyvueJgZboz # Ultha - All that has Never been True
+2xwEZWOYv3eko47N0Wejrk # Fer de Lance - The Hyperborean
+5pL9YDRmrXWNPEJGKiYUXs # Undeath - It's Time...To Rise from the Grave
+395PGtLKWOIa5iXNpy3fhK # In The Woods... - Diversum
+6pC5Nhx3zoSIRKqj9OMbCJ # Trial (swe) - Feed the Fire
+7yyNmqnrEITs2vz3NXsmxz # Oceans of Slumber - Starlight And Ash
+6Kuz73jchZKPe72PPi2s3C # Battle Beast - Circus Of Doom
+3hv7LszXyDTUSCVoIGJ2nL # Heaving Earth - Darkness of God
+Nocturnal Triumph - Nocturnal Triumph #  Could not find item. Remove this comment to try again			 not on spotify
+5kxOks7J5KpSTCEv7afrYd # Early Moods - Early Moods			 missing
+4ThwjfiN2J3KPcmKaueoc0 # Razor - Cycle of Contempt
+6w4YBuOVNKU8P4oJ6Fiunn # Worm - Bluenothing
+1O4Q01r8sLAqTJDouWr7YZ # Saxon - Carpe Diem
+39xLywq8gaDHfr8YQ9XUS3 # Daeva - Through Sheer Will and Black Magic…
+2jAB5UFxls98kWmtboZ4nV # Verberis - Adumbration of the Veiled Logos
+4VT5GDH4DPLZPlbmr7qzlc # Faceless Burial - At the Foothills of Deliration
+5dHmrUNuCvJJDgbS8tetwd # Venator - Echoes from the Gutter
+6EgEo5csYA7HqasanrvwWk # Meshuggah - Immutable
+5O3nu34y1TtjTej3SYbQCG # Scarcity - Aveilut
+1qKHZeyrtZxvdtx6iOpxWR # Nechochwen - Kanawha Black
+1rRn36ZY7U5Phm8u3854d7 # Protector - Excessive Outburst of Depravity
+6mk5P7m6OZDegdnIPqx23M # Borealis - Illusions
+6gRewjawwhkxflurFDBUc4 # Origin - Chaosmos
+3SbJJzI3FmP3x66Myx0eEn # Origin - Cosmos
+3Yq72qNc9eIqG2iqS9Zsa8 # Sanhedrin - Lights On
+7Fbm6S2gPewTJKW6fBV3sN # Disillusion - Ayam
+731r0sQtTycOQAGb58Bz5r # Suppression - The Sorrow of Soul Through Flesh
+2NiWsijkO4WWn9VPoxYajv # Saor - Origins
+65pGS3n8vZvwLvY6CED7hY # Saor - Origins
+4XmYVFmtGpLs6XwL7WkuuZ # Darkest Era - Wither On The Vine
+7N1dJ1xS3N7e2ESO2vhZzr # Darkest Era - Wither On The Vine
+2VL3HzxcoEdIqk1eO58s9b # Skull Fist - Paid In Full
+1WGeKDoeWt47eWOWEnM3HG # Grima - Frostbitten
+1IDPcOlAF1VDhnN5AOz61l # Spell - Tragic Magic
+381BPCVwvxRIdgU6e27tqo # Stormruler - Sacred Rites & Black Magick
+2ZkvpqDd0zvmbIJHr7FPPA # Stormruler - Sacred Rites & Black Magick
+7oLV28UoTv9N3Y46ygp2Tc # Djevel - Naa skrider natten sort
+0m5Myw8279H3fmmhSd5XdT # Soilwork - Övergivenheten
+0rDa03O4WaF16aoQffkPDF # Soilwork - Övergivenheten
+46IwfwAqznXELooA1tWmf8 # Molten Chains - Orisons of Vengeance
+4Aw1YxGh3eaefguzl1Ivxs # Dark Funeral - We Are The Apocalypse
+0UWT0SwOzXkR9IVbz0GNuo # Arch Enemy - Deceivers
+6teXtF5T7zmF49lqjnwtW8 # Seventh Wonder - The Testament
+5vBUDHMCdEqNJglh1OKwMb # Fallujah - Empyrean
+2zI5FdH00QBtvTcG9D9DK2 # Deathhammer - Electric Warfare
+2RyXyUT9xHfJXobqctHLT0 # Saidan - Onryō II: Her Spirit Eternal			 missing, had :
+5HSvQ4gnXAVZBzFx4Sr2p2 # Kampfar - Til Klovers Takt
+1WuqlDJb7Z2ipBhM6ww7QI # Lorna Shore - Pain Remains
+1PddlbV2O6RL1Dfu670pYo # Asunojokei - Island
+5yRdeq8bd6UnAEFcBGj7kT # Panzerfaust - The Suns of Perdition - Chapter III: The Astral Drain			 missing, had :
+6u3l4ebOqnxkekPQRPJMwS # Panzerfaust - The Suns of Perdition - Chapter II: Render Unto Eden			 missing, had :
+7eHLoWFSgKLakQipJqNjvJ # Panzerfaust - The Suns of Perdition - Chapter I: War, Horrid War			 missing, had :
+Hate Forest - Innermost #  Could not find item. Remove this comment to try again			 not on spotify
+4HJqsD4Aw2HHa24liDoxFe # Behemoth - Opvs Contra Natvram
+7udoMEpGyjqj6qgIpERlzv # Mizmor, Thou - Myopia			 can't handle two artist names
+2Mq1kZfdKsXQbuP2k5PYvh # Mizmor, Thou - Myopia			 can't handle two artist names
+3gAo3FrFFWWQZo82KMA3Co # BRAN - Odch​á​zení			 seems fine, no idea why it's missing
+6jcooFqrTY3XcnYe5DltV4 # Archgoat - All Christianity Ends
+0cVHeZCI9YO7zovnvacfhy # Hangman's Chair - A Loner
+1QVGbLziOihzRdsVq9ytsS # Mournful Congregation - The Exuviae of Gods - Part 1
+2bZGJSJmdCeVW8gyJfMojG # Sadist - Firescorched
+0qmxSddqr2AlzeQ78SKh6l # Paganizer - Beyond the Macabre
+7IHPZq9KZgBohArMKKzhg2 # Cloud Rat - Threshold			 seems fine, no idea why it's missing
+4cSV9fnszN1sFaRDIV5UCr # Imprecation - In Nomine Diaboli
+7LtkUMyikfiQ8PT89wFQ0B # Deströyer 666 - Never Surrender
+10XXiTAzzP0BApJKfQfWPR # Armory - Mercurion
+Stangarigel - Na Severe Srdca #  Could not find item. Remove this comment to try again			 artist not on spotify
+6sA3vyqvcHwV6vkJY38POW # Cosmic Putrefaction - Crepuscular Dirge for the Blessed Ones
+3AnsUEXbsXwdBp9tk7Tf6s # Schizophrenia - Recollections of the Insane
+0CR7QWwYvn3icyrOUDDGbD # THE TEMPLE - Of Solitude Triumphant
+0XqjIY7opIkNBbcHiXNvlB # Dream Unending - Song of Salvation
+1MQan3JJyG17zdXMI0cpX3 # Tony Martin - Thorns
+0fLeH63QKjTuh7pr2RbEYj # Visions of Atlantis - Pirates
+1pIEOhiOmUfZ47WumeFcEo # Vermilia - Ruska
+2Mys40rXrG4GNkRDeJMZ88 # Septicflesh - Modern Primitive
+1RydjIurQHrOUJmkUjiWUv
+22aidiPsScYQsOycqSDkeV # Konquest - Time and Tyranny
+6U2Z6XkY2VQcR63aVascjH # Toxik - Dis Morta
+3T2WfEufneDbL8s4AgxkPL # Swampborn - Beyond Ratio
+6OEXwa3bcVfatyP0LVSogO # Miscreance - Convergence
+6Af1LiHe6t31fU0SfZ7axr # Esoctrilihum - Consecration of the Spiritüs Flesh
+2ldXsEMrEZQSTDAIkrcWxP # Marrasmieli - Martaiden Mailta
+1Wx6vTc4adeBbEJgQCbZV3 # Scorpions - Rock Believer
+4u1LXToDGOdhDDf4c9zeqb # Ozzy Osbourne - Patient Number 9
+Cauchemar - Rosa Mystica #  Could not find item. Remove this comment to try again				not on spotify
+2xUuHLEfu43H6jl6q7TVOC # Terzij de Horde - In One of These, I Am Your Enemy
+7K63jlUitVPNKxbjrrMhtM # Conan - Evidence of Immortality
+24cOhaktfXSqjSNg77Y1Ee # Candlemass - Sweet Evil Sun
+6WRAvzQSsvUVEDpQOKN6LX # Candlemass - Sweet Evil Sun
+5KrOEafLwZQFNH2H7O3SZH # Assumption - Hadean Tides
+0lhxN79PlHip6pDeeLx6t4 # Inexorum - Equinox Vigil
+3UecwUPyP2N09RgxdnEnaB # Inexorum - Equinox Vigil
+1zSYX1sXTkjsWsh2iD1l5e # Inexorum - Equinox Vigil
+4n4qNb9Q3eJe6oPS2lgpP5 # Inexorum - Equinox Vigil
+6pwwXi1lkq446RXMih9nHn # GUDSFORLADT - Friendship, Love and War
+6khbdoAcM8K7tnk3Kg6LFQ # Bloodbath - "Survival of the Sickest"
+2yxtibsx4LNxsPKrQayOEg # Friends Of Hell - Friends of Hell
+7gxfVg1zrlwzsYdZmjK2ZO # Friends Of Hell - Friends of Hell
+6wg1NO7ob1W3UjKinw4oY3 # Ash of Ashes - Traces
+0Z68Qj28jLHGlHUM79hobP # High Command - Eclipse of the Dual Moons
+4SWzyQFBYMYVHQbsr8W3A4 # Mirror - The Day Bastard Leaders Die
+3yyXegiDL6H07fs6uagZhu # Spiter - Bathe the Babe in Bats' Blood
+08OPPCzqvIcn6wQ9VfEfof # A Pale December - Death Panacea
+6RC2GT3ubMmJbMfU6Egdwc # Heltekvad - Morgenrødens Helvedesherre
+2Rx621zInZoVGnvMRNsKRp # Heltekvad - Morgenrødens Helvedesherre
+3MnJZLg8TPmw4KKYinYO7F # Tome Of The Unreplenished - Earthbound
+77xNgGyPFo5pxSBdeoY3Mo # Glemsel - Forfader
+2Gq0BfIewJqKFk0KncpsMA # Kardashev - Liminal Rite
+Eric Wagner - In the Lonely Night of Mourning #  Could not find item. Remove this comment to try again			# not on spotify
+1rsMO1bwVlUhaZi7jvnEnA # Nite - Voices of the Kronian Moon
+4xf1Nt7u6Ge4FcmJpJLneG # Cloven Hoof - Time Assassin
+4Apfrrp8FpCrGtxZLl2gAI # Cloven Hoof - Time Assassin
+5KPOGEqtOQmdiMQx7vMyR3 # Cloven Hoof - Time Assassin
+0k7ayWf85Z0NlddrM9Tmei # Vital Spirit - Still as the Night, Cold as the Wind
+1rx0dKjvrWMKpJVa3aRshG # Critical Defiance - No Life Forms
+3s7abfHktH3ljR7fAXPZPp # Therion - Leviathan
+2DJ5MSG3P0ApFNUjyRVitN # Therion - Leviathan II
+0O2wx1gZKRKhFx2Jy9a1R3 # Chaotian - Effigies of Obsolescence
+4wYzRwMGXGwXdG34pnVBOR # Hissing - Hypervirulence Architecture
+4gWScx9oKTfu3VNz0KBZMI # Hell Fire - Reckoning
+5GoomfehUOoGhc7DjRzXiU # Hell Fire - Reckoning
+2xbRZ1wRP23lA6Pby28gCb # Kathaaria - To be Shunned by All... as Centres of Pestilence
+0GhxqOg5K4IByZ1cFc54x9 # Midnight Rider - Beyond The Blood Red Horizon
+5oBFeM2KiVNUKVszpIlUUo # Midnight Rider - Beyond The Blood Red Horizon
+7tWpDZxWUhFEqwIhHSy00i # Soulfly - Totem
+1mGKYxUeyOLsZP8ePbqLGa # Nostalghia - Au milieu de l'hiver
+Vio-Lence - Let the World Burn #  Could not find item. Remove this comment to try again
+2DE5wnCoDph2KliojjP2hE # Temple of Void - Summoning the Slayer
+4qzRlRHJcQChqwSPIV3osv # Incandescence - Le Coeur De L'homme
+1YwAkYsGTgNMWaayCgxjsb # Shadow of Intent - Elegy
+7CD60kr1nvSxfQ6OPi6GD4 # Vorga - Striving Toward Oblivion
+7d5aPfTVD8czC13BmJNOXV # Soreption - Jord
+15teWCnyS0go024yl8hUm0 # SEDIMENTUM - Suppuration Morphogénésiaque
+Abhor - Sex Sex Sex (Ceremonia Daemonis Antichristi) #  Could not find item. Remove this comment to try again			# not on spotify
+5uwjtBr5yC80OimgBJkmUv # Dragonland - The Power Of The Nightstar
+1X4QbLsdWE5LZnBemkia70 # Dragonland - The Power of the Nightstar
+5P5eHXe0pIgiij2tdQgFTC # Månegarm - Ynglingaättens Öde
+33DPho5txRkYjMYVqLdVmX # Spiritus Mortis - The Great Seal
+5XClGjeje4c3qPjbtT898K # Elder - Innate Passage
+6sU5W35FN6Y2BYscD3N7ul # White Rune - Dawn of the White Rune
+6vpAzNnLMNBNyscK2no4uL # Woods of Desolation - The Falling Tide
+0CTD521z2OCbYEZ5Q15BsB # Woods of Desolation - The Falling Tide
+5AO2OzN5dXjyq4mnAov69F # Lifvsleda - Sepulkral Dedikation
+2BNAPkDOETwF0eA375AH1d # Det eviga leendet - Reverence
+5ond0LLkSbsCOjryRCh9mg # Tómarúm - Ash in Realms of Stone Icons
+3DsEVgN8NGAa0u5LaVhZsx # Brymir - Voices in the Sky
+68d0lRK77t3XxbThIyY01w # Brymir - Voices in the Sky
+3CNgCf8Xnno0GH9EhXMMQR # Skid Row - The Gang's All Here
+7KVLjJHEOCzX1PFwzp3dj4 # Skid Row - The Gang's All Here
+4JzceSSUSLkWD7cBkLj2Hy # Predatory Light - Death and the Twilight Hours
+2seNttSbneCf2julPcD9Eq # In Aphelion - Moribund
+394YUCEdUPkwgiDVXBVYRj # Raptore - Blackfire
+7J3gMasgnqTDKKW6nZv61M # Raptore - Blackfire
+5f5PjyjsKK4fsYFVJVox62 # CELESTE - Assassine(s)
+309FOE3QCzH7hXgc1moQd3
+0mC2Q5sdDw49QAQmJzjR5O # Bâ'a - Egrégore
+Metalian - Beyond the Wall #  Could not find item. Remove this comment to try again			# not on spotify
+6vaaIZGDunPsf0T5Y2y77t # Owls Woods Graves - Secret Spies of the Horned Patrician
+39YOvt56AoAllWkio0vm8G # Sumerian Tombs - Sumerian Tombs
+0FOqOvLYbfpNsmD4BV8B9R # Boris - Heavy Rocks (2022)
+4jY4J2iZZpiI2nRv3vQJfJ # Boris - Heavy Rocks (2011)
+0qdRaMGJVD4kMpNNfste3r # Parish - Parish
+0GD5yVU8R72uax4yKAqlNz # Black Fucking Cancer - Procreate Inverse
+5zoxsSnlCzo957mW7HBI53 # Corpsessed - Succumb to Rot
+6qjb8ZypDxCCIZUKYwjYlL # Devin Townsend - Lightwork
+7pl7u3aa6YDWKi29W3t4xq # Devin Townsend - Lightworker
+4Ubrzw39XooMD4x0a7pZmw # Eliminator - Ancient Light
+0jwv4BF2iO8bj0S3GP1Lg9 # Luminous Vault - Animate the Emptiness
+1QbhtS1pFDTnqg9fJiwGwE # Sphere - Blood Era
+5P0N7n1CwVfqLk6cVkzf7D # Sphere - Blood Era
+59w4hQFZKTrDWymuXDPQdn # Shape Of Despair - Return to the Void
+5lQW7kHR5FlOWlrkfkbPLs # Krisiun - Mortem Solis
+5Z5hX7n71d9n39BrjJwFld # Konvent - Call Down the Sun
+2nTZtQxxBz0XiwEktLO0MM # HammerFall - Hammer of Dawn
+6px2iFm77MCdKTzUjHCp4s # HammerFall - Hammer of Dawn
+3aiq05AIjbfZqEaGcxMtwR # Sisyphean - Colours of Faith
+1OGiaHeahxxLqhtI37r4rT # Come to Grief - When the World Dies
+1cb5PfrZV0Q8YH1hWn4X7R # Come to Grief - When the World Dies
+6pGhtYTw6Lz9aamI5l0OJd # MMXX - Sacred Cargo
+64IBxbKNA7UxWZKVPbmTEv # MMXX - Sacred Cargo
+4f6fSzSAypA69erLPAG1Sy # The Troops of Doom - Antichrist Reborn
+4GPgKUgVGdCVor2H0CqYVL # Emissary - Emissary
+2ArmBaHmTRLyxT6J2Fhtqq # Horns & Hooves - I Am the Skel Messiah
+4nrHbTF9PIH8WLTsMx87UJ # Tankard - Pavlov's Dawgs	
+2j2WyepZKTJ3JLPIbA7Ei6 # Pensées Nocturnes - DOUCE FANGE
+65XpGLugOKklOHYE9SLmAk
+4O4krXb7DWdic7axPxg4UC # Exhumed - To the Dead
+7eU7eHqnbyNBJ1A4Ghka0r # Wolfheart - King of the North
+04rOr7Jqx7MFfKsxd9uWZr # Marc Urselli's SteppenDoom - SteppenDoom
+6ERMHAAUnmYbslnC2a2rrj # Trollfest - Flamingo Overlord
+32W7n2vtVx6QuMCZiMnsSa # Misery Index - Complete Control
+2wEc14vBxpV2pRCsiaiaZR # Misery Index - Complete Control
+7ks1taIwddDv4bjFrujxn2
+2eINq5utZV7jprN8lQf5pS # Altars - Ascetic Reflection
+7MTTYo0NvWLXxfUQgl5ltJ # Altars - Ascetic Reflection
+3Fiil2VSHy9wOwTxTiEuWR # Dark Millennium - Acid River
+5Jf1NavkE0nEpzo2rnjMrL # Wind Rose - Warfront
+6buNgkPi8YsuLnXbnoXDya # Ultra Silvam - The Sanctity of Death
+3LK4RzSqoZwzZ6rtEbOj1G # Lord Belial - Rapture
+41cwbegVzALRIIJ3YbvIsk # Knoll - Metempiric
+#Matenrou Opera - 真実を知っていく物語 #  Could not find item. Remove this comment to try again
+6G3bq5NzAvAZnShVS26ZTO
+6F7Ex1XuOs3beGYdYWg9L4 # misanthropæ - Untitled
+5ReMXko8PPw0Om5O6PZsRy # Stryper - The Final Battle
+7a4vXlwOYbaSMnm6o8Ydfw # Lord Vigo - We Shall Overcome
+Tomb Mold - Aperture of Body #  Could not find item. Remove this comment to try again			# not on spotify
+047j5xS9qOqLJMAkOnEjar # Witchslayer - Witchslayer
+4C5tzN0C4W4He5Rec5nMAj # A Sound of Thunder - The Krimson Kult
+2dh8HSPjgqcuLbomsAzfSN # ColdWorld - Isolation
+0qilzu3EIOuFZPvphDRJYr # Jani Liimatainen - My Father's Son
+1G5WCl6rqcS7oENXCZt3c1 # Vórtize - !Tienes Que Luchar¡
+49RfDv9BawZQq8hJq0V5wB # Amon Amarth - The Great Heathen Army
+2Ge7U7lz8QrfTEI9RmBEhc # Amon Amarth - The Great Heathen Army
+43cPcTfoZePPoPHpvTeZ9q # Doublegeddon - Geddon Dangerous
+7HFPoB6xzK5RtrKuhdLf8S # Falls of Rauros - Key to a Vanishing Future
+0MxXLX6lLvygwbFsepAK2x # Falls of Rauros - Key to a Vanishing Future
+0AjjVxJ8KkGrrRImHUlC3r # Queensrÿche - Digital Noise Alliance
+4ZYvzjTUVimYgNSU72xYjc # It Doesn't Get Better - It Doesn't Get Better
+2s45mX2PO1l2ddg4Wrwc98 # Mico - Zigurat
+2L85eUbgY8SsZ2j9vDrvMV # Ufomammut - Fenice
+6Q7r2jVVpgCnkIrBCVpEtj # Hulder - The Eternal Fanfare
+Wampyrinacht - Night Of The Desecration Les Jardins De Nyx #  Could not find item. Remove this comment to try again
+15MI6QRPR6IG2p62xDbhHx # De Profundis - The Corruption of Virtue
+5BqB0BxOCo74vCNBSObr9P # Deserted Fear - Doomsday
+5Nyadjpk1WqdfLVaonzwWO # Xentrix - Seven Words
+0K1aAagoaaplNXP2vHRSkM # Xentrix - Seven Words
+1y0i6hgaPVjC8ysMQMtGik # Lustre - A Thirst for Summer Rain
+4nzIXL3DnlGw83F0l3ZBoK # Firtan - Marter
+5JiJsCfdop3jyiUDHkLoBq # Rotten Tomb - Visions of a Dismal Fate
+Kontact - First Contact #  Could not find item. Remove this comment to try again
+0iYENkKiGQHLt2RP2alLFA # Live Burial - Curse of the Forlorn
+0kUo8YHZ22dk6Q2Z5ZGElY # Order of Nosferat - Nachtmusik
+3mgXQQKFmRZBkgdFz6HN2r # Species - To Find Deliverance
+3DFouZl5YzSiDiC7Q7GOg9 # Graceless - Chants from Purgatory
+2tGdXblQ8VrTtROMttzTYP # Slaegt - Goddess
+4ClB1o1LdLas1As0GlKCI6 # Pure Wrath - Hymn to the Woeful Hearts
+7gj3v8G00R6Ae9en9ETWy6 # Pyrithe - Monuments to Impermanence
+2be5sZS5GnDnpAMsjWhh1t # Pyrithe - Monuments to Impermanence
+7ukoQopDlqj04IVUr4kR1w # Midnight - Let There Be Witchery
+31d3O0XiGhnbvw2PpYO1Nt # Pestilent Hex - The Ashen Abhorrence
+43UvTeoqodMEMwSBsp4qx3 # Abyssus - Death Revival
+1hMspoS89Nc4HVLu8bkE8z # Die Apokalyptischen Reiter - Wilde Kinder
+1sdmnVWndpvGblDOcjbj1D # Die Apokalyptischen Reiter - Wilde Kinder
+2ke0Fs3EpxNXMw2PApqojs # Te Ruki - Marako Te Ruki
+0VJUj2fj19XyfNXamFtgvV # Truchło Strzygi - Gwiezdny Demon
+3sne4xQjnC7VoxQTwTAuSA # Desecresy - Unveiling the Abyss
+4cXDKlhxUrZ3gYO8mHMah3 # Dreamtale - Everlasting Flame
+4IkR0ZcSeoiSEeihXoZdcW # Judicator - The Majesty of Decay
+48iC35tOmkfvwaBjo0eQ7A # Molder - Engrossed in Decay
+6wRdsIxWoM3TcAQiQ5vqZe # Molder - Engrossed in Decay
+24Kpl5yCVvmKh2j9Lq1BTC # Arrayan Path - Thus Always to Tyrants
+29wLElUZc0PWUe93dUi8tf # Eruption - Tellurian Rupture
+0tkgyipQ3jjwI2UVGVDDuT # Traitor - Exiled To The Surface
+6dzIsjlhJbUQGPO7wuBAn5 # Traitor - Exiled To The Surface
+787aF9nm69TEabg7ElrcvP # Universally Estranged - Dimension of Deviant Clusters
+3NRJVW7H2nZrPNGqzT26xh # Venom Inc. - There's Only Black
+3dWCVPHqOlVutLI2hUnlH8 # Innumerable Forms - Philosophical Collapse
+5ByR2W7N4vZlpsdkZOahIS # Astronoid - Radiant Bloom
+2OmOVZhJZbpASN7UcegN8Z # Abbath - Dread Reaver
+6R1SslFoSXlsQ8g0VvpN0n # Abbath - Dread Reaver
+2UrIRTSZwemmXp0vDwBrlw # Malevolence - Malicious Intent
+1FvAJioX3EPO8ZQC4DV6l9 # Nocturna - Daughters of the Night
+2MAfNOcfJlDMjJcc9G9NFx # Nocturna - Daughters of the Night
+2upOmpGxVxd3ExQLktFgzc # Thormesis - If Mania Never Ends
+0OWQiWfo2tc10YghREVUSR # Psycroptic - Divine Council
+2fx3dbPxgY74ybM3NfmG1p # Edenbridge - Shangri-La
+3kB4VjXKKCY7l5xeH113Da # Sabaton - The War to End All Wars
+25cx8KdB7FguMtqqxC73HJ # Aequorea - Dim
+0ayQ9TVnSnluJrjLht4oe6 # Animalize - Meat We're Made Of
+3GP99fV98BtwkJ5dS2yonN # Church Of Disgust - Weakest Is The Flesh
+3dFxQy94nEZ5yL2vIVD6AZ # Vauruvã - Por Nós da Ventania
+1XNrJhweQCfcp3JE8mkgRu # Fallen Sanctuary - Terranova
+1f2D7g7N8FzlDHiHVYsCht # Fallen Sanctuary - Terranova
+2Atk7trH5xOBvYMFDK4E2J # mathan - DARKROOT TZANTZA
+1IpjGay9WMQtYz1wzlbLGo # Coscradh - Nahanagan Stadial
+6nQW2jZpwLNbpvxdVFNC1p # Bomber - Nocturnal Creatures
+0s4XvTgeIjobu0FvmhtQQv # Monasterium - Cold Are The Graves
+6TLPC4CCDzlLZwzgUr4kZR # Seizure - Forbidden Tales
+6Rd7skAgM7Rwi8Sa1VD9bU # Validor - Full Triumphed
+Beyond Mortal Dreams - Abomination Of The Flames #  Could not find item. Remove this comment to try again
+3eQj46K9ZQmQyUL1WVo6Gn # Fugitive - Maniac
+6l2BozQswQ9uIUgCsWwzeo # Kostnatění - Oheň hoří tam, kde padl
+3AWTidV5GX5lNHNDSjJmPe # Tzompantli - Tlazcaltiliztli
+7wR8R5j1ABAmhtJKUdZ9nM # Ad Noctem Funeriis - Abyss, Fire, Brimstones
+Bedsore / Mortal Incarnation - Split #  Could not find item. Remove this comment to try again
+7GiQ5guVJwb7hScDnhfsAW # Miss May I - Curse Of Existence
+Doldrum - The Knocking, or the Way Too Long Album Title #  Could not find item. Remove this comment to try again
+1vgXyGcTLexUOAgMM2TOTF # Vacuous - Dreams of Dysphoria
+Lunar Spells - Demise of Heaven #  Could not find item. Remove this comment to try again
+6kBmnh7hTEZNNk8xUSZxDX # Astral Tomb - Soulgazer
+4PQ5ueJLYBIshoP3FSx4ek # Black Death Cult - Diaspora
+1DJu0m65a7He0lyFRVN28Z # Induction - Born From Fire
+0rdx1dxOnos9ZxoiCpC9wD # Kaarne - Rubicon
+130yFfLZhnXfQgh9WOI1FE # Vimur - Transcendental Violence
+6MrDqXiTIXXOLUkgfHfkya # Jungle Rot - A Call to Arms
+2lCA2qQJdUgS9RoBDIaTR0 # Jungle Rot - A Call to Arms
+0qM8OXofi6vRqScKipZ0mF # Maule - Maule
+3L5tXrz0aveoAJB5JfYzTS # Midas - Midas
+6uUVF2Ji3G6KvnEZGeRgWH # Midas - Midas II
+2YcSFWlmbhQgRoCnTzpt25 # Obsidious - Iconic
+5HyMWbeLwM3rB70heGbf3p # Obsidious - Iconic
+7HBmy2mpuW8yvJjfUdfe3w # Corpsegrinder - Corpsegrinder
+Lordi - Abusement Park #  Could not find item. Remove this comment to try again
+1DYMbBv9D0WKjbi3o6RuSO # Morbific - Squirm Beyond The Mortal Realm
+1uRmFNdKZkSlxfAggHQ6cZ # Morbific - Squirm Beyond the Mortal Realm
+1ahn1snw8Xx3vQiw3iLxPP # Crowbar - Zero And Below
+5bKQRyzYw3rigIhQMi5WpL # Mortuous - Upon Desolation
+5fxODgnMgbkSeqGT0QuRnc # Downcross - Hexapoda Triumph
 
 -Artist:7bV8v6oa1DQo6pz5ETSSJz # wrong origin, similar album name
+

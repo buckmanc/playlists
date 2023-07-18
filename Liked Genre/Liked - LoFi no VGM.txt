@@ -1,6 +1,12 @@
 @default:LikesByGenre
 
+LikesByArtist:Leon Chang #not vgm lofi. how do I get him in here?
 *lofi*
 -genre:*vgm*
+-genre:*anime*
 -artist:gamechops
 
+-track:*star wars*
+-track:*animal crossing*
+-track:*zeldas lullaby*
+-track:*dark souls*
