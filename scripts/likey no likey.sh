@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # playlists of songs I haven't liked by artists I have
 
 #script_dir=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
@@ -6,6 +8,12 @@ script_dir="/media/content/Dropbox/spotify_playlist_generator_config/Playlists/s
 liked_dir="$script_dir/../Liked Genre/"
 nolikeydir="$script_dir/../Likey No Likey/"
 count=0
+
+if [[ ! -d "$nolikeydir" ]]
+then
+	echo "no likey dir does not exist"
+	exit
+fi
 
 cd "$nolikeydir"
 

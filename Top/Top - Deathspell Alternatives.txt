@@ -1,4 +1,7 @@
+@ID:1IdZPRBK3P2msQXBsHpwKF
+@LastRun:7/21/2023 12:01:42 AM
 @default:TopByArtist
+@OnlyRunIfModified
 
 # https://www.reddit.com/r/rabm/comments/ldi2tp/antifascist_alternatives_to_deathspell_omega/
 

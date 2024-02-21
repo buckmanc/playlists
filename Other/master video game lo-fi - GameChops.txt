@@ -1,0 +1,15 @@
+@ID:5q4rhuqHmkhKkfkxjyNWnW
+@UpdateSort
+@sort:release
+@shorterthan:10
+
+LikesFromPlaylist:https://open.spotify.com/playlist/1RyG7NEpTBNbSxsfHXUUWw?si=_VIwQesdQoi5wbN8zCmU2Q
+
+Album:Gamechops - *chill*
+Album:Gamechops - *lofi*
+
+-Album:rifti beats - drake and chill
+-Artist:7mP6pLp0xrXIeip5bSkaJ5	#	Darren Ang
+-Album:5QLfoN4CRYG5XoBc2yifVO	#	Tee Lopes, GameChops - Video Game Christmas (2020)
+-Track:1ZFqDMYDb7m2AhmJJNYmYT	#	Joshua Morse, GameChops - For a Nickel (2021)
+-Track:5IYriNfMvUDE8RAQMTzLQk	#	Button Masher, GameChops - The Girl From Ipanema (2023)

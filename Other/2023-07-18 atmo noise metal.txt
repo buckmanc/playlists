@@ -1,0 +1,12 @@
+@ID:6JFD0kD6gkyDIeqhRvs9H9
+@LastRun:7/20/2023 2:40:37 PM
+@LikedAfter:2023-07-18 12:00
+@LikedBefore:2023-07-21
+@OnlyRunIfModified
+
+LikesByArtist:*
+
+-artist:mariachi*
+-PlaylistTracks:*pvgc*auto*
+-Track:6bcyJRak5GTxyTy0ST5DT6	#	Mutiilation - The Hanged Priest (2014)
+-Track:https://open.spotify.com/track/2ugn2qXLXSavTfBsN3slfP?si=3dfa1d6da0dc41b1

@@ -1,5 +1,0 @@
-@NoLikes
-@LimitPerArtist:3
-@DeleteIfEmpty
-
-TopByArtistFromPlaylist:Liked - Not FFBM

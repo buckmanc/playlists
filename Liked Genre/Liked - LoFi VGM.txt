@@ -1,17 +1,27 @@
-@default:LikesByGenre
+@ID:5plaNET0qJuiuxc1N6AFME
 
-*lofi*
+playlisttracks:liked - lofi all
 -playlisttracks:liked - lofi no vgm
 
-#artists that Spotify labels lofi that aren't, or aren't what I want here
+# non-vgm exclusions go here
+# artists that are not lofi should be excluded in lofi - all
 -artist:Robert Davidson
--Artist:7M1OtLgGeX29Ivo1llzubY #  Super Piano 64
--Artist:7usmxn0C7UWfnOZFZS1AUf #  Altered Beasts
+#-Artist:1eyGtJBOiRGtvXAEhQHpBS #  Smooth McGroove
 
--Album:2DSGQ59YAs1Mm9EoIqNK2g # Trainwreck of Electro Swing (from "A Hat In Time") (2022)
--Album:6CGxznqClEBpBFjdzb4X9t # Year 4 (2020)
--Artist:1eyGtJBOiRGtvXAEhQHpBS #  Smooth McGroove
+-Artist:leon chang	# excellent vg themed lofi, but og
+-artist:bird boy	# excellent bird themed lofi
+-artist:alpha wolf
+-from:lord of the rings
+-Artist:7daSp9zXk1dmqNxwKFkL35	#	Kupla
+-Album:0HWfO6emBz4W6WXOBpTLHE	#	Mikel, Jokabi - The Ghibli Tape (2021)
+-Artist:52JnLwMQ1hNS6f4y8dpRxt	#	Mrdark
+-Artist:6hJhvGKRLfcdvnpQD3gxzC	#	Lazy Elias
+-Album:6lgUIZ3wZbRZfwrHLoMMD0	#	Dj Cutman - Fantasy Grooves (2015)
+-Album:3UqtrI73uajshR3MJKuGWg	# FantomenK,meganekoCrystal Tokyo (2017)
+-Artist:5vmIZE8NHcyDPiHIZ9dtOo	#	Chade Summerset
+-Album:40Hit6WOcn3rE4uYO7gnR0	#	Lawrence Walther, Less Gravity - Floating into Serenity (2021)
+-Track:6skkQXV16o3qZ3Aic6iGSp	#	Tune in with Chewie - Everlasting (2022)
 
--Album:6i4NpxIiZGZ5L81bEW1cbK # The First Try (2008)
--Album:3UqtrI73uajshR3MJKuGWg # FantomenK,meganekoCrystal Tokyo (2017)
--Album:2GcMkLb39xCotzy8Kep0nS # SARE - Zelda Remixed: Music from "The Legend of Zelda" (2018)
+-Artist:4PMAJlYIlc9EafX6z8lwZ3	#	Raimu
+-track: * - *jojos bizarre*
+-track: * - *howl's moving*

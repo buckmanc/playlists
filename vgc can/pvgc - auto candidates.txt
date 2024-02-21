@@ -1,5 +1,10 @@
+@ID:26IQMZglPBCiSpASGGxhwg
 @Default:AllByArtist
 @UpdateSort
+
+-PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL # main piano video game covers playlist
+# AllByArtistFromPlaylist:6X34Nq53CIJTHkuZ1E7lxL # main piano video game covers playlist
+
 TPR
 4bAWSbN9ts50xZf6bIwj4Y	#	DS Music
 Super Piano 64
@@ -22,11 +27,27 @@ Steven Melin
 Pablo Enver
 Laurence Manning
 0S9LKpcBf4Xb5OddKuNVSL	#	Terry:D
-#daigoro789 # moving to his own playlist for now because it's SO MUCH MUSIC
 PurpleSchala
 Darren Ang # not the biggest fan of his keyboard itself but his playing and composition are incredible
+Augustine Mayuga Gonzales
+7durqLtcMSTm44iFFBognG	#	Dhsu
+Sebastien Skaf
+Augustine Mayuga Gonzales
+Trevor Alan Gomes
+Guillermo de la Garza
+Kyle Landry
+tim burnelis
+alessio dicorato
 
-PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL # main piano video game covers playlist
+Album:Rozen - *piano*
+-Album:Sebastien Skaf - Selected Work I
+-Album:Sebastien Skaf - Selected Work II
+Album:Simon Loveridge - *piano*
+Track:Simon Loveridge - *piano*
+
+-Album:Kyle Landry - Works for Piano*
+
+-Album:Augustine Mayuga Gonzales - Disasters For Piano
 
 Album:Thomas Shell - *Piano* # not sure about the quality. Definitely isn't a real piano. Good selection
 Album:Tune in with Chewie - *Piano*
@@ -42,6 +63,10 @@ Album:Morunas - *the witcher*
 Album:Morunas - *animal crossing*
 Album:Morunas - *final fantasy*
 
+# artist is muddled with others
+# need to manually hunt some good stuff
+Album:https://open.spotify.com/artist/6gPY3lFy1spjFMNNsa5mG7?si=GoW5R7KqSRqYozBs4EelSw - *piano*
+
 # change these to track, add track parameter
 Album:Franco Albertini - *Zelda*
 Album:Franco Albertini - *kingdom hearts*
@@ -49,6 +74,8 @@ Album:Franco Albertini - *plants*zombies*
 Album:Franco Albertini - *final fantasy*
 Album:Franco Albertini - *the last of us*
 Album:Franco Albertini - *celeste*
+
+-Album:Augustine Mayuga Gonzales:Disaster for Piano
 
 #his track names are less inclusive than album names so he careful
 Album:Giulio Capone - *zelda*
@@ -94,15 +121,18 @@ Track:gamechops - les dauphins de l'aqueduc*
 -artist:3vBngkkbx94CR6ieyfHVJu # komo
 -artist:jazzthatbrass
 -artist:jimmy on guitar
+-album:tim burnelis - *music box*
 
 -album:* - *lofi
 -album:* - *metal instrumental
+-album:* - *drum and bass*
 -track:*metal instrumental
 -track:*and violin
 -track:*nier automata guitar
 -track:museum lofi*
 -track:*lofi edit
 -track:*lofi hip hop*
+-track:*orchestral cover*
 
 -Artist:LoFi VGM
 -Artist:Dan DeSimone
@@ -198,6 +228,16 @@ Track:gamechops - les dauphins de l'aqueduc*
 -Artist:7EswIAunQpEtHsPoGxvJjK	#	Diana Dunn
 -Artist:7p8mREWB1pM6G0gx0IOX0g	#	AnimeVivi
 -Track:2rp0e8gfnvItt1GIWESlu1	#	Shea's Violin, Animalisa Keys - Oresrush (From: "Octopath Traveler 2") (2023)
+-Track:26dcVXMSe30184vAUXOozQ	#	Pablo Enver - RUN! (2022)
+-Track:5y0ynI0D3RTEVuhD7Vsjvz	#	Kara Comparetto - Wood Carving Partita (From "Castlevania: Symphony of the Night") (2022)
+-Track:0decq6bGctWiq7D1On12EN	#	Morunas - Toss A Coin To Your Witcher (from "The Witcher Series") - Piano Version (2020)
+-Track:5m6zDh7cnyvu3BEquecPJq	#	TPR - Gym Leader Battle (Kanto) (2022)
+-Track:1HgOJs1UDGSG7tIwI01ael	#	TPR, PitTan - Colors Flying High (From "Persona 5 Royal") (2022)
+-Track:4zAAHEEyTTU0YeK341n7qX	#	TPR, abbytheoboist - Alleycat (2022)
+-Track:0R5X6qxjJvlI1KCLkvNOna	#	TPR, Alexandra Langley - The Star Festival (2020)
+-Artist:62GoYifV4njTdvS8lD2yYT	#	insaneintherainmusic
+-Track:1sVhyTuvjzNgAGvRwvakJd	#	TPR, Starling Tan - Soaring / Flight (From "Xenogears") - Instrumental (2021)
+-Artist:31Eoi17HcQM7ElqMMXIUU3	#	Charlie Parra del Riego
 # --all vgc--
 # -- all shared vgc --
 
@@ -238,6 +278,7 @@ Track:gamechops - les dauphins de l'aqueduc*
 
 -artist:sungha jung
 -artist:dan avidan	#	works with super guitar bros on non-vgc stuff
+-album:* - dan avidan*
 
 # classical composers
 -artist:*beethoven*
@@ -421,6 +462,63 @@ Track:gamechops - les dauphins de l'aqueduc*
 -album:* - *yiruma*
 -track:* - *his dark materials*
 -album:* - *escaflowne*
+-track:* - this is halloween*
+-track:* - *bleach
+-from:bleach
+-from:saw
+-from:hunter x hunter
+-track:* - *gypsy* # no slurs please, dammit
+-track:* - *gipsy* # no slurs please, dammit
+-track:* - *evangelion*
+-track:* - *tokyo ghoul*
+-track:* - *demon slayer
+-track:* - *originally performed by*
+-track:* - *backing track*
+-album:* - guitar loops*
+-track:* - *the simpsons*
+-track:* - *dragonball z
+-track:* - *dragonball gt
+-track:* - *dragonball
+-track:* - *one piece
+-track:* - *pulp fiction
+-track:* - *harry potter main theme
+-track:* - *mask of zorro
+-track:* - *death note
+-track:* - *attack on titan
+-track:* - *squid game
+-track:* - *pirates of the carribean
+-track:* - *once upon a time in mexico
+-track:* - married life
+-track:* - *indiana jones*
+-track:* - *oppenheimer*
+-from:la la land
+-track:*la la land
+-from:song of the sea
+-from:the promised neverland
+-track:my heart will go on
+-track:a whole new world*
+-track:colors of the wind
+-track:king of pride rock
+-from:mulan
+-from:the phantom of the opera
+-track:*rick and morty*
+-track:*liszt*
+-track:*pachelbel*
+-track:*hallelujah*
+-track:my heart will go on
+-track:over the rainbow
+-track:love me like you do
+-track:clair de lune
+-track:dance of the sugar plum fairy
+-track:in the bleak midwinter
+-track:when you wish upon a star*
+-track:let it snow*
+-track:gymnopedie*
+-track:toccata and fugue*
+-track:o come o come emmanuel
+-track:stand by me
+-track:marry you
+
 
 
 
@@ -439,6 +537,137 @@ Track:gamechops - les dauphins de l'aqueduc*
 -Artist:3V1f0YghvSHTnUSWevaxMZ	#	Ds músic
 -Track:1r3BXdkGu3gN6XfLdnCFC6	#	Brandon Mild - Golden (2020)
 -Track:4ItYagqayr0z30yRRZGOf8	#	Salome Scheidegger - No Time to Die (2020)
+-Track:7dkKNLrrJwWc0np463mVvY	#	Moisés Nieto - Qué hay más allá (de "Vaiana") (2017)
+-Track:3sh88OAPmKInTzcSoaHZ4y	#	Moisés Nieto - Lo Que Yo Veo Cuando Te Miro (2017)
+-Track:77kwBN3LN2cPOTxK2mZfRC	#	Moisés Nieto, Luke Pickman - Infinitely Human (2021)
 
 # --manual exclusions--
 
+
+-Artist:3fTQ6p0zNkXpKUH31G9OSb	#	Sahil Patel
+-Artist:407t5u1r2iGPGdkZMsfnFZ	#	Appi Prarthi
+-Artist:4bAWSbN9ts50xZf6bIwj4Y	#	DS Music
+
+-Album:6XmRSebXtAillyPSLMXwCq	#	Disasterpeace, David Peacock - Disasters for Piano (2017)
+-Track:1PqkB7Lx8qaoatspMf4fSn	#	WLHR, Lucas Cooper - Cinnabar Island - Lo-Fi music from Pokémon Red & Blue (2023)
+-Track:1gwgU8WEQK5MLOwVnSgszk	#	Momoru, Animalisa Keys, PitTan - Eyes On Me (From "Final Fantasy VIII") (2023)
+-Track:43RyR4C0G5cqDcG3mBUlhq	#	ConcernedApe, Meadow Bridgham, Augustine Mayuga Gonzales - Summer (Tropicala) (2018)
+
+-Track:3fQrzoCJHe2MrG0JXRR27J	#	Mustin, Dhsu - The Dao of Dodge (From "Super Dodge Ball") (2023)
+-Track:6QrgDO0uE07CUari1IIHCi	#	Mustin, Dhsu - B.A.M.F. (From "Chrono Trigger") (2023)
+-Artist:5sZwvh7kqsJc8WxhU3tiZ2	#	Rajkumar Triyala
+-Artist:6gqCLSFAa3hR0YW38QGU7H	#	Ds Narvana
+-Track:7oXXXWB3QwSARxPBKqmzP5	#	Lucas Cooper, Chromatic Apparatus - Title Theme (From "Ocarina of Time") - Piano & Cello (2023)
+-Track:2iZmrL4yOS9PEotIJJPm8G	#	Kara Comparetto - Guardia Millennial Fair (from "Chrono Trigger") (2023)
+-Album:1ugSPfvVu5nFIxAobxxJ9X	#	Kara Comparetto - Chrono Trigger Complete Soundtrack (Piano, Pipe Organ, and Harpsichord) (2023)
+-Track:0B6Ptfy7ObDAdSsNXR8VIF	#	WLHR, Lucas Cooper - Cinnabar Island - Lo-Fi music from Pokémon Red & Blue (2023)
+-Album:5Dug8xZVwCB9gIvTWXdCho	#	Fool and Scholar Productions, Steven Melin - Soundtrack to The Boar Knight (2023)
+-Album:1Clv5RGBAu2Dvx9ExeSLjL	#	Steven Melin - Final Fantasy Sleep: Relaxing Piano Arrangements (2023) # beautiful album, but water sounds stand out from the rest of the playlist
+
+-Album:569LyBZnU1dKAT7Q3h3sIM	#	Luke Pickman, Moisés Nieto - My Castle Town (From "Deltarune") (2023)
+-Track:4n6z8VHGLdlPAjuPoZnzey	#	Dhsu, Mustin, Dhsu, Mustin - B.A.M.F. (2013)
+-Album:2O7MhoLiioBf7tI2Or34fD	#	Steven Melin - 5 Days (2018)
+-Album:0dLmn6P6TJcBorUNFCewLb	#	Steven Melin - The Best of SNES (2012)
+-Track:4n6z8VHGLdlPAjuPoZnzey	#	Dhsu, Mustin, Dhsu, Mustin - B.A.M.F. (2013)
+-Track:0muB7ac124AIPPdEDz2NTd	#	Bad Dudes, Dhsu - Into Eternal Sleep (from "Xenogears") (2013)
+-Track:76dpkQAGd4jVhnsFTlLhEJ	#	Bad Dudes, Dhsu - The Power and the Glory (From "MOTHER") (2016)
+-Track:0ddgCujZdgnXSHemuqPSE3	#	Bad Dudes, Dhsu - Geognosis (From "MOTHER") (2016)
+-Track:6G0qASN6lxRJRz3joYcrNP	#	Mazedude, Dhsu - Dragonborn Concerto (From "The Elder Scrolls V: Skyrim") (2017)
+-Album:47DfotNOmpis15HGbGToLl	#	Brandon Strader, Steven Melin - Drifting (2018)
+-Track:6GPcMvWfaDgfjRecAlAbCu	#	FineTune Music, Steven Melin - Heartbroke (2019)
+-Album:5tBhszFSqZtAIaFysug1tn	#	Jeff Goldblum, Peter Lewis, Travis Vengroff, Holly Billinghurst, Russ D. More, Sean Howard, Brandon Strader, Steven Melin - Dark Dice: Gamble Your Sanity (2021)
+-Album:2g7oeNidMBnkaTyGBSpg5G	#	Steven Melin, Eric Nelsen, Kessi Riliniki, Hem Cleveland, Kaitlin Statz, Travis Vengroff, Graham Rowat, Paul Mella, Brandon Boone, Jeff Goldblum, Karin Heimdahl, Mike Pettry, Eyþór Viðarsson, David Ault, Peter Lewis - Dark Dice: Season of the Allshadow (2022)
+-Track:6JPVJxT8VDP2a8s9VPfHTt	#	Dhsu - Bubble Tea (2013)
+-Track:16CZD5959duzqNkph1xNqs	#	Steven Melin - Omen (From "Final Fantasy VI") (2018)
+-Track:0lL5CRigwpODNJtvIoENCk	#	Tune in with Chewie - Phendrana Drifts (Metroid Prime) (2018)
+
+-Album:3kp0mGHuKEEfXpia4tCl0v	#	Pradius, Sebastien Skaf - Lip Service (2018)
+-Album:3iO3sKOBtFX3cX887hc4X9	#	Lucas Cooper, Alter Loy - Zelda - A Storm of Songs (Lofi Version) (2023)
+
+-Track:4ZQPrRyp0LkZ7kqV7C0Cv9	#	Trevor Alan Gomes, Biola University Chorale, Shawna Stewart - Sonnet 43 "How Do I Love Thee?" (Live) (2017)
+-Track:2y5PEewOZHhV5BZDWThBYX	#	Trevor Alan Gomes - Melodicarnage: Toots of Rage (2022)
+-Track:6oCCtHXF2cMLoQ9MeE9zAE	#	Guillermo de la Garza, Koreskape - Enter Hallownest - Trance Piano Version (2022)
+-Album:0SlX9C2qjeTDcBh6C6Xw5i	#	Guillermo de la Garza, Koreskape - VESSEL: A Tribute to Hollow Knight (2022)
+-Track:1W4miK4pW0yI68Le6XfGD0	#	Trevor Alan Gomes - Chipstune (Get it? It's a Portmanteau) (2022)
+-Track:2cYQiSCq0pZTDSCKv25t9c	#	Trevor Alan Gomes - Pokémon Mansion (2017)
+
+-Track:5zaZlr6kUtbXpHbK6NOoeM	#	Tim Burnelis - Main Theme - Super Mario Odyssey - Music Box Cover (2021)
+-Track:5EwUlivy0XyVk58UGSjBBk	#	Tim Burnelis - Jump Up, Superstar! - Super Mario Odyssey - Music Box Cover (2021)
+-Track:62qRax15EZgoYJr4xfGij8	#	Tim Burnelis - Gusty Garden Galaxy (from "Super Mario Galaxy") - Orchestral Cover (2022)
+-Track:35guAUwEBsQOeGRnAp6A6a	#	Kyle Landry - Someday My Prince Will Come (2022)
+-Album:7n7G1jz42W8jlfA0zBBx3z	#	Tim Burnelis - Music Box, Vol. 2 (Music From "Animal Crossing: New Horizons") (2022)
+-Album:1rrIHa0m6YtrLqv1umMLux	#	Kyle Landry - Sleepy Time (2016)
+-Album:4XOBO3XV7fqehTQaWfgJ5S	#	Kyle Landry - Storytale Soundscapes (2014)
+-Album:5XadgsXkIVMfOke40hBQi1	#	Kyle Landry - The Courage of Joanna (2014)
+-Album:1ZQNrP6PZLAvdp4y2uDn47	#	Kyle Landry - One Summer's Day (2014)
+-Album:2K3je8HSq3B575tZ7uB4C6	#	Kyle Landry - Dango Daikazoku (2014)
+-Album:0lKQcGn4XQnNxS8F7KcdTu	#	Kyle Landry - Interstellar - First Step (2015)
+-Album:2jLJoy5aEUZVlnlkfAqznj	#	Kyle Landry - You'll Be in My Heart (2015)
+-Album:0J8mZyRVUlAAeHFAMnO33m	#	Kyle Landry - Forever Young (2015)
+-Album:0USqfTO5Np6HyztTuCEIPG	#	Kyle Landry - A Thousand Years (Piano Solo) (2016)
+-Album:5Ofx5iKXVVRe4QmbQnwmB2	#	Kyle Landry - Mad World (2016)
+-Album:4QOpmMRVTHCWL5WOF8lERd	#	Kyle Landry - History Maker (2016)
+-Album:4D7Vgf1RBArExObedXmgMO	#	Kyle Landry - Mia and Sebastian's Theme (2017)
+-Album:2baMzkD6kpuZFLOQfSRSRD	#	Kyle Landry - How Far I'll Go (2017)
+-Album:1Ro9h9VVxpGxiU4o2FKuAt	#	Kyle Landry - Light of the Seven (2017)
+-Album:7uauGVzZyNvMJNauLlTNg8	#	Kyle Landry - Epilogue (La la Land) (2017)
+-Album:4bZjXtiaJYT8udVkJVyV0A	#	Kyle Landry - For the Damaged Coda (Rick and Morty) (2017)
+-Track:58Bd7nFocfdgl8k3cuyzBL	#	Terry:D - Magiteknical Difficulties (Bonus Track) (2017)
+-Album:3i06hgxG9rEFB1VjXtx21l	#	Kyle Landry - Dream Chaser (2019)
+-Album:5wFRhIK78FwYY1fflapY5u	#	Kyle Landry - Flower Dance (2019)
+-Album:25vc6uuKsHKnlfP1mgGVJh	#	Kyle Landry - Aria's Lullaby (2019)
+-Album:41NDboMHuQ3yUtpqV0CqMg	#	Kyle Landry - The 6th Station (2019)
+-Album:3YBfljRvPw1sXQJtpN1U9n	#	Kyle Landry - Improvisation on Ravel's Pavane pour une infante défunte (2020)
+-Album:06ggmLIuzcQFeRAMpaHkEn	#	Dmitri Shostakovich, Kyle Landry - The Second Waltz (2020)
+-Album:6k6UYfASd2DYMWHzSdBh3z	#	Kyle Landry - Comptine D'un Autre Été (2021)
+-Album:6RBNpskhIwTfgdeLrt8oqU	#	Kyle Landry - My Heart Will Go On (2021)
+-Track:5eJwxL4865c01SOmL8o9JC	#	Tim Burnelis - Mabe Village - The Legend of Zelda: Link's Awakening - Piano Instrumental (2021)
+-Track:5eJwxL4865c01SOmL8o9JC	#	Tim Burnelis - Mabe Village - The Legend of Zelda: Link's Awakening - Piano Instrumental (2021)
+-Track:5eJwxL4865c01SOmL8o9JC	#	Tim Burnelis - Mabe Village - The Legend of Zelda: Link's Awakening - Piano Instrumental (2021)
+
+-Track:1eTfdWsqDhXC9jwyloKH4v	#	Hotline Sehwani, Alessio Dicorato - Black Noises (Reflection) - Lofi Piano (From "Sonic Adventure 2") - Cover (2023)
+-Track:0fElsTYroHHr7jSpEDb25P	#	WLHR, Alessio Dicorato - Iki Town by the night - Lo-Fi music from Pokémon Sun & Moon (2023)
+-Track:0fElsTYroHHr7jSpEDb25P	#	WLHR, Alessio Dicorato - Iki Town by the night - Lo-Fi music from Pokémon Sun & Moon (2023)
+-Track:1eTfdWsqDhXC9jwyloKH4v	#	Hotline Sehwani, Alessio Dicorato - Black Noises (Reflection) - Lofi Piano (From "Sonic Adventure 2") - Cover (2023)
+-Track:24Pnzyb9BbBtsDRHneCyVt	#	Hotline Sehwani, Alessio Dicorato - Tarrey Town - Lofi Piano (From "The Legend of Zelda: Breath of the Wild") - Cover (2023)
+-Track:4hqvSQZro60BpN9nz2IxBt	#	Kyle Landry - Shigatsu - Otouto Mitai Na Sonzai Piano (2015)
+-Track:0s8BENw6wTYtO2krtDR8IO	#	Kyle Landry - Reflection from Mulan (Piano Solo) (2012)
+-Track:0s8BENw6wTYtO2krtDR8IO	#	Kyle Landry - Reflection from Mulan (Piano Solo) (2012)
+-Track:20pYWywOuNAxoskndnEnfk	#	Michael Tai - The Path / A New Beginning (From "The Last Of Us") (2016)
+-Track:2jh3GCLkfNdvYHknGAU7oF	#	Steven Melin - Arni Village (From "Chrono Cross") (2018)
+-Track:0MDVqqOsvFBjtHeXHfKlJR	#	Steven Melin - Greenwood Village (From "Diddy Kong Racing") (2018)
+-Track:2oNSU64TeC0hrqyJUBo7kd	#	Alessio Dicorato - River Flows In You - Piano Solo (2022)
+-Track:6Cz09TFUL0vpHz6JE0nAPr	#	Tim Burnelis - Title Theme (From "Wii Sports") - Piano Remix (2022)
+-Track:1tj18CaLCnReADDdPmXWmM	#	Kyle Landry - Schindler's List Theme (2023)
+-Track:7kyGlHNHietrxsELhboIwE	#	Celestial Aeon Project, Alessio Dicorato - On the Beach at Dusk (from Pokemon Mystery Dungeon Explorers of Sky) (2023)
+-Track:6cJU6P2U7bCRkoiD2HQMoE	#	TPR, The Silent Protagonist - Tifa's Theme (from "Final Fantasy VII") (2023)
+-Track:60LKvn8cjfyOcVJYxfI290	#	GameGrooves, David Peacock, Augustine Mayuga Gonzales - Lost Woods (2023)
+-Track:4dAN8gR2bij5FVRSCNZl6Y	#	Tim Burnelis - Gloria - Piano Theme (2020)
+-Track:6CL2G6Rmv5TMWVhN16kmVo	#	Kyle Landry - Waltz of Chihiro (2014)
+-Track:6My9oZhXCFqEpQizrvivKq	#	Lena Raine, Trevor Alan Gomes, Michaela Nachtigall - Exhale (2019)
+
+-Album:3awdPcJHK5gIb2mXr3vUwS	#	Go Ichinose, Braxton Burks, Augustine Mayuga Gonzales, Kristin Naigus - Time & Space (2019)
+
+-Track:5wv8X33nn3TVpuZokBCBUK	#	Kara Comparetto - Welcome to Crocodile Isle (from "Donkey Kong Country 2") (2024)
+-Track:4t6K8mkhpDH48qcSMU3Rha	#	Kara Comparetto - Hot-Head Bop (from "Donkey Kong Country 2") (2024)
+-Track:3FH7lhMIf517blt8fpna0Y	#	Kara Comparetto - Boss Bossanova (from "Donkey Kong Country 2") (2024)
+-Track:3JRYJJskxMlpdyOWxcH60O	#	Kara Comparetto - Mining Melancholy (from "Donkey Kong Country 2") (2024)
+-Track:3iBuYUB4UkuPwzmiwoRAZd	#	Kara Comparetto - Stickerbush Symphony (from "Donkey Kong Country 2") (2024)
+-Album:3PnUoygcNza4S79Z9sfVQj	#	Pablo Enver - The Search (2024)
+-Track:71bEjCgqCpwpTbXxlfy0pJ	#	Moisés Nieto, xclassicalcatx - Route 209 (From "Pokémon Diamond & Pearl") - Viola & Piano Version (2022)
+-Track:2LDowZL8zXIrjuMCVIb6rh	#	TPR, abbytheoboist - To Bill: Leaving Cerulean City (2022)
+-Track:2NHJOqrwke6QQulhHFWLP0	#	Kyle Landry - Dearly Beloved (from "Kingdom Hearts") [2012] (2013)
+-Track:6pp45BIqjV8hSym7diBNRx	#	Kyle Landry - Dearly Beloved 2014 (2014)
+-Track:3iTlD35pbz2EWEOcoTXfdD	#	Moisés Nieto - Made of Emotions (2016)
+-Track:3znaHP9XQBqbCJH9L0WEkJ	#	Kyle Landry - Dearly Beloved (2017)
+-Track:6Tj7G9tFlPxRGkBifTwa8F	#	WLHR, Alessio Dicorato - New Bark Town (Lo-Fi music from "Gold and Silver") (2024)
+-Track:1OER08sJTyoWXZ8eUtoRzq	#	Kara Comparetto - K. Rool Returns (from "Donkey Kong Country 2") (2024)
+-Track:2cYjLQLjLc4YpqeR0cOvbZ	#	Kara Comparetto - Bayou Boogie (from "Donkey Kong Country 2") (2024)
+-Track:6RdfDMimbGv3VuH5mQcji8	#	Kara Comparetto - Flight of the Zinger (from "Donkey Kong Country 2") (2024)
+-Track:2lMC16meaanAPbPeC7yIe1	#	Kara Comparetto - Krook's March (from "Donkey Kong Country 2") (2024)
+-Track:2fKZYH9z3PseAvbHsbZDGB	#	Kara Comparetto - Rescued (from "Donkey Kong Country 2") (2024)
+-Track:4vn4JP8AGiHPGv5qIZHOOT	#	Kyle Landry - Dearly Beloved (2018)
+
+-Track:6KhMJQuLySaiJjkGmaKRPD	#	Pixel Mixers, Lucas Cooper, optimizasean, Chromatic Apparatus - Bygone Days (2024)
+-Track:4BpN9f71YQ7LN6YHOdwIkA	#	Dom Palombi, Mason Lieberman, Trevor Alan Gomes, Casey Lee Williams, Dave Pollack, Tournament Arc, Josh Vasquez - To Zanarkand (from "Final Fantasy X") - Neo-Soul Version (2024)
+-Track:6xQLpwIFbMN29xToFdRbSx	#	Israfelcello, PurpleSchala - Bombing Mission (from "FINAL FANTASY VII REMAKE") - Cello and Piano cover (2024)

@@ -1,0 +1,1002 @@
+@ID:0H3bAiIWLqTi8vVOv3YUWr
+@Default:Album
+@DontRemoveTracks
+@AddParameterIDs
+@Sort:Dont
+#
+# # Quest Master - Cathedral Of Glistening Hope	
+# # Ingvarr - The Acclamation Of Emberdrin, The Last King	
+# # Jim Kirkwood - Knight Of A Dark Grail	
+# # Waeltaja - Heremite	
+# 62x04EdRY2eoaZ55Qrek4z	#	Arthuros - Goddess
+# # Vindkaldr - Dance of the Elves	
+# # Excilibrius - Dragon Knight	
+# # Grim - The Domains Of Spirits	
+# # Dark Ages - The Tractatus De Hereticis Et Sortilegiis	
+# # Wongraven - Fjelltronen	
+# # Daoine Sidhe - Daoine Sidhe	
+# # Lunar Womb - Planets	
+# 1uadZfjtM4XK5HUcj2vbY7	#	Lamentation - Fullmoon Over Faerhaaven
+# # Lunar Womb - The Astral Grief	
+# # Silence Of Graveyard - Храм вечной скорби	
+# 796GL6vkvDkmJjPDevk4KL	#	Lamentation - As ShadowKingdom Comes To My Sight
+# # Silent Cabin - Forgotten in a Cold Forest	
+# # Dianom - Candledance	
+# # Alviss - Fafnir	
+# # Mournlord - Reconquering Our Kingdom	
+# # Lunar Womb - The Sleeping Green	
+# # Sanctuaire - Écho 1	
+# # Goblintropp - Tunnels Under The Forest	
+# # Sequestered Keep - The Fortress in the Timeless Fog	
+# # Thangorodrim - Taur-nu-Fuin	
+# # Caduceus - Middle Ages	
+# # Vindalv - Æptir Pushende Ar	
+# # Dark Ages & From The Bogs Of Aughiska - An Gorta Mór / Holodomor	
+# # Thangorodrim - Towers of the Teeth	
+# # Avenir Funèbre - Chorea Machabaeorum	
+# # Wintercry - Swords and Magic	
+# # Sequestered Keep -  Mournful Mystic Night	
+# 4uNfg1ENNc5g0bWoGQQGgm	#	Galdur - Born by Stars and Moon
+# 3U5vEcHDA1xcThwQZyEnpf	#	Galdur - Age of Legends
+# # Orundoom - Misty Castle	
+# # Mimir - Like a Dark Night of Winter	
+# # Thangorodrim ‎- Dagor Bragalloch	
+# # Loremaster - Temple of the Oracle	
+# # Trollrath - The Dark Tower of Lugburz	
+# # Skarpseian - Fragmenter Av Trolldom	
+# # Hedge Wizard - More True Than Time Thought	
+# # Sequestered Keep - Dawn of Battle	
+# # Sequestered Keep - Lost Halls	
+# # Sequestered Keep - The Gift of Men	
+# # Sequestered Keep - Summit Strongholds	
+# # Vridd Gren - Skapninger	
+# # Mitternacht - 8 Visions of the Time Pilgrim	
+# # Dark Ages - Rabble, Whores, Usurers	
+# # Siliniez - Altar of Moss	
+# # Sequestered Keep - Ageless Winter Silence	
+# # Sequestered Keep - Cavernmagics	
+# # Old Tower - Spectral Horizons	
+# 1NBu967Ug0WvIK7Xl9ESLX	#	Eternal Fear - ANCIENT WOODS
+# # Secret Stairways - Enchantment of the Ring	
+# # Sequestered Keep - The Oldest Realm	
+# # Sequestered Keep - The Land Beyond Dreams	
+# # Secret Stairways - Turning Point	
+# # Cromleck - Sidh	
+# # Eislandschaft - Lethargie im Schnee	
+# # Mordraaneth - The Taverns in the Land of Ashes	
+# # Minas Anor - Helm's Deep	
+# # Zweilicht - Dusk and Silence	
+# # Grim - Färd	
+# # Sequestered Keep - Might of An Ancient Tale	
+# # Avox - Desolate Land	
+# # Ashmadai - Symphonies for the Kings	
+# # Erdstall - Caverns of Endless	
+# 2VByNN8VzERkvnMpGFJb8Q	#	Voormithadreth - Zothique
+# # Erdstall - Temple of Ancients	
+# 7zyWlipeZiEt21x63PaP39	#	Voormithadreth - Sign of Mung
+# # Mitternacht - The Raise of the Secret Cities	
+# # Lord Lovidicus - Book Of Lore - Vol. I	
+# # Almófar - Aut Concilio, Aut Ense	
+# # Siliniez - Forest Emptiness	
+# # Mitternacht - The Instrumentation of Desolation	
+# # Elador ​-​ By the Pathways of Forgotten Legends	
+# # Drochtuarach - Along A Velvet Night	
+# # Лихо - Есть Лихо	
+# # Dolch - Tiefes Firmament	
+# # Dolch - Yggdrasil...Nature...Anthems	
+# # Erevos - My Black Desires	
+# # Erevos - Shadows of Storming Nyx	
+# # Dagorlad - Dragonsbane	
+# # Elador - Expanses of Skyrim	
+# # Овсень - Вечность	
+# # Wind - Woodland Spirits	
+# # Arthame - Fiendish Symphonies	
+# # Skarpseian - Tan Gil	
+# # Wejdas - Į Tamsą	
+# # Wejdas - Saulei Tekant	
+# # Za Frûmi ‎- Tach	
+# # Almófar - In Illo Tempore   )	
+# 1S2J9AcGYmmO0cjIKbH36X	#	Éadóchas - Beneath The Lonely Mountain
+# # Depressive Silence ‎- Depressive Silence	
+# # Elador - Forgotten Land	
+# # Druadan Forest - The Loremasters Time	
+# # Mightiest & Depressive Silence - The Recreation of the Shadowlands	
+# # Elador - Winter's Tale	
+# # Ekthelion - Age Of The Faceless Demon	
+# # Valor - La Lune Noire	
+# 54o1QfwrRPrF5Bz0R4Yd44	#	Morketsvind - Wаndering to Nether World
+# # Sequestered Keep - Longlost	
+# # Jim Kirkwood - Master of Dragons	
+# # Cedamus - Song Of The Forest	
+# # Cernunnos Woods - Lost Woods	
+# # Cernunnos Woods - Awaken The Empire of Dark Wood	
+# # Mists of Darkness - The Lightless Lands	
+# # Piorun & Stara Pieśń – Z Piesnią Na Ustach... Z Mieczem W Dłoni!	
+# # Lord Wolf - Darklands of Hate	
+# # Lyrcis - Songs From The Soil	
+# 0ao9kweZ26fPyKXcVpgG6S	#	Cernunnos Woods - Tears of the Weeping Willow
+# 7xphoD2yVP6PcjFkm2vAIh	#	Forgotten Pathways - Shrouded in Mystery
+# # Spawn - For the Blood Is the Life	
+# # Onoskelis - The Hecate Prophecies in your Cold Throne	
+# # Elfen - To Eldamar from Minas Morgul	
+# # Elador - A Wanderer's Tale	
+# # Troll - Demo 1994	
+# 2M2DAsyUnNzyqBjBS4ShSu	#	Ghunzul - Songs of Ice
+# # Susurrus Inanis - The Shadowless Shining	
+# # Yearner - Winternight	
+# # Taramis - Áillen The Burner	
+# # Jim Kirkwood - Ancient Fields	
+# # Jim Kirkwood ‎- Souls That Dance On The Edge Of A Sword	
+# # Splendorius - Norfaragell-Thul	
+# # Jim Kirkwood - Tales from a Melnibone Tavern	
+# # Lord Lovidicus - Book Of Lore - Vol. II A Vespera, Ad Lucem	
+# # Evilnox - Songs From Twilight Kingdom	
+# # Elador - From Faraway Land​.​.​.​	
+# # Askhem - Bjarki	
+# # Рабор - Боги и Герои - Gods and Heroes	
+# 3EWFZypRjeW30zKFEpzDeX	#	Lothlorien Dreamscape - Lothlorien Dreamscape
+# 5WAIz0JluE8OhDen2uJitk	#	Murgrind - Inheritor of the Forest Throne
+# # Edoras - The Tree Shepherds	
+# # Taur Nu Fuin - The Mountain Path	
+# # Unguth Vaentron - The Lair Of Warlords	
+# # Wanderer - Adventures Of A Ranger	
+# # Cernunnos - Δάσος Των Τραγοπόδαρων Δαιμόνων	
+# # Druadan Forest - The End Of Colours	
+# 3ZYIDQqe9I2rmjjuDXrrtt	#	Gentle Fish Mumbling - All the Kingdoms
+# # RævJäger - The Tale Of Axe & Torch	
+# # Taur Nu Fuin - Ruler Of The Forest	
+# # Mystic Towers - Inner Kingdom	
+# # Blutaxt - Weltenbrand	
+# # Faery Ring - A Kingdom Beset By Despair	
+# # Trolltjern ‎- Hymner Fra Trolltjern	
+# # Chronicles of Jest - Yeoman's Tale	
+# # Valar - The Arrival Of The Dragonlord	
+# # RævJäger - The Lord of the Fairies	
+# # Dwalin - In the Misty Hills Lies a Forgotten Tale	
+# # Moonless Nights - In Old Chambers of Castle Wewelsburg	
+# # Dwalin - Hidden Staircases and Endless Corridors	
+# # Cimitir - Bonechiller	
+# # Ancient Boreal Forest - A Time When The Moon Was Young	
+# # Utred - Citadel	
+# # RævJäger - When Warhorn and Magical Flute Sing Together	
+# # Utred - Forest	
+# # Splendorius & Barak Tor & RævJäger - A Journey Across Primordial Lands	
+# # Lord Lovidicus - Wandervogel Des Waldes	
+# 4QUCA2W5QVhduneLM7zrRi	#	Foglord - New Realms and Forgotten Lands
+# # Barak Tor - Wizards of Morcar	
+# # Saint-Germain - Catacombae	
+# # Cain - Child Of Cold	
+# # Dungeons of Irithyll - Journey Through The Dark	
+# # Elgra - Night Magic	
+# # Müldeponie - The Lord Of Time	
+# # Sagenhaft - The Legend Of The Forgotten Reign	
+# # Nan Morlith - Âdhûn	
+# # Argonath - Lugnasad	
+# 4gIUgcGB9wVjNAyr36Acvw	#	Lugburz - Behind the Gates of Black Abyss
+# 5Ujv2otQhDR47gju2k2kt2	#	Lugburz - Songs from Forgotten Lands
+# # Xaaron ‎- Looking For The Saint Grail	
+# # Laïlheb ‎- Old Incantations & Forbidden Prayers	
+# # Order Of The Dark Age - The Dark Age Echoe - First Chapter	
+# # Black Wailing - Through Eternal Winters	
+# # Verminaard - Lorac's Folly	
+# # Anger Of Gods - Barbarian Worship	
+# 0SDDb6MRJlCIqCdpZn1y7W	#	Foglord - Celestial
+# # Chaucerian Myth - The Canterbury Tales	
+# 0L0YGBfLfrHmG0hDdQZlAu	#	Ravenblood - Легенди марамороша
+# 4BdD6uqv63BQ1M6LXOHlhP	#	Vindkaldr - Ambient I
+# 2ZbK7qfjtXnrjkrSnHDkwR	#	Vindkaldr - Enchantments of Old Lore
+# # Maelifell - Demo 1996	
+# # Old Tower - The Door	
+# # Conjured to Baphometh - The Spawn of the Lilioth	
+# # Fief - I	
+# # Til Det Bergens Skyggene - Til Det Bergens Skyggene	
+# # Jim Kirkwood -  King of the Golden Hall	
+# 6Jxd35wxOEfIITDhtqhO17	#	Jääportit - Kauan Koskematon
+# 5sgFh8DGTNHvPmZbLER1yL	#	Jääportit - Voimasuo
+# # Old Tower - The Rise Of The Specter	
+# # Svarograd - Mroczna Komnata	
+# # Til Det Bergens Skyggene - Renhet	
+# # Arathgoth - Guardians of the Fall	
+# # Barak Tor - The Black Citadel of Bellthor	
+# # Fief - II	
+# # Ancient Boreal Forest - Grim Ages	
+# 1AgoEAlwk9CAmz8B2krEtE	#	Lord Wind - Forgotten Songs
+# # Die Verbannten Kinder Evas ‎- Come Heavy Sleep	
+# 4ZHPwEu7Bpqyz3gnU7CEOE	#	Lord Wind - Heralds of Fight
+# # Wejdas - Dykra	
+# # Utred - Tribute	
+# # Trogool - In the Mists Before the Beginning	
+# # Die Verbannten Kinder Evas - Die Verbannten Kinder Evas	
+# # Soltri - Cursed Kings	
+# 2CgThV5GUej2ZgDetS45sY	#	Marblebog - Wind of Moors
+# # Argonath - Journey to the Otherworld	
+# # Dungeon Lore Foundation - Chapter II  In Search Of Artifact	
+# # Til Det Bergens Skyggene - Vandringen I	
+# # Weress - Far Away Planets and Life	
+# # Jim Kirkwood -  Beyond the Field We Know - Yggdrasil Volumes 3	
+# # Blood Tower / Apothecarium - Split	
+# # Jim Kirkwood ‎- Nightshade In Eden	
+# 37ydTL9x2LTs6h1GfgXpLH	#	Die Verbannten Kinder Evas - In Darkness Let Me Dwell
+# # Floral Of Forever - Ad Infinitum	
+# # December's Fire ‎- Across The Sorrowfields Of Baltic	
+# # Drunemeton - Recital To The Shinning Moon	
+# 0enR83mblsYU5cAzpFlrlt	#	Erang - King of Nothing, Slave to No One
+# # Cythraul - Back from Darkness	
+# # ℜimℨalia - Crest of Vizeal	
+# # Vondskap - Das Reich der Finsternis	
+# # Neptune Towers - Caravans to Empire Algol	
+# # Neptune Towers - Transmissions from Empire Algol	
+# # Lord Lovidicus - When The Mountain Falls	
+# # Mystic Towers - Caverns of Crystal	
+# # Elffor & Murgrind - Odolosth / Stronghold In The Mountains	
+# # Jim Kirkwood - Castles Of Sand	
+# # Trogool - Beyond the River Skai	
+# # Almófar - Peccatorem	
+# # Narsilion ‎- Return To The Silver Forest	
+# # Gothmog - Medieval Journeys	
+# 5cgNe3hGie2F5pZoOUbDXo	#	Emyn Muil - Elenion Ancalima
+# # Sysyphus - Auf der Bergstraße	
+# 3DqKO2D2Rv9UL2OkriKk5a	#	Burzum - The Ways of Yore
+# 1t9DzISjYiwkwlKqVaMj42	#	Burzum - Sol Austan, Mani Vestan
+# # Isegrimm - Über Den Sieben Bergen	
+# # Jim Kirkwood - Middle Earth	
+# # Endoki Forest - An Evil of Nordic Frost	
+# # Gonfanon - Medieval Hymns	
+# # Narsilion ‎- Nerbeleth	
+# # December's Fire ‎- Deszcz Mą Łzą, Piorun Mym Krzykiem	
+# # Mantar - The Wrath of Hornuk the Great	
+# 14C1CU8c2QxbQ4LpWVhYA0	#	Summoning - Minas Morgul
+# # Blutkrieg - Resurgence of Atavism	
+# # Mirkwood - Mirkwood	
+# # Valar - Magic And Wyrmfire	
+# # Corvus Neblus - Chapter I - Strahd's Possession	
+# # Corvus Neblus - Chapter II - Strahd's Possession	
+# # Heresiarh - Dragons of War	
+# # Druadan Forest - Mirkwood	
+# # Mjölnir - Midgard, erwache!	
+# # Asmorod - Dance In The Winter Fog	
+# 5URSLrd3g2iRXQeGZ8QemN	#	Vinterriket - Gebirgshöhenstille
+# # Forgotten Dreamscapes - This Place, Where Destiny Is Made...	
+# 4a4zvU0adFUfBDxSuopNrn	#	Mistigo Varggoth Darkestra - Insatiable Moon
+# # Summoning - The Creation Of The Dark Age	
+# # Snørte - Mort Lente	
+# # Solanum - Spheres of Time	
+# # Barak Tor - March of The Triumphator	
+# # Summoning - Lost Tales	
+# # Cernunnos - Trollfjord	
+# 5N42S8ULyILIpj0dNgtjNT	#	Lovidalf VI le Gros - Witcher Lovidalf of Brugge, Saves Temeria from the Undead and Spirits
+# 4qmJg1WcehufjlObRJVi5S	#	DIM - Compendium I
+# 0BcQaNQJpqMG7759XhsZzZ	#	DIM - Compendium II
+# 0Pf7fTy1eL1EWui8CfVFwn	#	DIM - Compendium III
+# # Erang - Echoes From a Past That Never Was	
+# # Jim Kirkwood - Where Shadows Lie	
+# # Solanum - Spectral Poetry	
+# # Elric - CORUM	
+# # Ekthelion - Moonrealms	
+# # Elric - Stormbringer	
+# # Soltri - The Rising of the King Arthur	
+# # Svarograd - The Beginning	
+# 6U112i9v4sE397WlZETcHD	#	Рабо́р - За тридевять земель
+# # Bacchia Neraida - Dionysos	
+# 4l5xg6vGg3mVhxiZLYsDiB	#	Garadrak - A Questing Knight
+# 6WFdBuVFtpdOk8TtyPfzRu	#	Forlorn Citadel - Dusk
+# # Elric - Elric of Melniboné	
+# # Golden Fleece - The Journey To Colchis	
+# # Soltri - Excerpts	
+# # Onoskelis - The Golden Temple of Onoskelis	
+# 3VNIcOZEWuXv422UZodWdx	#	Monastery - Peculiar Storms
+# # Forgotten Kingdoms - Forgotten Kingdoms	
+# # Nestolos - Demo	
+# # Old Tower - Ruination, the New Dawn Cometh	
+# # Vedymini - Zapomniany Bard	
+# # Château Sombre - Demo I	
+# 2qyMFVQkRUb7f9nTDQdDzh	#	Forgotten Kingdoms - Blue Moon Gate Between Worlds
+# # Château Sombre - Demo II	
+# # Depressive Silence - Depressive Silence II	
+# # Maradon - In Ages Lost	
+# # Acheulean Forests - Fairy Forest	
+# 5GcEWb43xBaRYsGjVJ3SVr	#	Elffor - Dra Sad
+# 3vYMq9MZLBnGWnGE8LG8xq	#	Elffor - Dra Sad II
+# # Antiquity - Porta Lavernalis	
+# # Gothmog - Rehearsals	
+# # Dol Amroth - Of Times Forgotten	
+# # Aura Negativ - Oddity Moon	
+# # DEORC WEG - Hollow Catacombs	
+# # Forest Silence - Winter Circle	
+# # Arden - A Journey through Darkness	
+# 26SEv2UKQeriTEJc4svwYL	#	Old Sorcery - Realms of Magickal Sorrow
+# # Infamis ‎- Papież Widm I Widziadeł	
+# # Arcana Liturgia ‎- Ars Moriendi	
+# 4JtE81uofYXpvZLGTXAqGg	#	The Inquisitor - Rise and Fall
+# 5DcPqIH8XgeIzTT9ZI6n68	#	Ildjarn - Landscapes
+# # Valar - Towards The Great Unknown	
+# # Grabesmond - In Schwindendem Licht...	
+# # Lunar Gate - A Secret Well Kept	
+# # Forgotten Kingdoms - Crowned in Forlorn Darkness	
+# # Warden - The Obsidian Realm	
+# # RævJäger - Raevult!	
+# # Lord Lovidicus - Forgotten Ruins	
+# # Ghosts of Oceania - The Cursed Lighthouse of Cape St George	
+# # Forest Silence - The Third Winter - Winter Circle	
+# # Dungeons & Catacombs I	
+# # Witches Moon - Black Moon Kiss	
+# # Casket of Dreams - Dragons of Autumn Twilight	
+# # Witches Moon - Azazel Bedazzle	
+# 2u69L6qCESuzh8zJuwRD8s	#	Asgar - Battles of Silence
+# # Warden - Rites of Passage	
+# # Sanctuaire - Echo 2 - Les Esprits sont Étoiles aux cimes de la Victoire	
+# # THE OLD MAN & THE GOBLINS - Mournlord 👻	
+# # Ménestrel - La Poésie des Temps Jadis	
+# # Vaniardur & Halindir - Ithryn Luin	
+# 5LQanwdiEBFY6v6k05cwxq	#	Neverlur - Op Under Fjeldet Toner en Lur
+# # Aardia - Conquest of the Ancient Halls	
+# # Pazuzu - Awaken The Dragon	
+# # Mythril Spectre & Paths - Once Through an Ancient Archway)	
+# # Witch Tomb - Witch Tomb	
+# # DEORC WEG - Desolate Cold Plains	
+# # Cimitir - Recollection of Loathsome Legends	
+# # Fief - III	
+# 5fk5u2cFFFgY7ICur5dwBo	#	Pumpkin Witch - Hovel of the Pumpkin Witch
+# 63U40lUrXJXlc2tDDrqRsG	#	Pumpkin Witch - The Return of the Pumpkin Witch
+# # Old Tower & Sacred Dominions - .​.​.​From The Dark Outlands	
+# # Lord Lovidicus - Windbuchen	
+# # Witches Moon - Tear Off Your Wings - Meditations	
+# 18R0D8zxTwVhXZJg0s9sko	#	Fåntratt - Tut i luren
+# # Old Land of Darkness - Slight Night Symphony	
+# # Iuvenes - The Empyrean Call's of Wolves	
+# # Jim Kirkwood - Tower of Darkness	
+# # Nazgal Dracul - The Bane of Balak Gaahl	
+# # Rhandir - Vagabond's Call	
+# # Utred - Sovereign	
+# 0mzYadnZlirgUJc5l6cNqD	#	Erang - The First Age
+# # Ur Pale - Sea Synth Ensemble	
+# # Krampusnacht - Krampusnacht	
+# # Ménestrel - Le Secret du Sage	
+# 2LcZKfZ85tO1KHrFrneTHk	#	Saturnales - Darenier hyver
+# # Dungeons & Catacombs II - Soundscapes For A Neverending Quest	
+# 4Nl2HdiK13cNm5pvRX446l	#	Lovidalf VI le Gros - Insidious Minions Chorz Argen Uz and Liberators of Fractria
+# 6HVHudCOLY9tWGkNasfbD6	#	Galdur - Wizardry
+# 5q8PlruuPMhjPoiyg0CP4W	#	Machina Coeli - Finitor Visus Nostri
+# # Shepherd Of Evil - From Birth To Fall	
+# # The Inquisitor - The Book of Naarlotep	
+# # Saltvind - Saltvind	
+# # Wyver - Wyver	
+# # DEORC WEG - A Spectral Haze Of Sorrow	
+# # Thangorodrim - Akallabêth	
+# # Scriptor Hiberniae - Topographia Hibernia	
+# # Jim Kirkwood - Mjolnir	
+# # Aura Negativ - Aura Negativ	
+# # Depressive Silence - The Darkened Empires	
+# # Jim Kirkwood - Yggdrasil Vol. 2 - The Serpent Kiss	
+# # Dargaard - The Dissolution of Eternity	
+# # December's Fire - Vae Victis	
+# # A letter for Carmilla - Autumn	
+# # An Old Sad Ghost - An Old Sad Ghost	
+# # Dark Sanctuary - Bruises	
+# # An Old Sad Ghost - The path of a tongueless knight	
+# # Shadowcaster - To Gather My Thoughts Among The Sleeping Summer Spirits	
+# # A letter for Carmilla - Romance	
+# # Lord Lovidicus - Autumnal Winds And Times Of Yore	
+# # Далiна ‎– Холодные Тайны...	
+# # Dark Sanctuary - Royaume Melancolique	
+# # A letter for Carmilla - Ruin	
+# # Ancient Boreal Forest & The Cold Domain - In The Land of High Fantasy	
+# # Soltri - XV. Atra Mors	
+# # Sanguine Moon - What Shadows Once Hid​.​.​.	
+# # Sidereal Fortress - Ruins	
+# # DEORC WEG - The Forlorn Cold of Ages	
+# # A letter for Carmilla - Medieval	
+# 18X2JHrRixUi9VFFOTbqES	#	Old Tower - Stellary Wisdom
+# # Henbane - Vildfaren Og Jagtet	
+# # Graal - The Lost Castle	
+# # Khand - The Fires of Celestial Ardour	
+# # Nan Morlith - Narn i Chîn Húrin	
+# # Catacombs Enshadowed - Curse of Dark Centuries	
+# # Eternal Fear - Pagan Souls Of Ryczyn… Zvantevith	
+# # Khand - Interstellar Dominions	
+# 1r0QLpMDEvZoipCmgkGgyx	#	Evilnox - Dark Times of War and Witchcraft
+# # Annwn - Promo-Tape	
+# 5saWaYpWpH4ZtIIMnlZ4wQ	#	Cernunnos Woods - Forest Anthology
+# # Kroda - Навій схрон	
+# 6svdnxYIBlR7GYaB8SyLdh	#	Ghost Veil - Sleeping Garden
+# # Dagor-Nuin-Giliath - First Age	
+# # Torech Ungol & Gates of Azharia - Les Voies du Destin	
+# # Paymon - The Way of Knowledge	
+# # Капiшча - Галасы мiнулага	
+# # Grol the Goblin - Return to the Dungeon	
+# # Druad - Vast Beneath the Skies	
+# # Jim Kirkwood - Shroud Of Many Colours	
+# # Örnatorpet - Vid Ett Berg Uti En Dal	
+# # Arcane Cavern - Sorcery Of Chaos	
+# # Witch Tomb - Lord of Blizzards	
+# 5V1q6d0JFuigVALx7Yo4xy	#	Stronghold Guardian - Eastward
+# 6SDixy1Atd2e3n8b8JyZYH	#	Stronghold Guardian - Westward
+# # Earl Mountain - Hvaða Galdur Lá þarna	
+# # Lux Viridis - March of Thieves	
+# # Lord Lovidicus - Saeculorum	
+# 6PCH5BBRbtCZetiybaHDPo	#	Torchlight - Realms of Oblivion
+# 0QWoTumpy8B3GYQTdyeBG1	#	Erang - Endless Realms and Nostalgic Gods
+# # Saturne - I	
+# 4WfpTt7jZkCH9ULephdSXj	#	Arsule - La Cité Enfouie
+# # Enid - Enid	
+# # Dies Irae - Circle of Leth	
+# # Rattenkonig - Blind​,​Obsessed with the Moon	
+# # Kharadrai - Hexapteron	
+# 7ybUCb5dKzsrtLKgGZVAV1	#	Ur Pale - Water Tombs & Crimson Horizons
+# # Goblintropp - Walking Among Unquiet Trees	
+# # Old Sorcery & Haxan Dreams ‎- Dreams Of The Old Kingdom	
+# # Elderthrone - Ancient Land Of The Rising Sun	
+# # The Zeal of Fata - Birth of the Bizarre	
+# 0mo8Akk9xLfpas1NJ3EeF3	#	Kobold - The Cave of the Lost Talisman
+# # Old Glow - As We Raise Our Heads To The Light	
+# # Wagner Ödegård - Ur Törnedjupen	
+# 628Csb3NNbW1SbcJh3Nw25	#	Nirnaeth - Nirnaeth Arnoediad
+# # Whispering Oak - Feast of the Warlords	
+# # Secluded Alchemist - Laboratory Amongst The Leaves	
+# # Nortfalke - Schitteringen	
+# 3dkNSjQ1rvNlvHMcgexJFB	#	Druadan Forest - The Lost Dimension
+# 6zM0FQ3zjW7jpcxprDtKHF	#	Fiendish Imp - Fiendish Imp
+# # SIRION - Quenta Silmarillion	
+# # Moonlight Poetry - Whispers	
+# # Infamis - Malum Necessarium	
+# # Hobbit - Leaving the Shire	
+# # Halindir - The Nine Realms	
+# # LÉGENDES - Dungeon Synth de France	
+# 4efY67Q8vUqqjiaVfqOeTA	#	Frostveil, Jack Kenneth Lane - Antediluvian Majesty
+# # Velvet Tears - .​.​.​of Sunset and Moonlight​.​.​.	
+# # Fridfull - No Winds Blow Here	
+# # Örnatorpet - Blodbad Och Efterspel	
+# # Atropos - Amorte	
+# 4PIwOJGpCvZxI42M9gF01D	#	Die Verbannten Kinder Evas - Dusk and Void Became Alive
+# # Sine Mora - The Void Walker  Part I	
+# # Sine Mora - The Void Walker  Part II	
+# # Gnoll - The Citadel of Evil † HDK 05	
+# # Lucifaere  - ‎Blodeuwedd	
+# 7KW0jm6RUw7L77YHrCQkZO	#	Morketsvind - Saga of Blood Lands
+# # Stronghold Guardian - By the Stars and the Moon	
+# # Gargoylium - Chroniques de la Citadelle	
+# # Emyn Muil ‎– Túrin Turambar Dagnir Glaurunga	
+# # Morgan The Bard ‎- Lost In Time	
+# # Tyrannus - Serpentslayer	
+# # Urrnil - Fabularum	
+# 3AGeiyqcGZjrf0Dw590h3x	#	Pendragon - Uther
+# # Andreas Brandal - The Delusive Light	
+# # Kurotokage - Call To The Deep	
+# # Elador - Through The Woodland	
+# # Mithylus - El Designio de Aín	
+# # Elderthrone - Twilight Travelers	
+# 6QHwDXEshJeNqdpPjIpVxB	#	Lovidalf VI le Gros - Sword, Plague & Two Pint Ale
+# # Dungeons & Catacombs III Ethereal Realms	
+# # Lux Viridis - Lords and Ashes	
+# # Apparition - The Ravenous Dusk	
+# # Dungeons & Catacombs IV	
+# 6he5wQ55fUDVnSwVdoNFbs	#	Machina Coeli - Gnosis
+# # Okmoon - Lune Tellurique	
+# 4e3PiiJOP7yIzNSJmaxHS4	#	Chevalier Errant - Phantasma Regnorum Oblitorum
+# # JON - Data & Demons A Fantasy Role Playing Adventure	
+# # Mitternacht - The Ultrabishop	
+# # Dungeons & Catacombs V Death & Rebirth	
+# # Basic Dungeon - Tunnels & Treasures † HDK 06	
+# 46REY7O0D9r5t8GNWJsMqK	#	Anthony Linell - Consolidate
+# # 𝕭𝖎𝖙𝖙𝖊𝖗 𝕺𝖑𝖉 𝖂𝖎𝖟𝖆𝖗𝖉 - Southern Grim	
+# 313RAUC37RTJwq56GJ0RXJ	#	Dark Ages - A Chronicle of the Plague
+# # Basic Dungeon - Tunnels & Treasures II † HDK 13	
+# # Tarkin Turfer - Glade Keeper	
+# 7oTByuFED58eTpuQbgI7xs	#	Der Dustere Tag - Sterbe
+# # Velvet Tears - Wanderer At Night	
+# # Gramorker - A Haunting	
+# # Arathgoth - Dreams of the Sylvan Elves	
+# # Alex Crispin - Escape the Dark Castle	
+# # Terrenon - Enchantment Of The Forest King	
+# # Terrenon - Knights Of The Old Hills	
+# # Örnatorpet - Bergtagen	
+# # Henri Sorvali - The Tales of Bingwood - Original Soundtrack	
+# # Blood Tower - Posture Magic	
+# # Terrenon - Memories	
+# 65pOv0pGmYmIEAXXVMnWCa	#	Asattarn - An Old Beginning
+# # Grimseth - The Ancient Chants of The Lost	
+# # Cimitir - "Duskhymns"	
+# # Isegrimm - Der Herr Von Verona	
+# 3gyyKkQDg1CriS8BU4D0rU	#	Pumpkin Witch - In the Frightful Gaze of the Pumpkin Witch
+# # Mickey E.Vil - Felix The Ghostbreaker	
+# # Mythenmetz - Mythenmetz	
+# # Moth Tower - Sharpen Thy Knife, Curse The Sky	
+# # Fiendish Imp - All Hallows Eve	
+# # The Deadly Quarters - JON - Psalms Of Annihilation	
+# 3PfxADlHz5AnUGkcCJmIEy	#	Iagon - Into the Crypt
+# 5GHUjnvRMqUyP30VzWvVbG	#	Bahkauv - Et Bahkouv kütt
+# # Scriptor Hiberniae - The Manuscript	
+# # Necrocachot - Demo 1 Catacombes	
+# # Decrepit Corridor - Slumber Spells	
+# 4FMtaRwQ8qx59twbRUKl2C	#	Carnifexian - Age of Spiked Mace
+# 1odmITOtpjzUv62ncWaphR	#	DRYADS - Of Arcane Fires
+# # Utred - Tribute II	
+# # Nitlott - Tenebris	
+# 1M92Xp3VdMyfp0AFJbq1O2	#	Iagon - Tome of the Crystal Wizard
+# # Fief - IV	
+# # Lord Lovidicus - Journey To Beleriand	
+# # Orcburz - Hymns Of Isengard	
+# 3UeKWbvZ3GsqhjrdDDhysn	#	Ghunzul - To the North…
+# # Dungeons & Catacombs VI The Cosmos & The Mind	
+# # Vale Of Pnath - Hymn Of The Plants	
+# 67zQZai94OMxSf1nsj2Ngd	#	Arsule - Échos des Roches
+# 6cEjRWAOQDs2KUMAJ1JVbO	#	Ur Pale - Crystal Waves Orchestra
+# # Dungeons & Catacombs VII	
+# 7avnPZYN40zdYxk8LW04Z0	#	Old Tower - Drachenblut
+# # Krampusnacht - Superstar	
+# # Lucifaere  - Dark Science Vol. 1 - Liber Obscurarium Praedictionum	
+# # Urrnil - Inheritor	
+# 1gEGcadlGCYKAnIvOxkJsU	#	Burzum - Hlidskjalf
+# 3jkw1GgqmEGt7I6XIF3aKw	#	Forgotten Kingdoms - A Kingdom in Ruin
+# # Thongor - His Doom In The Eye of a Skeletal King † HDK 09	
+# # Shau - The Secret Forest	
+# # Cernunnos ‎- Τα Ορυχεία Των Νάνων	
+# 3U6xIoGR1EhTR8yIHgIw6A	#	Burzum - Daudi Baldrs
+# # Ghosts of Oceania - Demo I	
+# # Havet - Lochlannach	
+# 71rvCQemslGtpSraTDPdl1	#	Umbra - Mater
+# # Svardun - Glacial Magic	
+# 3mCagg1jfiL3acDsb6C5ty	#	Haxan Dreams - Path Through The Realm
+# # Black Tiger - Xanathul Shadow † HDK 14	
+# # Silencio Permanente - The short and foolish quest of Sylovar and Hrud † HDK 25	
+# # Precious - A Promise	
+# # Sequestered Keep - The Vale of Ruined Towers	
+# # Mithylus - Silentium Est Aureum	
+# # Unguth Vaentron - To The Mountains Of A Thousand Axes	
+# 0Px6bpgyEvGhQhaFmm7v4X	#	Byrhtnoth - Brethren to the Fire Trumpets
+# # Witch Tomb - Incantation	
+# # Taakeslottet - Mot det kalde nord	
+# # Ordo Maleficarum - Tale of Heathen Land	
+# # Velvet Tears - Old World	
+# # Dungeons & Catacombs VIII Aural Handbook Ov Invokers & Legends From The Inner Realm	
+# # Voloth - Origins Of Swamp Magic	
+# # Almófar - Le Poème Tombe Comme Un Ange Morts	
+# 6PZ1jLx9Py9KnVB8fcf2of	#	Offermose, Grift, Kim Larsen - Mørkt Foraar
+# 5Piur4TqM0gGkKLk63kgc9	#	Offermose - Mørkt Foraar
+# # Sequestered Keep - Wandering Far	
+# # Rog - Brave Sir Robin	
+# # Thangorodrim - Gil​-​Estel	
+# 0gTOZyOsy7VRpDN7nCB1rD	#	Garadrak - Loremaster
+# # Almófar - Le Temps Partie I	
+# 3Hg06bIHpZHo5taHzSF4O3	#	Isegrimm - Ik Gihorta Dat Seggen
+# # The Obsolescent Arborist - Tree, Timber and Forest	
+# # Barak Tor - Regal Hymns of Blood	
+# # Kenosis - Book One	
+# # Рабор - Источник	
+# # Lord Lovidicus - The Forges Fire	
+# 5JPeVFmz43dpCjcZzAZdvH	#	Arsule - Fumeterre
+# # Windtower - The Eldest One	
+# 1FeIEtvYFyceROkYH3TNHJ	#	Torchlight - The Long Quest
+# # Bellkeeper - The First Flame of Lordran	
+# # Gargoylium - .​.​. De Cheminements et de Batailles .​.​.	
+# # Jim Kirkwood - The Legend Of Sam Gamgee	
+# # Gargoylium - Mon Royaume	
+# # Darkstroll - Sounds Of Taiga	
+# # Svardun - Manetheren	
+# 4pnLdPWOnMNMBwwT0N48jF	#	Offermose - Ofring I Sverige
+# 3b5ca17JGJ6mh9WM0iTMvM	#	Pazuzu - And All Was Silent
+# 1SxrOkBA0KO0iY2tkULKKB	#	Old Tower - The Rise of the Spectral Horizons
+# 0gx64COFIr2aZLjtbYwQFG	#	Aindulmedir - The Lunar Lexicon
+# # Soltri - Winter Songs	
+# # Urthrax - Cantrips	
+# # Sirion - The Long Journey... Through The Lands	
+# 0ECZVnTGc0OQ7Bk3Gc435u	#	Cthulhu - Ph'nglui Mglw'nafh Cthulhu R'Lyeh Wgah'nagl Fhtagn
+# # Ogion The Silent - Silence Within	
+# # Vetus Supulcrum - Songs Of War And Lamentation	
+# 0DztKE9XuyJvflOxgSx27V	#	Arthuros - Ithildin
+# # Den - Eternally Traveling the Landscapes	
+# # Decrepit Corridor - Lethargic Lullabies	
+# # Krimpatul - Horde of Middle​-​Earth	
+# # Ekthelion - Under A Mournful Moon	
+# # Lord Einsamkeit - A Most Certain Death	
+# 6LYQntOKLPszcaPxxx2p5Z	#	Old Sorcery - Strange and Eternal
+# # Emglev - Unreleased	
+# # Deorc Weg - Compendium of Frost	
+# # Fogweaver - Fogweaver	
+# 5cr20Ht7ImRRAXE7ibLC5q	#	Umbría - Follow the ghost hand
+# # Averiandur - Reign of Misanthropy	
+# # Vangar - Fortress in the North	
+# # Grabesmond - Mordenheim	
+# # Sequestered Keep - Virgin Forest	
+# # Svardun - Ancient Mirrors	
+# 69H1wfZjvgWUBoARmE1R4Q	#	Dust Seeker - The Golden Compass
+# # DEORC WEG - The Halls of Eternal Anguish	
+# # Ancient Boreal Forest - Only Time Will Tell Its Secrets	
+# # Darken Wood - V	
+# # Talog - Ukleta Kotlina	
+# # Forlorn Kingdom ‎- Walking The Paths Of Old	
+# # Burgen - Miserere	
+# # Upyr - Twilight Realms	
+# 3nZCkORZ00WEuqpe3mvmYq	#	Diplodocus - Slow and Heavy
+# # Old Glow - The Æon Callers	
+# # Precious - Innocence	
+# # Fen Walker - Hail! O' Barrow Lands!	
+# # Apoxupon - How the Garden Grows	
+# 4H4rGTsF37BB8IbyLAPzA1	#	Silent Cabin - Gently Veiled
+# # Eikona - Mysterium Tremendum Et Fascinans	
+# # Forlorn Kingdom - Ancient Winter's Domain	
+# # Earthencloak - Pipe Smoke & Faery Magick	
+# # Conqueror's Mourn - I Will Face The Deathspell When It Strikes	
+# # Graveren - Du Cortège À La Fosse	
+# # Moth Tower - Clavitasian Threshold	
+# 0AaHJHe0zcoXJOX2ct1o2B	#	Den Sorte Død - Undergangen
+# 12g4TEryZLmjInyV5CoLw4	#	Garadrak - Elegiac Winds
+# # Upyr - The Four Seasons	
+# 43VA4B0c1Ueufp37ef7pfh	#	Blood Lord - Unwelcome Guests
+# # Vetraheimr - The Renegade	
+# # Utred - Gothic	
+# 3RmH3C8blWi0fd0zPzKR12	#	Lamentation - Eine Symphonie Der Nacht
+# # Castel Jaloux - Le Petit Orchestre de la Nuit	
+# # Monastery - The Garden Of Abandon	
+# # Örnatorpet - Vid Himinsenda	
+# 6T2xyw6mKXjDVYkXA6K5ql	#	Vindkaldr - Miscreantic Mysteries and Invocations
+# # Rog - Bush And Thicket	
+# # Ulk - I + II	
+# 3QTdQ2AFNAL9Wjc3JANuMl	#	Machina Coeli - Lure of the Forgotten Lake
+# # Nigrescent ‎- Winds Of Sorrow	
+# # Tryumf - Hymns of Power	
+# # Silentium - The Ancients' Wisdom	
+# # Fen Walker - The Totem Wilds Call Thy Name	
+# # Mittwinter - Vinterdrøm	
+# # Halberdier - To Return Victorious	
+# 26n378o7ozgdX97EXPXjC3	#	PatternShift - Rituals from the Distant Past, Memories from the Far Future
+# # Fief - V	
+# # Nameless King - Traversing The Ageless Fog	
+# 0Drfy7RDYHwuju5aStI7dV	#	Hole Dweller - Flies the Coop
+# 2zqRW40C5OijIft9JEQM9m	#	Hole Dweller - Flies the Coop II
+# # Myrrdin - Glomung Ofer se Weald	
+# # Vetraheimr - Unchained	
+# # Oremord - Fulchland	
+# # Akerius - Lux Tenebras	
+# 2F7o0b3g5nFIsssqXgze9f	#	Arcana - Dark Age of Reason
+# 5qPbOSkfycYaODStOqJUP9	#	Wallachian Cobwebs - Hearken to the Moon Whisper
+# 2oWs1cjVoRp5BuvXraovBk	#	Offermose - Bag de Hvide Tinder
+# # Rhandir - Awakening	
+# 25pewkw6wGApzztRHRQA9v	#	Artesia - Chants D'automne
+# # Il Generale Inverno - General Winter	
+# # Grandma's Cottage - Grandma's Cottage	
+# # Windtower - Sins of Yore	
+# 4owChdvGOVFI019VBjDVzj	#	Shogun's Castle - The Eight Noble Virtues of a Samurai
+# # ESTOC - Chapter I	
+# 1K3tv9as1bXIKnKYg8eWiB	#	Encloaked - Encloaked
+# # Count Shirintsu - Welcome Home, Count Shirintsu	
+# # Vandalorum - Flagellum Dei	
+# 0iDpTYBt6GrGV7oUiNFBsY	#	Örnatorpet - Fjällets Gyllene Slott
+# # Tiny Mouse - Little Ones Journey	
+# # Ancient Boreal Forest - Where Dragons Dream	
+# 2IBTSM2jRwecuP1X2yAemC	#	Arthuros - Kosmos
+# # Depressive Silence ‎- Mourning	
+# 21PqSM0EuQr0eosxJjqpp3	#	Kaarna - Comitatus Savolaxiæ
+# # Midnight Syndicate - Dungeons & Dragons	
+# # Forlorn Kingdom - Distant Apparitions	
+# # Grandma's Cottage - Grandma's Cottage II	
+# # Thangorodrim - The Darkening Of Valinor	
+# 0Q8oZdSAcApGPH4ybHy5P8	#	Angst Sessions - Här vilar vårt inre svarta hav
+# # Vangar - The Forgotten King	
+# 77SN0DnoHqsu3MBl2JXn9v	#	Burzum - Thulean Mysteries
+# 35JR2M80Xvot2xfpsJuNLC	#	Burzum - Thulêan Mysteries
+# 0WGEhC2pDVSKgM0HxALiwv	#	Artesia - Llydaw
+# # Barbarian King - Barbarian King	
+# 4yNzMn1qVqN4YgUjkqfPxy	#	Chris Tia - König
+# 41rIb0EpBj7sWp76DBQyWh	#	Criptadel - The Goblin Market
+# 5rORfmWVK505RXBh94bRva	#	PatternShift - Testament of the Earth Sage
+# # Haunted Realm - A Time Before	
+# 3z6ifrjoAsxyltabKFdNyQ	#	Hole Dweller - Returns to Roost
+# 0AW3ifrKeKoIxcU9exHAiT	#	Umbría - The Sleeping Wizard
+# # Forest Of Yore - Mythical Woodlands	
+# # Old Sorcery - Clandestine Meditation in Two Chapters	
+# 3C2PlabaGVjCwg7mA4DN5Q	#	Quest Master - Lost Songs of Distant Realms, Vol. One
+# 11lnPb07I8uy07bz1Wfpbx	#	Quest Master - Lost Songs of Distant Realms: Volume Two
+# 6VEpDd7vRTWYG7FKcmNKZn	#	Alloch Nathir - The Emerald Grotto
+# # Fern Treader & Romantyth	
+# # Moukeprabbeli - To Venture Beyond	
+# 74MCfBQHfo0K3eiCtqk7Gu	#	Arsule - Qve torment face grace
+# 6lAfjjuwSKbCzWfMxNK6YK	#	Nortfalke - Atmosfeer
+# 5gfQT60u6tzemyJEh6NBN9	#	Blood Tower - Kikimora
+# # Slime Golem - The Short But Touching Tale Of Slime Golem	
+# # Bronzen Oath - Eulogy For A Noble Age	
+# # Dame Silú de Mordomoire - Ordeals	
+# # Terramist - The Crow's Caravan of Wonders	
+# # Rog - Ea	
+# # Gueux - Tome 1	
+# # Alda Navaer - Beyond the Tower and Far Away	
+# 6nSe4nfNgSoSVAOs3NTiGb	#	Archana - Rites
+# 3u7PS3JmfJElULeqfv7ARg	#	Khand - The Sage of Witherthorn
+# 5S27ymw4sJYFWwFMmFoVMq	#	Mystiska Skogen - Mystiska Skogen
+# # Instinct - The Cold Return	
+# # Schemer Heer - The Immortal Herald of Ancient Death	
+# # Neanderthalensis - Short And Stocky	
+# # Xivilai Sorcerer - Winged Twilight	
+# # Nigrescent ‎- Austere II & III	
+# 4IQSymkmtMSImUcGBjqOBx	#	Trova de Lid - Elemental
+# # Necrocachot - Tanz Der Schatten	
+# 1WHhTbzDao41Zi9xpkOwGW	#	Sleep's Sister - A Vigil of Stars
+# # Dwarrowdelf - From Beneath the Fells	
+# 0B78TKZIzZx9p9IWqvMAbZ	#	Bespin Moons - A Binding Force
+# 4roxao47M3Fvg51ghoKEGz	#	Fvrfvr - III
+# # Varkâna - Ahrimanic Chambers	
+# # Midnight Odyssey - Ruins of a Celestial Fire	
+# # Dungeons of Irithyll - The Dire Pass, That Few Have Known as Sarnath	
+# # Thangorodrim - Prologue	
+# # Lord Orots - Latzineko Erresumaren Itzulera	
+# # Bannwald / Uruk-Hai / Druadan Forest - Kingdoms Long Gone	
+# # Emglev - Noz-Veil	
+# # Fen Walker - Sojourns in the Realm of the Undermoon	
+# 76JXycuA1fokCjW4vUETKL	#	Fvrfvr - Tales from the Emerald Kingdom
+# # Gullinbursti - Mythical Metallurgy	
+# # Gates of Morheim - Omagatoki	
+# # Windrikje - Frostland	
+# # An Old Sad Ghost - Berstende Ehre	
+# # Arcana Liturgia - Tales Of An Ancient World	
+# # Earthencloak - Commune of the Gnomes	
+# # Ethereal Kingdom - Oath of Battle	
+# # Skyfar - Fading Light	
+# 4FoXi0wdcJpOcJ5l4139sK	#	Shogun's Castle - The Ancient Arts of Self-Discipline
+# # Akabxs - Winterschlaf	
+# # Grol the Goblin - King of all Goblins	
+# # Barad-Dûr - Druid's Grove	
+# 3acHVnTfr2G8dulzoUd5K7	#	Mournful Moon - .​.​.​As Shadows Fall Over Zenitheaen
+# # Diablerie - MMXX	
+# # Witchsteel - Mountain of the Red Flame	
+# # Titan - I	
+# # Redhorn Gate - Carven Throne​/​Many Pillared Halls​/​Runes of Power	
+# # Arvernien - Arvernien	
+# # Apocryph - Of Spirit & Sorcery	
+# 7upsdULCMRhbX5cL6tROBI	#	Burzygóry - Burzygóry
+# 1yFVjIOSVQBos1iuQJcsdD	#	Murgrind - The Fallen Kingdom
+# 6Zvx9h36wu3GfZb8ReC9Se	#	Umbría - Farwalker
+# # Lord Lovidicus - Kyndill og Steinn	
+# # Arcana Liturgia - Ars Moriendi MCCXXXI	
+# # Mausoleum Wanderer - Kabal of the Ashuvrahqt'Aild- A Rasataalian Adventure	
+# # Kalameet - The Age Of Fire	
+# 30SHiL1145WJoFmDJlDtZp	#	Foglord - Tales From The Woods
+# 40uBmuV72Rck80s5NRHvY8	#	Forklift Operator - Warehouse No. 1
+# # Bröckensbectrwm - Huldufólk	
+# # Funeral Requiem - Far Beyond The Misty Fog	
+# # Ancient Voice - Path of Solitude	
+# # Thangorodrim & Haryon - Under the Reign of a New Power	
+# # Lookfar - Beyond the Edge of the World	
+# 7FVDLEIYXC9E9phIKvtZlT	#	Imbaru - Trukur
+# # Nachtjäger - Night Hunters	
+# 7hIqUsIX3amrbrpWGc5ymx	#	Keys of Orthanc - Unfinished Conquests
+# # Kmet - Buna	
+# 2qoSEWQd4JBgjcSfJNqf8h	#	Hexelwir - Manifestation of Forgotten Souls
+# 4HDCk8HF4wyY1dJp0ciu5M	#	Quest Master - The Twelve Castles
+# 6ZVEb45PVpViBS7DjRwYDN	#	Quest Master - The Twelve Temples
+# 0Drfy7RDYHwuju5aStI7dV	#	Hole Dweller - Flies the Coop
+# 2zqRW40C5OijIft9JEQM9m	#	Hole Dweller - Flies the Coop II
+# # Gargoylium -  Mon Royaume	
+# 0v3pm5ZPb89U7fd5tN8mHA	#	Sylfvr - The Tower
+# # Ontrothon, Saga of the Ancient Glass - Ontrothon, Saga of the Ancient Glass	
+# # Casket of Dreams - Solas	
+# 2xvbE4WHlPiaeweIDsU3UP	#	Uilos - I: Dark Night of the Soul
+# # Criptadel - Adventures I	
+# # Forest Shrine -  Forest Shrine	
+# 62Pj9sjNsxZnk9t4wOeXq1	#	Offermose - Stilhedens Tårn
+# 5Z0ALhs6ZbidEgIiaA1bWV	#	Offermose - Stilhedens Tårn
+# 2ITaIh7QB3hqx48vmNKeeG	#	Lovi - The Caverns of Lempo
+# 559M8wj7DpXOSAGDXcFrSe	#	Pafund - The Grim Abbot
+# # Knights of Nvrul - Sri G'thra	
+# # Vandalorum -  Mesopotamian Death Cult  † HDK 58	
+# # Moukeprabbeli -  Bogs And Frogs And Nightly Fog	
+# # Fåntratt - Ljusbringarna	
+# 09v2XtQxKjzYhW0R1q9z0u	#	Erang - Imagination Never Fails
+# 1iTjQuhQu2GP4wipoNwYXU	#	Erang - Imagination Never Fails (B-Sides)
+# 0cVT8aoVskDj8htVtEprrp	#	Diplodocus - Tales of an Ancient Past
+# 02iR379wstGPz6JL5v1609	#	Inlustris - Stella Splendens
+# # Fen Walker - Hark! The Whispering Dead of the Burial Lake	
+# 5m5zzD1KmkBzA6HSJEjbRo	#	Tir - Urd, Skuld & Verdandi
+# # Vale Minstrel - Warden Of The Vale	
+# # Mari Lwyd - Future King	
+# # Trädvarelse - Cave	
+# 7jUtW1FUPrWkYtjiLZY7FV	#	dungeontroll - Mournful Melodies of Ophior's Grotto
+# # Forlorn Kingdom - Alpine Black Magick	
+# # Castel Jaloux -  Reliques Perdues et Légendes Oubliées	
+# # Apoxupon - Nameless and Formless	
+# # Balam - Ωηισπερσ Οφ Βαλαμ	
+# # Walpurgisnacht - Die Biomechanische Kriegsmaschine	
+# # Goblintropp - The Last March of the Goblin Troop	
+# # Aldaron - Forest Path	
+# 3diXfv5pa3IvTEw7bm0we2	#	Olshanoe - What Do You Hear Coming Home?
+# # Sole Occidente - Ye Last Journey of Mine	
+# 2B1CfzE17vYM7qX6ZcBU7m	#	Resinator - Apothecaries' Weight
+# # Spell of Unseeing - Weaving Light & Shadow	
+# # Knights of Nvrul - Sword of Äonheart	
+# # Arcana Liturgia - The Return of the Mighty King	
+# # Erang - Northeast Dungeon Siege Performance - 2021	
+# 6ZE8lhsKA9iQ5Kvw4ykbtu	#	Tir - Persepolis
+# # Wallachian Cobwebs - Night Sobbed a Potion Diseased	
+# # Vale Minstrel - Garden Of Spells	
+# # Dark Ages - Twilight Of Europe	
+# 4qmJg1WcehufjlObRJVi5S	#	DIM - Compendium I
+# 0BcQaNQJpqMG7759XhsZzZ	#	DIM - Compendium II
+# 0Pf7fTy1eL1EWui8CfVFwn	#	DIM - Compendium III
+# # Soporific Sorcery - Sarcophagus Symphony II	
+# 3d73WBeZlUL60VSkc2BE9h	#	Frozen Ocean - Trollvinter
+# 2QWshVj3lAFcGUlGz4XeFm	#	Arcanist - Poseidonis
+# 6NIJKcxCQ8GnHJM6AxI58c	#	Cursebitten - Seize It with Thine Own Hands
+# # Ohnwert - Leise Sprach Der Wind	
+# 3ax51dJz7UUhwnnQLvyDn4	#	Mirthquell - Return of the Ancients
+# # Fridfull - Fridfull	
+# # Iskall - Iskall	
+# # Cimitir - Eerie Emanations	
+# 5LRQMQGeKHYcNaLQ5fd6kw	#	Ithildin - A Long​-​Expected Party
+# # Encloaked / Mortwight / Castle Zagyx - Beacons Burning on the Winter Horizon	
+# # Nortfalke - Mooi Wintermones Opkomst	
+# # Avdypet - Kapittel I	
+# # Goryō - Goryō	
+# 56Rb2BMW77Hlzbudnel0EB	#	Elyvilon - Nimueh's Gift
+# 1LsPHUs065Cm2sYFn6I6za	#	Unsheathed Glory - A Journey Through Realm and Region
+# 7nE2EBIqDnnpWoP2xP2qbu	#	Lamp and Dagger - This Tape Is Haunted Too
+# # Sombre Arcane - Realmsong	
+# # Fen Walker - Fare Thee Well Battle	
+# 4HDCk8HF4wyY1dJp0ciu5M	#	Quest Master - The Twelve Castles
+# 6ZVEb45PVpViBS7DjRwYDN	#	Quest Master - The Twelve Temples
+# # Goryō - Kaidan 怪談	
+# 0BqNf6b4ILFwCX7H3Is5mT	#	Grandma's Cottage - Memory Box
+# 2M4cEAuhz3JjQo0WFEQ1st	#	Umbría - The Entombed Wizard
+# 5s5033vqYGSWiGkp7MhwYX	#	Erang - Prisonnier du rêve
+# 0r26c4Sy57BajrRJVaFkhK	#	DIM - Compendium Reliquiae
+# 6U3HpNqL7k5Ae7p8glioK6	#	Offermose - Jordens Åbne Sår
+# 0cSBdjU84Jyu38FxUi4lI7	#	The Wanderer - Journeys in the New North
+# 0v08mcn7umRB5m7bF9YZDm	#	Varkaros - Desired God of the Abyss
+# # Vale Minstrel - Red Wyvern Tower	
+# 0AbpbrnTWrvtVEgWq7Uh4H	#	Estrema Fortezza - Estrema Fortezza
+# 4Jc3ZAZiPeJ6glrBAPfrhY	#	Khüll - Call to arms
+# # Frost Clad - A Hunter's Delight	
+# 6HRjm820wRyeA26QHfbWNb	#	Nortfalke - Seefonktjúenderee
+# # Keloth - Path to Khalimor	
+# # SIMBVL - Arctic Ambient	
+# 3iJ6C8LK7PJzo7ofHObS1T	#	Elffor - Arkaik
+# 1tWcy8rWpeET1Lw96Fcy5X	#	Elffor - Arkaik II
+# 5X3holaYQ0bayQGK3d2klv	#	Elffor - Arkaik III
+# # Helmet - Tales of the Helmet's knight	
+# 7FfXI9zkIPtqPchrUIj6By	#	Arthuros - Ultraromance
+# 2Ik0ZrUY3Uv0tgsTEq7Z2d	#	Wraith Knight - Deep in the Dungeons of the Dragonlord
+# # Dolch - Wolkenmeer	
+# 6gprHbtx8Vv5FEeiDS1EPh	#	Paths of the Eternal - Quest For The Sacred Blade
+# 5jeqGMqvbwCpwDg5bTZ5SI	#	Tales Under the Oak - The Toad King
+# 2EWSdAdsaCZvlFpS0jmbRF	#	Elyvilon - Drums in the Deepwood
+# # Halm & Ontrothon - Tales From The River Between Realms	
+# 4ZkFm2ii4xDCARSlsw7RHC	#	Hole Dweller - Another Chance at Peace
+# 04wBe1QIbBlzs010qizHaD	#	Landstrykar - A Walk Amidst the Cairns
+# # Necrocachot - Forest Of Bones	
+# # Vanishing Amulet - Nocturnal Heritage	
+# 6OYosmsvtSgCW5F2dZwxAs	#	DIM - The Holy Crag
+# 4q5R4aMf59yHmLxpga818h	#	Frér - Crepuscular Glare of Wisdom
+# # Tales Under The Oak - Swamp Kingdom	
+# # Glog - Lord Of The 4th Wind	
+# 1tWcy8rWpeET1Lw96Fcy5X	#	Elffor - Arkaik II
+# 5X3holaYQ0bayQGK3d2klv	#	Elffor - Arkaik III
+# 5A76c9RS6joCS93Jg6OAtG	#	Aindulmedir - The Winter Scriptures
+# # Lord Lovidicus - Midsummer	
+# 2GbIatRWvbWD1s5RWNSF21	#	Ortnit - Ortnit
+# # Dragon King - Dark Creations	
+# 5tzCSTZisQHouKyLwYcZ2L	#	Nortfalke - Moonjeie
+# 696hZY4p3NbwwQd6YmHfn0	#	Old Tower - Tales of the Mad Moon
+# 5sDjtmgG8wjgQZUIoHbe1j	#	Ingvarr - The Hopeless Resistance Of Emberdrin's Army
+# 3iJ6C8LK7PJzo7ofHObS1T	#	Elffor - Arkaik
+# 1tWcy8rWpeET1Lw96Fcy5X	#	Elffor - Arkaik II
+# 0cKHpTs7uBNkj9pMuoGwYN	#	Arcanist - Hyperborea
+# 0GK6TIM7GLSXJ7kyxoqOcx	#	Ulk - Shellbound
+# 5tdX8TRvFTdOM2XsKRObsU	#	Old Tower - The Last Eidolon
+# # Voloth - Towering Above The Gods	
+# 2XlNh0g5WtWxco0ZoU56pQ	#	Cimerion - Vers la montagne noire
+# 52OQd88T3MrEzX78S0Haet	#	Ingvarr - A Dire Prediction
+# # Neverlur & Sequestered Keep - Under Nordljosets Straalar / Quests in the North	
+# # Frost Clad - The Bastion of Pines	
+# 07xqhSFFUEYWIUGEJ5WboQ	#	Elyvilon - Full Moon Over Yuletide Eve
+# 5LIAsKfynnXe4JdhVqfqzq	#	Fvrfvr - The Tower Of Doom
+# # Gretel - Howling Forests And Swamps Of Sadness	
+# # Erang - The Five Seasons Pentalogy	
+# # Knights of Nvrul - Knightronauts	
+# 4xPTxjmCBFzst7xh9CsXFv	#	Idylls of the Last King - Where the Gods Whisper Your Name Amongst Themselves
+# # Ayakashi - 神​隠​し	
+# # Tales Under The Oak - The Toad Folk	
+# 4MXCH6lIuharYzSH8hR6tF	#	Pafund - The Orchid of Life
+# 7A17UFm8cQxrq9yuCyoGbB	#	Nethilde - To emerge from black earth
+# # Feudum - Unspoken Arcane Mysteries	
+# 1LAqo35ywygKCCj41v0mwz	#	Old Tower - The Old King of Witches
+# 2lEMJYXEBoapHK14C8314v	#	Encloaked - Leaving Lancre
+# 4q7IrNncr75K0JqFsmfJrL	#	Ziggurath - Tales from Southern Realms
+# 3VXuPEb7SubpG2n3n8ynBp	#	Vaelastrasz - Winterspring
+# # Lakanys - Whispers Of Rising Shadows	
+# # Flamberge - The Medieval North Winds	
+# # Casket of Dreams -  Primal - Ancient - Legendary	
+# 2EcX1daEyqrNJOEgZMUd1P	#	Castlesiege - The Council of Trees
+# 06ym4kRfJSD7z6tl3E6AC7	#	Elffor - The Wintery Warrior Spirit
+# 5hJWgCOWURmLEbgDX7yyW7	#	Lovi - Kirmukarmu
+# 1QUApjVLcwD9tg7yC6Su4T	#	Aindulmedir - Star Lore
+# 110cWFho3fSsDruwwAjGK2	#	Hole Dweller - With Dreams of Hereafter
+# 2Pd1VM8Ip6zgSJl12HpXST	#	Inlustris - Rosa das Rosas
+# 2a9q0EMkVZkGBbckqfa9DR	#	Quest Master - Sword & Circuitry
+# 5RPC2OOrVltUk9U1RLI1jW	#	Gentle Fish Mumbling - Re:Visions
+# # Duskgreeter - Hasten the Sundown	
+# # Ortnit  - Sidrat	
+# 6cgLEwnMttmPfcwt63kvLX	#	Tir - Awaiting The Dawn
+# 41XchtBUEJriDV6retMJTf	#	Ziggurath - Jungle Majesty
+# 6tyaHG3fVT859NYvTofY5M	#	Ithildin - The Hidden Door To Dwarrowdelf
+# # Synthosaurus - Gigantic Throne	
+# # Swords of Midi - Fort Exile	
+# 4OZBNHaLrWNB1Bo999r50v	#	The Ashen Knight - Sepulcher of Bells
+# 3xEeY7s4rNMvSFih7fecrt	#	Den Sorte Død - Den Sorte Død
+# 1JeireODWYURPU5tBia2Kb	#	Pauldron - Secret of Scales and Talons
+# 0QAE5AcW1JSmDKIDAZbmI2	#	The Ashen Knight - Froststorm Keep
+# # Den - Nature and Cosmos	
+# 411szmFc7SuQzDVR3BNLm1	#	Erang - A Blaze in Time
+# # Thagomizer - Synth From The Dawn Of Time	
+# # Rog - Verdant	
+# 6meoarLkeWAN7TiZhx4WKV	#	Frog Concert - Slumbering Sounds of the Frog Fellowship
+# # Pillar of Men - ਐ​Ѫ​〠	
+# 1PHYJgX4c7fETvz1p0ZO2k	#	Hircine - Old Kings Fall
+# 2qlpRfdwiKlnaK5xhT44nY	#	Erythrite Throne - Cursed to Wander the Shadowland Eternal
+# 0J3XdznEiREJLrtqP0UzSw	#	Cimerion - Contresort
+# # Arbuja - Arbuja	
+# # Archosaur - One Million Years B​.​C.	
+# 3q3KMwX4V4x3qMZh1eOnHt	#	dungeontroll - Journey through the Forest of Uzohr
+# # The Longing - Original Game Soundtrack	
+# # Thagomizer - Time Of The Titans	
+# # Snawfuss - The Four Dimensions	
+# # The Shakespearean Frog - Handkerchief Soap	
+# # Old Realm - As Time Fades Splendor Away	
+# # The Toors - Dwarves and Plants	
+# # Octobeast - Voyage Of Doom	
+# # Excilibrius - Haunted Lands	
+# # Thagomizer - Mesozoic Mood Music	
+# 79PbAHEtUQI3ofBBTlvQoz	#	Lurid Orb - Folded Visions
+# 0ZI4pAYaINbCiSgT6uIUbS	#	Isabel del Bosco - L'Heure Bleue
+# # Octobeast - Menace From Below	
+# # Bachus - Orgy	
+# # Herpetologia - Reptiles and Amphibians	
+# 5whco8LRJPUXBwPEtEt1jw	#	Pauldron - Under a Reptilian Moon
+# 74SFFR5IPF4xe1A6yclqD5	#	Taurwen - Omnia Mutantur, Nihil Interit
+# # Trädvarelse - There Were no Gods in Their Legends​.​.​.​Only Heroes	
+# # Synthosaurus - Rise of the Synthosaurs	
+# # Hole Dweller - Jamwine's Unfinished Tales	
+# # Ornithologia - I	
+# # Midnight Odyssey - Ashes From a Terrestrial Fall	
+# 1PHgabT1W2EFPdyH1FkEiE	#	Hyver - Sorcier-Hibou
+# # Ithildin - Arda's Herbarium*Vol. I	
+# 4hAHvRr39ilTsvNbN00CeV	#	Hermit Knight - Once
+# The Shakespearean Frog - Elite Toilet Soap	
+# Mitternacht - An Ambush in the Forest	
+# Eternal - Depths Of Sorrow	
+# Mournbound - Legends of the Dragon Forge	
+# Ithildin - Arda's Herbarium Vol. II	
+4MZMf99OnOeWxTi8KJ3Pl7	#	dungeontroll - Tales from the Northern Chamber
+# Castle Zagyx & Elffor - Ungodly Mysteries	
+4xcVyAUZi1uZFXx7X26UXK	#	Frog Concert - A Gesture Towards Ribbitdom
+# Venader - Ancient Secrets of Prestidigitation	
+# 𝔐ø𝔯𝔨𝔢 𝔒𝔤 𝔏𝔶𝔰 - Orcus Animus	
+7fL1jzokuSrZlXtpdALWeh	#	Hole Dweller - Crossroads
+# Wyndcrawler - Poetsblood	
+# Sceptre - Sceptre	
+5RRzejT7QwiUs0nQ5IJuBt	#	Istarion - I
+# Duskgreeter - Boneyard of the Gods	
+# Drifting Dots - Duskveiled	
+0Hpv8z0BA07n0M0aI5RwRe	#	Nocmar - Torn Out Roots
+5IcvhmRdu1DfTZwABtHArh	#	Skymningsvävd - Fragment
+3AVnOfZtcpnSzTezXoSMGJ	#	Hircine - Luna & the Light
+6fU2hcI2WFZp8MkEcqWF2T	#	Thorvroht - Frostbound Reveries
+# Shädöwgäte - 水​光​曲​EP	#	Could not find item. Remove this comment to try again
+# Kar'A'karN - The Prophecy Of The Dragon	#	Could not find item. Remove this comment to try again
+# Worm Priest - Crown of Mesmer	#	Could not find item. Remove this comment to try again
+6DPpsp1XjaQrvjLXwdZVlE	#	Umbría - Homecomer
+36W0pP7T5qb6zXzUYwtGHh	#	Hermit Knight - Upon The Dawn of The Vermilion Glaive
+05r6IDCEQ9X4AfCzQJPWq1	#	Atlantean Sword - Realmwalker
+# Règne - The Kingdom of the Sibyllines	#	Could not find item. Remove this comment to try again
+# Grim Horn - Chronicles of the Forest Temple Siege	#	Could not find item. Remove this comment to try again
+# Magic Hilt - I	
+07V9vaul8j8bqwZso6D5RK	#	dungeontroll - From the Shining Kingdom of Uzohr
+5IRixrMFt5ukZhU6k5obUg	#	Idylls of the Last King - Dungeon Drone
+# Elffor - Medieval Cults of Heresy	#	Could not find item. Remove this comment to try again
+0AxNoaJXeUINRo831JkD4Z	#	Arthuros - Astral​á​e
+# Yhorm - Dagon	#	Could not find item. Remove this comment to try again
+# Frog Concert & Covered Bridges - The Bridge Burnings of Wonder Lake	#	Could not find item. Remove this comment to try again
+1L57vn7wh82cHwMnkTeWjo	#	Acasia - Acasia
+65oUPg6NkHi3cQNr8RuHag	#	Ziggurath - True North
+# Shogun's Castle - The Sacred Creed of Devotion and Purpose	
+# Easnadh - Ein Kampf Gegen Licht	
+# Owlsilar Gate - The Cursed Mountain	
+51zD4njJnF0qLxSyNHXWw3	#	Fimnur - Snowbound
+# Piva - Sorrow Tower	

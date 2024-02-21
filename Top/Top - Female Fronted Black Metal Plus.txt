@@ -1,7 +1,10 @@
+@ID:3T1VdvSDMQUqxcLIu1UYAc
+@LastRun:9/14/2023 12:20:49 AM
 @default:TopByArtist
 @LimitPerArtist:1
 # https://rateyourmusic.com/list/drowned_scars/the_ladies_of_black_metal/
 # https://www.discogs.com/lists/Female-Fronted-Black-Metal/264028?page=1&limit=250
+@OnlyRunIfModified
 
 # these turn out to be a lot of other things besides black metal
 # still pretty sweet though
@@ -1280,3 +1283,9 @@ Yylva                  #  Could not find item. Remove this comment to try again
 -Artist:1D0U3Mtuy0GkZaYbmZYW7j #  AILS
 -Artist:5EfBK6gZcvanBnqXFUzIsp #  Detest
 -Artist:44K92k9CFKrAefHRMs0chG #  ethereal
+
+-Artist:6gjX5is9BCfzsdB6s2GZkf	#	LODGE
+-Artist:1ZMGR6JmXas8TnbmSfYHmu	#	Never
+-Artist:7eU8idfZ6eBgQicpsIJxPr	#	Ails
+-Artist:0q9OdCBYYynGJEKCjEcGrD	#	Gorgon
+-Artist:79EDhl4t1hK7HQ4iNJn9bO	#	Acamar

@@ -1,0 +1,13 @@
+@ID:3QetcIcAvNrObhuJOeTQdf
+TopByArtistFromPlaylist:Liked - Nordic Folk
+@ExceptArtistFromPlaylist:Korpiklaani
+
+-Artist:4OoyRJmRiechzUniRKUQAS	#	Fejd, good music but more modern
+-Album:6CCmfurr8DhrQnxFufQ7fw	#	Jonas Simonson, Karin Nelson, Anders Jormin - Tantum (2018)
+-Album:6Rs04Vw6AboM4srVStb1JF	#	Sriram Maddury, Hilda Örvarsdóttir - Aham Reboot (2022)
+-Artist:6ZM82WCeDCdhuUdYHcvVoX	#	Jón Sigurðsson, is a guest on a couple Nordic Folk songs, but otherwise not worth having
+
+-Track:7z2ZDvSeXjrLtt19DdNOqd	#	Corvus Corax - Her Wirt (2018)
+-Artist:4t4unGD2iYlkONGDmBbkcE	#	Mari Boine
+-Artist:7h8V7XHdJ3akShW3uFaZyn	#	Gaahls WYRD
+-Track:5H64vWorPlB3v9Uhl7FZBg	#	Fuimadane, Kibo - Vidar (Kibo Remix) (2022)

@@ -1,6 +1,104 @@
-@NoLikes
-@LastXDays:30
-@ReleasedAfter:2023-04-01
+@ID:49kDTeFe23DL8PXvShfZkF
+# @LastXDays:40
+@ReleasedAfter:2023-02-22
+@LimitPerAlbum:3
+
 AllByArtistFromPlaylist:Screechy Women
+-TracksFromPlaylist:Screechy Women
 
 @ExceptArtistFromPlaylist:set it off,ghostemane,kim dracula
+,bring me the horizon, oli sykes, zillakami, the chainsmokers
+
+# Is "except" broken? these folks show up too muhc
+-artist:bring me the horizon
+-artist:the chainsmokers
+
+-Track:2UgtoEHb6LdnTi7Rqot1DO	#	Char - When You Go Away (2023)
+-Track:1DEoq8dafVkZBboDpI4fxu	#	bludnymph - Lights Out - Sped Up (2023)
+-Track:3knuaQ0mOAWRhzkiw8MMkL	#	AViVA - It's Okay It's Alright (2023)
+-Track:0zz1pvoPRrY2f9vHU5Br5N	#	LiL Lotus, Sophie Powers, aldrch - When Life Gives You Lemons - aldrch remix (2023)
+-Track:0GdvfaOA9RGc3QhLSvtMIx	#	Banshee - MEN ARE TRASH (wah wah) (2023)
+-Track:13IncIFHpCocBhubJW2lPY	#	Banshee - do I really scare you? (2023)
+-Track:0E2QhnpOnwCATbqHofQcBn	#	Banshee - YES ALL MEN (2023)
+-Track:6WTn4C1hUfcDgyF0ZQjbvU	#	Banshee - take me to the oceanside (2023)
+-Track:7Bc59U2nhCp608JlIEMEGl	#	Poppy - Knockoff (2023)
+-Track:1bDyMQE4nrpk0MHkWdWKq1	#	Zheani - HAMMERHEAD (2023)
+-Track:4s3zpopecomRRrsHiPg62n	#	bludnymph - Popsicle - Sped Up (2023)
+-Track:1dI4VdSAIKAqixkhiqC2en	#	Banshee - I feel safe with you (2023)
+-Track:1MVIdMpAqFn2zdg7ylnp1T	#	LYELL, Baby Bugs - Just My Type (2023)
+-Track:6Qnw1wRWCxdpKV7xlv0706	#	Grimes, Illangelo - I Wanna Be Software (2023)
+
+-Track:79vmq3eR63V6V4uGYuvxqa	#	Zheani - BRING WET CUNT (2023)
+-Track:2BVTLEEbNKbOBCkEQmOb2j	#	ZAND - Deliverance (2023)
+-Track:4bfSWmehX0ADTQ0hdlHi3t	#	Banshee - BIRTH OF VENUS - sped up (2023)
+-Track:5rp7ochiJYHjMYUy8eSFM7	#	Siiickbrain - Die Quietly (2023)
+-Track:5GzgfF4QK3bGUCNTpzt2mV	#	Azther Skinny, Banshee - Fiesta en Santa (2023)
+
+-Track:3uJHdRrvS6YikiBLDsSt6Q	#	bludnymph - FEAST (Let’s Eat Yuh Yuh) (2023)
+-Track:67O43FtuBoLHp0KArJfdGa	#	bludnymph - Incognito (2023)
+-Track:4n9zRMC8orbZ8P53Hosi1A	#	Baby Bugs - He Loves Me (He Loves Me Not) (2023)
+-Track:5LaT6csofzDEaFf8cmqoaQ	#	Alice Longyu Gao, Oli Sykes - Believe the Hype (2023)
+-Track:3SqPQRaxS6A6G7rlE7lvhs	#	Scene Queen - 18+ (2023)
+-Track:3WYREYBjEmlijoPN2MVDd7	#	Stileto, Liza - Pretend (2023)
+-Track:5WymYiS89VAeXdzMmHwcLa	#	Elita - Serial Killer (2023)
+-Track:45iTdT7r8TclEpGNNcF6yR	#	Elita - Sleep Paralysis (2023)
+-Track:1Yt4nwsSPSVrBdcn9kz00b	#	Elita - Summer Song (2023)
+-Track:5gSDFY0iX3TpMyMeCsXBqs	#	Elita - It's a Joke (2023)
+-Track:58uvwhhPzVQtN5JpldMbs1	#	Elita - Heaven's Night (2023)
+-Track:4pJBYePNjPcljkIwWCCbVm	#	Elita - Going Under (2023)
+
+-Track:3awA5h5b7xwPxCIlUK1p4c	#	Elita - She Bangs Like a Fairy on Acid (2023)
+-Track:2Q8V1YBbrevFiut1wVrWns	#	Elita - Lunar Orbit (2023)
+-Track:2dqV5HqSXSspSyxrw3SCSp	#	Elita - Orgasm (2023)
+-Track:1bHu6ITMMjFWeRjefGk9CU	#	Char - USER 139 (2023)
+-Track:3CHbzJ5OIbVc46A7wignsd	#	Flourish, Comanavago - Sweatshirt (2023)
+-Track:3pGASCDFUDoTJPNcikjAVm	#	Medusa - Damocles (2023)
+-Track:2wiS5tnwJVkzwe3fo3WG7F	#	bludnymph, TiaCorine - FEAST (Remix) (2023)
+-Track:4Lz2uH0ywXpEg5XWI99cwn	#	Banshee - YES ALL MEN (2023)
+-Track:58etWC7CX6i1LJOCFVxJ4s	#	$atori Zoom, DVRST - Still Breathing - Sped Up (2023)
+-Track:2p1kB54xX8sS5UWuyqTMT4	#	Baby Bugs - Love Letters (2023)
+-Track:1KsiEPLis5sU5xzlN563iy	#	Siiickbrain, g3ox_em - Absolution (2023)
+-Track:5VqF15oCG2PNwUCYy5ZHfn	#	The Wanted, The Chainsmokers - We Own The Night - The Chainsmokers Edit (2023)
+-Track:7hiYAZ1TykaQ5ln3BmEQFg	#	Gurldoll - Abyss (2023)
+-Track:2KEgaFWy04ME8xHjsG35b3	#	Luke Black, TEEN - Samo mi se spava - TEEN Remix (2023)
+-Track:1thoG15SIW5ycZ7kjZp0xR	#	Luke Black, Shurk - Samo mi se spava - Shurk Remix (2023)
+-Track:5ZMvAR7Kty1Ljb35GDFtMD	#	Sophie Powers, sped up nightcore - Nosebleed - sped up (2023)
+-Track:1VpPYxtocucsD9iTyABevK	#	Stileto - Skull n Bones (2023)
+-Track:06Tn31knIlUdw0budESHfK	#	Lil Mariko, ppcocaine, Full Tac - Hi, I'm a Slut - Full Tac Remix (2023)
+-Track:6bs9Rc4uFj5SWfpRWIO9Yq	#	Lil Mariko, Rambow - 100 Dicks - Rambow Remix (2023)
+-Track:7lSz3xORXePFXF65ykXlBl	#	Lil Mariko, Death Tour - Disgusting - Death Tour Remix (2023)
+-Track:3py32TeQDtDG3FRYkYlFI9	#	Lil Mariko, Deijuvhs, Mattu - Shiny - Mattu Remix (2023)
+-Track:68Evgi4ydh2rSwkhgvGlVD	#	Lil Mariko, BABii - Catboys - BABii Remix (2023)
+-Track:35UePqF4pjXRtIsF7jLBFi	#	Poppy - Spit (2023)
+-Track:5BgnL6gHauuvxe4Ok6W1aC	#	Bring Me The Horizon - LosT (2023)
+-Track:3YXoqev6yzlxpRSDJ93e5i	#	Ryan Oakes, AViVA - GROUND ZERO (2023)
+-Track:2jRciInArYaE7ON8RkUD8Q	#	Set It Off, Scene Queen - Win Win (2023)
+-Track:74NL5Ie5ggLQBIqJK1l1MF	#	bludnymph - Popsicle (2023)
+-Track:5MpNMfnltmNDdXLIv8kb1e	#	INTERWORLD, Siiickbrain - Deep End (2023)
+-Track:0cMlQk5PcH29Pus92tx2er	#	Sophie Powers, RAIZHELL - Nosebleed - RAIZHELL Remix (2023)
+-Track:3ad80jglXnez8ZnvbRhavF	#	Baby Bugs - Porcelain (2023)
+-Track:5vZ8xvP4q68ZDiAhdOSPJC	#	Baby Bugs - Pure As A Lamb (2023)
+-Track:4QcfHUpGxGGKh7VIVs3LYI	#	SLANDER, blackbear, Bring Me The Horizon - Wish I Could Forget (with blackbear & Bring Me The Horizon) (2023)
+-Track:2nhnehRSB4y6TnNwseM8cE	#	Cinnamon Babe - Typecast (2023)
+-Track:2rIl9MgxeJaAXRZFWnVTeN	#	Sophie Powers, YOUHA - Nosebleed (feat. YOUHA) (2023)
+-Track:5viZ8CLipufc1Q1NXpMRNN	#	Bring Me The Horizon, Lil Uzi Vert, Daryl Palumbo, Glassjaw - AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw) (2023)
+-Track:2dTXYwWM6Gq7VcYbdkqLnu	#	Flourish, Comanavago - Sweatshirt (2023)
+-Track:0lb5LdAnSntcZMOCD0aToF	#	Kiki Rockwell - Rise Up O Flame (2023)
+-Track:71w15Gd2nRjegwja8a48j8	#	Kiki Rockwell - Harbinger (2023)
+-Album:0sxjVtCBiHWdZLWyndytPJ	#	Kiki Rockwell - Rituals On The Bank Of A Familiar River (2023)
+-Track:1m7lgJNH3l3vOm6DVs5QpZ	#	Sophie Powers - Bathroom Floor (2023)
+-Track:3n2EfhI8SvZXnodI88qGZC	#	Baby Bugs, Nxghtshade - Porcelain - Nxghtshade Remix (2023)
+-Track:1owUcE0dWvXZz3766PsJLy	#	Cinnamon Babe - Bad Dog (2023)
+
+-Track:3Th9KhpGckHtx2klUepJPT	#	MOTHICA - Glow in the Dark - From Rocksmith+ Original Soundtrack (2023)
+-Track:0rnO8xz4RfzWh8LfYN5kgm	#	Shurk, DJ Grev - dua lipa (2023)
+
+-Track:5lnIfaRIo2gAxB7IBYdDoB	#	Bebe Rexha, The Chainsmokers - I Can't Stop Drinking About You - Chainsmokers Remix (2023)
+-Track:39iRz0h1eZOyXzch8tKQit	#	CORPSE, Bring Me The Horizon - CODE MISTAKE (2023)
+-Track:6v2BD01NC2PO4QB4STp8BH	#	bludnymph, 6arelyhuman - Bizarre feat. 6arelyhuman (2023)
+-Track:0b4djQuWsZnf5Vp7xdzAyj	#	Cinnamon Babe, Otep - The Man (2023)
+-Track:1Q98DdOmQlFrIaldR4MOVl	#	Banshee - BIRTH OF VENUS (2023)
+-Track:7sKjzxyw6TZjIpJGYnwg3N	#	Banshee - GET ME OUT OF THIS CLUB (2023)
+-Track:6hTudL1V7CHBhxwV8k9oIo	#	Chandler Leighton - EXTRA EXTRA (2023)
+-Track:7hV8vZMezoQdSdvsi70Ioa	#	Anyma, Grimes - Welcome To The Opera (with Grimes) (2023)
+-Track:11igdbhgOGJWqwzPHsisiS	#	bludnymph - End Of The World (2023)

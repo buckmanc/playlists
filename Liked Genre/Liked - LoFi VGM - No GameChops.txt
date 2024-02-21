@@ -1,8 +1,13 @@
+@ID:3N0V56SMwyGL8vfSBQY9Ja
 PlaylistTracks:liked - lofi vgm
 -artist:gamechops
 -PlaylistTracks:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
 -PlaylistAlbums:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
 
+# -Artist:0xqoVrZyl43jmN4B0dwKaw	#	Coddneck # wait is this a nier remix?
+# exclusions in this file should probably be filtered up the chain
 
--Album:0YEZKLE3OnX9l8R65Y9Lt8 # Strike The Earth (Shovel Knight Remix) (2014)
--Album:1Oht7VSm68oklaqPyvx26S # Volume I (2011)
+
+-Artist:1r9tN4dm1BoWFT0q37GnMV	#	Shag
+-Album:1Oht7VSm68oklaqPyvx26S	#	Dj Cutman - Volume I (2011)
+-Album:0DeHznRu8fo5BYm2Ci2mTu	#	Ben Briggs, nokbient, Firaga - VGM Essentials: Ben Briggs (2022)

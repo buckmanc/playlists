@@ -1,3 +1,4 @@
+@ID:6aRonCRJ6KuiLGEsBUtH5M
 PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL
 -PlaylistTracks:*pvgc*auto\ can*
 
@@ -13,15 +14,18 @@ PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL
 -artist:3vBngkkbx94CR6ieyfHVJu # komo
 -artist:jazzthatbrass
 -artist:jimmy on guitar
+-album:tim burnelis - *music box*
 
 -album:* - *lofi
 -album:* - *metal instrumental
+-album:* - *drum and bass*
 -track:*metal instrumental
 -track:*and violin
 -track:*nier automata guitar
 -track:museum lofi*
 -track:*lofi edit
 -track:*lofi hip hop*
+-track:*orchestral cover*
 
 -Artist:LoFi VGM
 -Artist:Dan DeSimone
@@ -117,6 +121,16 @@ PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL
 -Artist:7EswIAunQpEtHsPoGxvJjK	#	Diana Dunn
 -Artist:7p8mREWB1pM6G0gx0IOX0g	#	AnimeVivi
 -Track:2rp0e8gfnvItt1GIWESlu1	#	Shea's Violin, Animalisa Keys - Oresrush (From: "Octopath Traveler 2") (2023)
+-Track:26dcVXMSe30184vAUXOozQ	#	Pablo Enver - RUN! (2022)
+-Track:5y0ynI0D3RTEVuhD7Vsjvz	#	Kara Comparetto - Wood Carving Partita (From "Castlevania: Symphony of the Night") (2022)
+-Track:0decq6bGctWiq7D1On12EN	#	Morunas - Toss A Coin To Your Witcher (from "The Witcher Series") - Piano Version (2020)
+-Track:5m6zDh7cnyvu3BEquecPJq	#	TPR - Gym Leader Battle (Kanto) (2022)
+-Track:1HgOJs1UDGSG7tIwI01ael	#	TPR, PitTan - Colors Flying High (From "Persona 5 Royal") (2022)
+-Track:4zAAHEEyTTU0YeK341n7qX	#	TPR, abbytheoboist - Alleycat (2022)
+-Track:0R5X6qxjJvlI1KCLkvNOna	#	TPR, Alexandra Langley - The Star Festival (2020)
+-Artist:62GoYifV4njTdvS8lD2yYT	#	insaneintherainmusic
+-Track:1sVhyTuvjzNgAGvRwvakJd	#	TPR, Starling Tan - Soaring / Flight (From "Xenogears") - Instrumental (2021)
+-Artist:31Eoi17HcQM7ElqMMXIUU3	#	Charlie Parra del Riego
 # --all vgc--
 # -- all shared vgc --
 
@@ -157,6 +171,7 @@ PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL
 
 -artist:sungha jung
 -artist:dan avidan	#	works with super guitar bros on non-vgc stuff
+-album:* - dan avidan*
 
 # classical composers
 -artist:*beethoven*
@@ -340,6 +355,63 @@ PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL
 -album:* - *yiruma*
 -track:* - *his dark materials*
 -album:* - *escaflowne*
+-track:* - this is halloween*
+-track:* - *bleach
+-from:bleach
+-from:saw
+-from:hunter x hunter
+-track:* - *gypsy* # no slurs please, dammit
+-track:* - *gipsy* # no slurs please, dammit
+-track:* - *evangelion*
+-track:* - *tokyo ghoul*
+-track:* - *demon slayer
+-track:* - *originally performed by*
+-track:* - *backing track*
+-album:* - guitar loops*
+-track:* - *the simpsons*
+-track:* - *dragonball z
+-track:* - *dragonball gt
+-track:* - *dragonball
+-track:* - *one piece
+-track:* - *pulp fiction
+-track:* - *harry potter main theme
+-track:* - *mask of zorro
+-track:* - *death note
+-track:* - *attack on titan
+-track:* - *squid game
+-track:* - *pirates of the carribean
+-track:* - *once upon a time in mexico
+-track:* - married life
+-track:* - *indiana jones*
+-track:* - *oppenheimer*
+-from:la la land
+-track:*la la land
+-from:song of the sea
+-from:the promised neverland
+-track:my heart will go on
+-track:a whole new world*
+-track:colors of the wind
+-track:king of pride rock
+-from:mulan
+-from:the phantom of the opera
+-track:*rick and morty*
+-track:*liszt*
+-track:*pachelbel*
+-track:*hallelujah*
+-track:my heart will go on
+-track:over the rainbow
+-track:love me like you do
+-track:clair de lune
+-track:dance of the sugar plum fairy
+-track:in the bleak midwinter
+-track:when you wish upon a star*
+-track:let it snow*
+-track:gymnopedie*
+-track:toccata and fugue*
+-track:o come o come emmanuel
+-track:stand by me
+-track:marry you
+
 
 
 
@@ -358,6 +430,9 @@ PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL
 -Artist:3V1f0YghvSHTnUSWevaxMZ	#	Ds músic
 -Track:1r3BXdkGu3gN6XfLdnCFC6	#	Brandon Mild - Golden (2020)
 -Track:4ItYagqayr0z30yRRZGOf8	#	Salome Scheidegger - No Time to Die (2020)
+-Track:7dkKNLrrJwWc0np463mVvY	#	Moisés Nieto - Qué hay más allá (de "Vaiana") (2017)
+-Track:3sh88OAPmKInTzcSoaHZ4y	#	Moisés Nieto - Lo Que Yo Veo Cuando Te Miro (2017)
+-Track:77kwBN3LN2cPOTxK2mZfRC	#	Moisés Nieto, Luke Pickman - Infinitely Human (2021)
 
 # --manual exclusions--
 

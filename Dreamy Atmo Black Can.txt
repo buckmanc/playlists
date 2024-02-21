@@ -1,0 +1,10 @@
+@ID:6XVmXlJhtHAxVQR3CfFkWq
+TopByArtistFromPlaylist:Dreamy Atmo Black
+-PlaylistTracks:Dreamy Atmo Black
+-PlaylistArtists:*GTFO*
+@LimitPerArtist:3
+@LimitPerAlbum:2
+
+-Artist:Lustmord
+-Artist:Cavemouth
+-Album:Myrkur - Folkesange

@@ -1,5 +1,8 @@
+@ID:27qq6nyKJ0UfdcjNUZ6EHc
+@LastRun:7/21/2023 12:01:42 AM
 @default:TopByArtist
 @LeaveImageAlone
+@OnlyRunIfModified
 
 TopByArtistFromPlaylist:25kjWmHpRlJjZVqMJVo4a0
 #https://www.reddit.com/r/BlackMetal/comments/2ncc3a/female_fronted_black_metal_list/

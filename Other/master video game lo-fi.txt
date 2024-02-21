@@ -1,0 +1,35 @@
+@ID:5H33qeoCtEfYlWfct5La2N
+@UpdateSort
+@sort:release
+@shorterthan:10
+
+PlaylistTracks:master video game lofi - gamechops
+PlaylistTracks:master video game lofi - no gamechops
+PlaylistTracks:liked lofi vgm # pulls in fringe case tracks from non-lofi albums that are excluded in master vg lofi - no gamechops
+
+-Album:rifti beats - drake and chill
+
+-Track:1ZFqDMYDb7m2AhmJJNYmYT	#	Joshua Morse, GameChops - For a Nickel (2021)
+-Track:5IYriNfMvUDE8RAQMTzLQk	#	Button Masher, GameChops - The Girl From Ipanema (2023)
+-Album:0qTWfQATj34GYTpDyGpyWh	#	halc - Club Kong (2014)
+-Track:4wFRlfweiFuRANiKIZwVsU	#	Dj Cutman, DJ Grumble - Big Blue (2012)
+
+-Track:1D609CWl1QEAx41GrLyyVN	#	Dj Cutman - Checker Dancer - Drum and Bass Remix (2019)
+-Album:2ZQhldObWkRxp5UDuYuN9Z	#	GameChops, DONI - The Streets (2017)
+-Album:5NciB5hVKOJmduo7fB7CrP	#	GameChops - Katamari Dance With Me (2014)
+-Track:4Ld0PRCfeeBgRwVzq5vRtb	#	A-bug - Rainbow Forest (2021)
+-Track:6pWBcXO9ms10rQMz7uLycH	#	Curly, GameChops, Smooth McGroove - Red Soil (2019)
+-Album:22CTWKoMQkQFMgjxeTup6s	#	Tune in with Chewie, GameChops, Unplugged - Samus & Piano (2022)
+-Track:2HVEyaoOboWSGNnMHni8KC	#	GameChops, Breakbeat Heartbeat, Dj Cutman - Chao Garden (From "Sonic Adventure 2 Battle") [Remix] (2017)
+-Track:4rmWTDFKUGFcld3BU0mUmJ	#	bLiNd, GameChops - Aran (2017)
+-Track:59kj2rfEhhlKyr4RQK5yy4	#	Duzzled, SARE, GameChops - Aerith (From "Final Fantasy 7") (2020)
+-Track:1WMcs99tt2Ke6rIJWYlrZG	#	Champion Xegg, Duzzled - Boutique Theme (2020)
+-Track:7pZetqL9XwoIwxmWOmOyus	#	Wizard of Loneliness - Beats of the Wild (2017)
+-Track:58H0wYE1vMHRZ2y9m0qaNx	#	Kainbeats, Kanisan - Transfiguration (2022)
+-Album:45ggjMo29CkIxnv3BxER8C	#	Helynt, GameChops, Dj Cutman - Multiverse of Lofi (2023)
+-Track:2Azdk5pkfvbbi1mopTvHWv	#	GameChops - Hyrule Castle (Courage) (2015)
+-Track:5Y6ARDlCXewaeKkYylbGds	#	Dj Cutman - Chaos King - Drum and Bass Remix (2019)
+-Album:15uJnjx8ZtBnyKyKG2Z9bE	#	タイムマシン Funky Time Machine - Neo Tokyo Future Beats (2023)
+-Track:33P3jFjRFzNl3WKibmZ8qm	#	Dj Cutman - Rude Buster - Future Funk Remix (2019)
+-Track:4qwd7v7hb3FhxsfgToD4gC	#	A-bug, Tuuh, Jembei, タイムマシン Funky Time Machine - I Wanna Take U For A Ride (Marvel VS Capcom 2) (2023)
+-Track:2sZvcyNMtQhmeYWJAeuQXR	#	Hotline Sehwani, Tanoshi - Sagat's Theme - Lofi (From "Super Street Fighter II") - Cover (2023)

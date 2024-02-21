@@ -1,0 +1,148 @@
+@ID:32fOF9rVIkKNhGsHeZWmQw
+@UpdateSort
+@Sort:release
+@shorterthan:10
+
+# this playlist is part of a long chain
+
+AlbumsFromPlaylist:liked - lofi vgm - no gamechops
+@ExceptArtistFromPlaylist:wish on the beat, frad, closed on sunday, christian mazzariello
+AllByArtist:lofi vgm # curaga records
+-Album:lofi vgm - *goldeneye*
+track:lofi vgm - *archives*goldeneye* # need two updates to get this to work: 1) track as artist - name 2) inc/exc hierarchy
+
+# re-exclude gamechops here as gamechops stuff *will* be pulled in otherwise
+-artist:gamechops
+-PlaylistTracks:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
+-PlaylistAlbums:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
+
+Album:wish on the beat - *animal crossing*
+Album:wish on the beat - kk*			# animal crossing
+Album:wish on the beat - *mozart*		# a worthy non-vgc track
+Album:frad - first date
+
+# incredible artist who does more star wars than vgc
+album:closed on sunday - *animal crossing*
+album:closed on sunday - *cantina band 2*	# it's been in games
+album:closed on sunday - *pokemon*
+album:closed on sunday - *undertale*
+album:closed on sunday - *minecraft*
+album:closed on sunday - *kingdom hearts*
+album:closed on sunday - *sonic the hedgehog*
+
+Album:Christian Mazzariello - *chill*
+Album:Christian Mazzariello - *study*
+Album:Christian Mazzariello - *vibes*
+
+# kinda overcommitted here but there's good stuff
+AllByArtist:5kDZSgsJllCJAkgTiFsOJT	#	A-bug
+-album:abug - breath of nature
+-album:abug - mothership		#	starfox names but vocal
+-album:abug - *uverworld kawaii*
+-album:abug - joga bonito
+-album:abug - you know
+-album:abug - como vai voce
+-album:abug - tonight tonight tonight*
+-album:abug - mind game
+-album:abug - i can't stop
+-album:abug - i don't know why funk mode
+-album:abug - bleach nostalgia
+-album:abug - yu yu groove nostalgia
+-album:abug - sunset in the space
+-album:abug - xuxu com limao
+-album:abug - moshi moshi
+-album:abug - dan dan*
+-album:abug - relax time
+-album:abug - lazy sunday
+-album:abug - rock n roll*
+-album:abug - lullaby
+-album:abug - hi
+-album:abug - furui*
+-album:abug - ohayou*
+-album:abug - final des
+
+Album:1UeUfumhj32iyv5k8yOYHg	#	Link's Journey: A Zelda LoFi Tribute (2023)
+Album:https://open.spotify.com/album/5a1vDMzYeReAdhH54Ogr5G?si=FRPggcreRjelrxdOtRcArw
+
+AllByArtist:74ZWzuwsxGAt05s2sWtq0j	#	Coffee Date
+AllByArtist:7ysUAzUBgOC4KPXklQO3bG	#	Mipsick
+AllByArtist:0pUjlQdvO4B4twvUpRsAnd	#	Caspian
+AllByArtist:0wel8aLqK9057bGREVqsdY	#	Mario Camacho
+AllByArtist:7vnniNdWd5p4IM8knKYiWb	#	demonic scholar
+-album:demonic scholar - nostalgic vibe*
+-album:demonic scholar - *classical*
+album:unseen sounds - lofi nostalgia*
+Album:bad at math. - *zelda*lofi*
+Album:bad at math. - *zone*lofi*
+album:g4sh - *pokemon*
+album:g4sh - *minecraft*
+
+track:https://open.spotify.com/track/0kozDD16lYzSJBMDKslH1e?si=07e387187df540cd
+
+Album:less gravity - Less Gravity*
+Album:less gravity - *luigi's mansion*
+Album:less gravity - *zelda*
+Album:less gravity - *animal crossing*
+Album:less gravity - *pokemon*
+Album:less gravity - *sonic the hedgehog*
+Album:less gravity - *cuphead*
+Album:less gravity - *the witcher*
+Album:less gravity - *fairy fountain*
+Album:less gravity - *kingdom hearts*
+Album:less gravity - *donkey kong*
+Album:less gravity - *super mario*
+Album:less gravity - song of time
+Album:less gravity - ballad of the wind fish
+Album:saint spell - *lofi*
+Album:clangon - *zelda*
+Album:lofi berry - triforce pack
+
+track:lofi otaku - *zelda*
+track:lofi otaku - *pokemon*
+track:lofi otaku - *animal crossing*
+
+album:sleeping phoenix - video game lofi*
+
+-album:* - *sailor moon*
+-album:* - *saint seiya*
+-from:naruto
+-album:* - *naruto*
+-from:one piece
+-from:bleach
+-album:* - pure imagination
+-album:* - *steven universe*
+-album:* - *evangelion*
+-album:* - *jojo lofi*
+-album:* - *drum and bass*
+
+-Track:79JOCHejaUGEkDk2xk3XJN	#	Sweetboikyle, SHEE - Dream a Little Dream of Me (2022)
+-Track:79JOCHejaUGEkDk2xk3XJN	#	Sweetboikyle, SHEE - Dream a Little Dream of Me (2022)
+-Track:4vZ36Hop8Bcx5l79vZf4DY	#	Dale North & Mustin - Black Russian on the Rocks (From "Tetris") (2016)
+-Track:2K7CBsewoeVPNS1rfJ86GP	#	Mik - Barbie Girl (Dark Lofi Version) (2023)
+-Album:0DeHznRu8fo5BYm2Ci2mTu	#	Ben Briggs, Firaga - VGM Essentials: Ben Briggs (2022)
+-Album:0Z15JJUG2237zB6WOmMgF3	#	Dj Cutman - Volume II (2012)
+-Album:0qTDw9LFKFtdSA2Ds2VAsf	#	frad - Unrequited Love (2018)
+-Album:13qmzqh90QRLcH1t40XudD	#	Dale North & Mustin - More Than Mario (2016)
+-Album:0qTDw9LFKFtdSA2Ds2VAsf	#	frad - Unrequited Love (2018)
+-Album:1qxLJGTmKJZVXzqKwLdzxD	#	A L E X - Growing Up, Vol. 1 (2017)
+-Track:1JNm6pCByLwYteA20Vbpv1	#	Wizard of Loneliness - The Fountain (2017)
+-Artist:7mP6pLp0xrXIeip5bSkaJ5	#	Darren Ang
+-Track:7BoJbTNbVNnffoQ7pc6T57	#	Dj Cutman - LoFi Hip Shop - Extended Mix (2019) surprisingly good but 20 mins
+-Track:2K7CBsewoeVPNS1rfJ86GP	#	Mik - Barbie Girl (Dark Lofi Version) (2023)
+-Artist:7mP6pLp0xrXIeip5bSkaJ5	#	Darren Ang
+-Track:7IReKJQNSjomx5sXctONTG	#	BrosZZ - Sundays (2022)
+-Track:5rLAEOYdU06XYsbMuBvszd	#	Wizard of Loneliness - Lost Woods (2017)
+-Album:1rsezOqY84VZWOiEZhKgAD	#	Wish on the Beat - in the stars: astrology lofi (2022)
+-Track:4Hgq6YzGfVyCXKDVlcHZIV	#	Hotline Sehwani - Dark World - Lofi (from "The Legend of Zelda: A Link to the Past") - Cover (2023)
+
+
+-Track:0y7zuvfaeDVxanFh6rjTIq	#	Caspian - Spiraling (2022)
+-Track:7fzM57OUjlhaczahb0UaYQ	#	Caspian - Boppin (2022)
+-Track:6SulOnYmLWeT40mE6KB5FI	#	Caspian - Circuitry (2021)
+-Track:7zjUKPsj6AAbitHQJz5NDY	#	Caspian - Lampshade (2021)
+-Track:5G33HglZSsMoEYkhLidmB1	#	Caspian - Stargazer (2021)
+
+
+AllByArtist:0OQ1Jx0Xn8Lhz7XmwFvfjZ	#	Champion Xegg
+
+-Artist:3P0sBrtzOwvRnZDvURwHGN	#	Jusho

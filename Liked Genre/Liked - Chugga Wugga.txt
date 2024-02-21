@@ -1,3 +1,4 @@
+@ID:6tDZ0Ki9ws1clQLVDrGRdL
 @default:LikesByGenre
 
 stoner metal
@@ -5,3 +6,5 @@ doom metal
 sludge metal
 
 LikesByArtistFromPlaylist:*stoner* # frankly I'm impressed that this works
+
+-Artist:57qvXDm8w82I07Yta6CHme	#	Resinator

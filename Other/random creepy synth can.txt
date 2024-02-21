@@ -1,0 +1,8 @@
+@ID:4yDCFp9c0KlI7BolbFah3o
+@LimitPerArtist:2
+
+TopByArtistFromPlaylist:https://open.spotify.com/playlist/0YQoComjW200MfSf6CcwcE?si=PaOv89sRTAy8Z1mY43pRCg&utm_source=copy-link&utm_medium=copy-link&nd=1&_branch_match_id=1225939032724950177&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1nevyvPLC%2FOMdHVJAgBbLx6AIAAAAA%3D%3D
+-PlaylistTracks:https://open.spotify.com/playlist/0YQoComjW200MfSf6CcwcE?si=PaOv89sRTAy8Z1mY43pRCg&utm_source=copy-link&utm_medium=copy-link&nd=1&_branch_match_id=1225939032724950177&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1nevyvPLC%2FOMdHVJAgBbLx6AIAAAAA%3D%3D
+
+
+-Track:59TGl54BuBykznlNNMfPJ0	#	Deathpact - 0506+056 (2021)

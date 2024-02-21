@@ -1,9 +1,24 @@
+@ID:7s1cYnHhoxJxsMrFC2LAzS
 @Default:AllByArtist
 @UpdateSort
 
 Samantha Ballard
 Amy Turk
+Harpsona
 album:Emily Hopkins - animal crossing*
+track:harp twins - *zelda*
+track:harp twins - *mario*
+track:harp twins - *skyrim*
+track:harp twins - *dragonborn*
+track:harp twins - *final fantasy*
+
+-playlisttracks:https://open.spotify.com/playlist/7LCAu2d0ZPLsGIbE0JJ33i?si=Dr6aMGRoSoClWsY4A7Z_zg
+
+-artist:michael staple
+-artist:jillian aversa
+-artist:lucas guimares
+-artist:ZREO: second quest
+-artist:coffee date
 
 # --shared vgc exclusions--
 # --all vgc--
@@ -46,6 +61,7 @@ album:Emily Hopkins - animal crossing*
 
 -artist:sungha jung
 -artist:dan avidan	#	works with super guitar bros on non-vgc stuff
+-album:* - dan avidan*
 
 # classical composers
 -artist:*beethoven*
@@ -229,6 +245,63 @@ album:Emily Hopkins - animal crossing*
 -album:* - *yiruma*
 -track:* - *his dark materials*
 -album:* - *escaflowne*
+-track:* - this is halloween*
+-track:* - *bleach
+-from:bleach
+-from:saw
+-from:hunter x hunter
+-track:* - *gypsy* # no slurs please, dammit
+-track:* - *gipsy* # no slurs please, dammit
+-track:* - *evangelion*
+-track:* - *tokyo ghoul*
+-track:* - *demon slayer
+-track:* - *originally performed by*
+-track:* - *backing track*
+-album:* - guitar loops*
+-track:* - *the simpsons*
+-track:* - *dragonball z
+-track:* - *dragonball gt
+-track:* - *dragonball
+-track:* - *one piece
+-track:* - *pulp fiction
+-track:* - *harry potter main theme
+-track:* - *mask of zorro
+-track:* - *death note
+-track:* - *attack on titan
+-track:* - *squid game
+-track:* - *pirates of the carribean
+-track:* - *once upon a time in mexico
+-track:* - married life
+-track:* - *indiana jones*
+-track:* - *oppenheimer*
+-from:la la land
+-track:*la la land
+-from:song of the sea
+-from:the promised neverland
+-track:my heart will go on
+-track:a whole new world*
+-track:colors of the wind
+-track:king of pride rock
+-from:mulan
+-from:the phantom of the opera
+-track:*rick and morty*
+-track:*liszt*
+-track:*pachelbel*
+-track:*hallelujah*
+-track:my heart will go on
+-track:over the rainbow
+-track:love me like you do
+-track:clair de lune
+-track:dance of the sugar plum fairy
+-track:in the bleak midwinter
+-track:when you wish upon a star*
+-track:let it snow*
+-track:gymnopedie*
+-track:toccata and fugue*
+-track:o come o come emmanuel
+-track:stand by me
+-track:marry you
+
 
 
 
@@ -247,6 +320,59 @@ album:Emily Hopkins - animal crossing*
 -Artist:3V1f0YghvSHTnUSWevaxMZ	#	Ds músic
 -Track:1r3BXdkGu3gN6XfLdnCFC6	#	Brandon Mild - Golden (2020)
 -Track:4ItYagqayr0z30yRRZGOf8	#	Salome Scheidegger - No Time to Die (2020)
+-Track:7dkKNLrrJwWc0np463mVvY	#	Moisés Nieto - Qué hay más allá (de "Vaiana") (2017)
+-Track:3sh88OAPmKInTzcSoaHZ4y	#	Moisés Nieto - Lo Que Yo Veo Cuando Te Miro (2017)
+-Track:77kwBN3LN2cPOTxK2mZfRC	#	Moisés Nieto, Luke Pickman - Infinitely Human (2021)
 
 # --manual exclusions--
 
+
+-Track:5MMGtLfaGCcUQHp1XhEBmh	#	Pedro Esparza, Samantha Ballard - Kakariko Village (From "Zelda: Ocarina of Time") (2016)
+-Track:7hkFbDCRAImhcQdbdchLyU	#	Amy Turk - Epona's Song (2020)
+
+-Track:02huxZOEFW59oyavTAe5m7	#	Samantha Ballard - Promise of the World (2016)
+-Track:5OkvkKp4MmAiywRlMgVZOr	#	Amy Turk - Drink to the Dead (2016)
+-Track:6XZ5rtrx1r0YGCysYNrtUP	#	Amy Turk - La Belle Noiseuse (2016)
+-Track:1E131rcnJ2PTvKYuI2VBws	#	Amy Turk - Stand by Me (2017)
+-Track:78rdulyv2JYyZIt5DVhyQZ	#	Amy Turk - "Air" from Orchestral Suite No. 3, BWV 1068 (2017)
+-Track:3QrcodQW4WHY4HDpkjELwc	#	Amy Turk - Prelude No. 1 in C Major, BWV 846 (2017)
+-Track:0IgLn2zrBd8f5yAAeNF5Zs	#	Amy Turk, Ben Turk - Against All Odds (2017)
+-Track:2mbF5cITAZO5A0Y1fQmXvQ	#	Amy Turk - Feed the Birds (2017)
+-Track:275FNaC1wG3Sus8kozvMk2	#	Amy Turk - Marry You (2017)
+-Track:0DL0Rv7ypsRaRgfHWA1CY9	#	Amy Turk - Plug in Baby (2017)
+-Track:78XkSuBQbrAS1vnc9n6Ews	#	Amy Turk - Rey's Theme (Star Wars: the Force Awakens) (2017)
+-Track:3Tx72pm1raFmsf1hijFwE2	#	Amy Turk - Bad Guy (2020)
+-Track:7fIRD4e8SplbdO0G5hYFfe	#	Samantha Ballard, PitTan, Melissa Ballard, Luke Pickman - Kaze no Ne / Morning Sky (From "Final Fantasy Crystal Chronicles") (2020)
+-Track:4JInDM1VW6IIlVpwsmhqJW	#	Samantha Ballard - Always With Me (2016)
+-Track:18fRLy9T5DtiPeI0bLl51b	#	Amy Turk - Falling Away with You (2017)
+-Track:14O9fZyQx9PaMyHpPPO4v0	#	Amy Turk - Winter, 2nd Movement (From the Four Seasons) (2018)
+-Track:2gEcldOBCgO57nXpc6adJK	#	Alphonse Hasselmans, Samantha Ballard - La Source (2018)
+-Track:2eSxgUf3gwKIDW0yGGucdH	#	Amy Turk - Africa (2018)
+-Track:1gaRTmNP2ITwonKw9WbuCM	#	Amy Turk - Paradise (2018)
+-Track:5Wn6FeiDasIMhTY0xuUnsz	#	Amy Turk - Into the Ocean (2019)
+-Track:085YlfDDEwtdPkjB8I5l2L	#	Samantha Ballard - Perfect (2019)
+-Track:1ybQwHsnB7azS5G8wDFR6E	#	Samantha Ballard - For the Dancing and the Dreaming (2019)
+-Track:5vlPVrXlPFNc8S36HOCHka	#	Amy Turk - Technicolour Beat (2019)
+-Track:22u9lMd89QZ8AkSJxD8wwB	#	Samantha Ballard - Departure (2019)
+-Track:1zAOXf4ol2RyhTBb0mx6Vl	#	Amy Turk - Rêverie (2019)
+-Track:0MgliXOHsEdK07SxbMsgI0	#	Amy Turk - And So, Here We Are (2020)
+-Track:3wn4xIHjgkwQEsWqeweh0y	#	Amy Turk - Perfect (2021)
+-Track:6ByQ3KG8UxDSwdeuSI7bFX	#	Samantha Ballard - Lil White Fluffball (2022)
+-Track:3bL6L1Yb5sPUjqOFjnu3FH	#	Samantha Ballard - You're My Best Friend - Harp Version (2022)
+-Track:36XZnpwAUtDCmJc9FoFXkO	#	Amy Turk, Coen Strouken - Wonderland Woods (2023)
+-Track:2bdVFrEbFpuhl0CTahvaz1	#	Amy Turk, Jake Allen, TJ Rankin - Hydrocity Zone Acts 1 & 2 (Sonic 3) (2022)
+-Track:0HrPYG6eOXA5xl2c4zwLTu	#	Amy Turk - What Was I Made For? (2023)
+-Track:7xyqx1ig8sqsNCtddk8dOt	#	Amy Turk - In the Bleak Midwinter (2017)
+
+-Track:24AX9XecMUvVKzQjir6Xpl	#	Amy Turk, Julia K - Exploration (Coraline) [feat. Julia K] (2018)
+-Track:54knj7zan99ATzMfBCiebC	#	Harpsona - Breathe (2020)
+-Album:2BKJFQmP6zg0Ldmkl3MCk3	#	Michael Staple, Harpsona - Max Elixir (2020)
+-Track:4ahk7GbB2fQDUDf1rTY7GV	#	Amy Turk, Jake Allen, TJ Rankin, Lexi Bondar - Secret of the Forest (Chrono Trigger) (2022)
+
+-Track:2ySIxR22RwbifkHZuMXnmY	#	Pernelle, Tsukino Crystal, Sunarika, Harpsona - Neath Dark Waters (from Final Fantasy XIV) (2023)
+
+-Track:1yjMBp8dWMUFOtamAtNnhT	#	Laura Platt, Michaela Nachtigall, Harpsona, Michelle Packman - Asgore and Toriel Suite: ASGORE / Heartache / Hopes and Dreams (From "Undertale") (2020)
+-Track:2PFjfwmyEA0qDItQIOuWGN	#	Louie Zong, Harpsona - May Fields (2021)
+-Track:2iGYocxYJVWhl5bZH6G5tW	#	Jeff Penny, Zac Zinger, Harpsona - Natsu Yuuzora (2021)
+-Track:2SLONbr4sagr9cEhiZFnYk	#	Soundole, Harpsona - Anxious Heart (From "Final Fantasy VII") (2022)
+-Track:3bC3m6CWHiXryOTSIxSn9D	#	Lucas Guimaraes, JohnStacy, Harpsona, David Russell - Ending (from "Super Mario Bros. 3") (2023)

@@ -1,2 +1,29 @@
-likesbyartistfromplaylist:liked - lofi no vgm
-likesbyartistfromplaylist:liked - lofi vgm
+@ID:2RXOIaKA9m9bSWWlpcGukc
+likesbygenre:*lofi*
+
+# stuff that isn't lofi at all
+-Artist:7M1OtLgGeX29Ivo1llzubY #  Super Piano 64
+-Artist:7usmxn0C7UWfnOZFZS1AUf #  Altered Beasts
+-Album:2DSGQ59YAs1Mm9EoIqNK2g # Trainwreck of Electro Swing (from "A Hat In Time") (2022)
+-Album:6i4NpxIiZGZ5L81bEW1cbK # The First Try (2008)
+-Album:2GcMkLb39xCotzy8Kep0nS # SARE - Zelda Remixed: Music from "The Legend of Zelda" (2018)
+-artist:justnoble	# piano
+-track:*piano edit	# obviously not lofi
+-track:*piano version
+-track:*acapella*
+-album:* - *acapella*
+-album:* - *piano collection*
+-Album:0YEZKLE3OnX9l8R65Y9Lt8 # Strike The Earth (Shovel Knight Remix) (2014)
+-Album:1Oht7VSm68oklaqPyvx26S # Volume I (2011)
+-Track:3ok0bSCmIcW6iIi3rb06ZS	#	Ben Briggs, Besso0 - Rosalina's Observatory (from "Super Mario Galaxy") (2022)
+-Track:3aMnSzsie46qv23SFJRy1o	#	Ben Briggs - Tem Shop (Undertale Remix) (2015)
+-Album:5SunvxvhmUEd6fFanAz9Z0	#	halc - Club Kong (2014)
+-Artist:0LzeyDrlLtuyBqMSBN4z3U	#	Qumu
+
+
+-Artist:3VxtL7DUOh44RbPjnLo6hn	#	Animalisa Keys
+
+-Artist:2WosnSaZPybvQfyGUvD3NX	#	Super Guitar Bros
+-Artist:1w7df2ogprg1i3iQ9fH7pO	#	FamilyJules
+-Artist:0ISnunIc13qlLYVPzxXvBs	#	Baby Snooks
+-Album:3htXhodzU2VRcoYtxOO51s	#	Tune in with Chewie, GameChops, Unplugged - Lower Brinstar (2022)

@@ -4,6 +4,6 @@
 @sort:Artist
 @UpdateSort
 
-LikesByGenreContains:*christian*
+LikesByGenre:*christian*
 -Genre:*antichrist* # just in case lol
 -Artist:Five Iron Frenzy # the only Christian artist I want to see, and only a few tracks at that

@@ -1,4 +1,7 @@
+@ID:4KxL5Y7IjM9XQUPHamM1yE
+@LastRun:7/21/2023 12:01:42 AM
 @default:TopByArtist
+@OnlyRunIfModified
 
 # https://astralnoizeuk.com/2021/08/24/curating-resistance-a-guilt-free-guide-to-black-metal/
 

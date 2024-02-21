@@ -1,0 +1,12 @@
+@ID:1uUYSK54HtneYxmLWaOd2F
+@LastRun:10/3/2023 12:35:56 PM
+@LikedAfter:2023-10-02
+@LikedBefore:2023-10-03
+@OnlyRunIfModified
+
+LikesByArtist:*
+-PlaylistTracks:Symphonic Metal Favs
+
+-Track:1GWSa7C1EVO1HqvdAqxtAM	#	Dead Melodies, Beyond the Ghost - Message from the Horsemen (2020)
+-Track:1Cuq2okFJDOt5wb8P55vt8	#	Desiderii Marginis - Mantrap (2001)
+-Track:443zfWqxIGKzHr0Hq5voFu	#	Atrium Carceri, Herbst9 - Händer skola hålla hårda yxor (2018)

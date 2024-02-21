@@ -1,3 +1,4 @@
+@ID:71Bdya0U99fRAIjYZT9MUc
 @Default:LikesByArtist
 @UpdateSort
 # a playlist for all the completely incidental cool stuff I found while trimming down those female fronted black metal lists
@@ -51,6 +52,7 @@
 0q3rSaU4gD0T1Y6Gv19dYg #  Sam Caldwell
 0Q6ldYAFD8bo6DuC7WiHWc #  Trinacrìa
 0q6QW3UMmQgKhvDz8997aE #  Bonfire
+0q9OdCBYYynGJEKCjEcGrD	#	Gorgon
 0QAr50oDaeD5IMxRMl6YdG #  Rug
 0qC2SI9OFSf8kPxojvf5pg #  Déborah
 0QcVmbF9E3yeVNqMIPpK4f #  Martian Arts
@@ -146,6 +148,7 @@
 1YoxFkZXJDpoJiwMgkaufX #  Sinister
 1z1ctFe6fCr5aZnCGKt6rN #  Slaine
 1Z8VSi6fbeJdJQkb2m4ciY #  Zad
+1ZMGR6JmXas8TnbmSfYHmu	#	Never
 208ZUd6oCC4n74nHGxohZc #  Jake Knight
 20S98BJz1HRexBGpMXUe8h #  Hulder
 21VA1j9thh3LHkEVcbluDE #  Bonfire
@@ -407,6 +410,7 @@
 6fZLQY7sLvebYD8B4Jsw2X #  Black Daretti
 6gCDNdjFVbuMhQs6lPOtzn #  Gorgon
 6GFS6sKpp1MvR11dvtVhWa #  Jamie Carriere
+6gjX5is9BCfzsdB6s2GZkf	#	LODGE
 6gnvHPFDgWP4LiES4X0Ajz #  Afterlife
 6jd5B6x28bxLJFROhQ0jgu #  Sinister
 6JpBhMV3vBJclXkD9cObHd #  Providence
@@ -450,6 +454,7 @@
 776uRsooWrGiVZkVWtvfgO #  Miss K8
 77LWQfycyAtBuKgn1kGPbm #  HeXer
 78dLjSk68xKtmmeUZdJiCs #  Nictofilia
+79EDhl4t1hK7HQ4iNJn9bO	#	Acamar
 79RibUw84EdTyKkYKB4vLi #  James Hall
 79vxfRJRODTuoaHbtPh2o6 #  Conquest
 7aiIIPZtSgcrmdTRXQJK2c #  Mercy Brown
@@ -461,6 +466,7 @@
 7DcpDiMLwYnC2coVzFH9Ph #  Ethereal
 7duliekRuvDqTeJRRlpEUC #  Vradiazei
 7e7nmtA3OQEUdVjn5rG3Tz #  Ethereal
+7eU8idfZ6eBgQicpsIJxPr	#	Ails
 7Gx5RTrPWOcdOiwLGgtqm4 #  Domshe
 7hLu3c1aJqdqemTqD0afwC #  Providence
 7idePLxTfU4PytfBcdu6Ym #  Bethlehem

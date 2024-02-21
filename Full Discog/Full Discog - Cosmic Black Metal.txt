@@ -1,3 +1,4 @@
+@ID:0cND2jyWa12Y8Krgq6ahKy
 @default:AllByArtist
 @LeaveImageAlone
 @updatesort
@@ -24,3 +25,6 @@ Album:Urfaust - Empty Space Meditation
 -Artist:5L5xPJUwOFRwmsLeomj0xv #  Novuh Kaine
 -Artist:4A3YPkGqRQrCpYU5EF1UzI #  Rocko Tesla
 -Artist:2Fy5gf1UQY332twQmg1gfw #  Nyukyung
+
+-Artist:2Mk0VslAg4vut3fwcCzy8F	#	Aureole
+-Artist:4XQJejbHdNm4XDLfnkugRO	#	Aureole

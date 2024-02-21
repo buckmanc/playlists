@@ -1,0 +1,126 @@
+@ID:0pkjkVjesyhbOI6V5zkGPn
+@ID:28gahSxvmPDHo0tLJUaun8
+@ID:28gahSxvmPDHo0tLJUaun8
+@LimitPerAlbum:1
+@AddParameterIDs
+@UpdateSort
+
+track:2Qlcw2HhDG51O4txpq20aN 	#	Bloody Tears (from "Castlevania") [Piano Version]
+track:2TZHK04vqYWVPmIrmQ6kfL 	#	Sovngarde Song
+track:3O7BlaYCZiDf6l3OoBiaPR 	#	Dire Dire Docks
+track:3aMnSzsie46qv23SFJRy1o 	#	Tem Shop (Undertale Remix)
+track:1hEPY21pijb7EcMKx4f0gS 	#	Asgore (Undertale Remix)
+track:6WpVOs6Tha7x1g04moADV1 	#	Tetris
+track:249FWsY1eZ2dLsHhiWCO5w 	#	Paddy Lay Back
+track:6Qelme2PG9JVRuhexu1tJb 	#	Wayfaring Stranger
+album:3fTR60L39OTUrhaMVs46Eu 	#	The Legend Of Zelda Series: The Very Best Soundtrack Selection (For Flute & Piano Duet)
+track:1LeV0J9Jy4hem3KSF4LjrF 	#	The Abyss
+track:5ZEY2HUEstaLlhxGoWmzCE 	#	Won't Stop
+track:5MVWqGrTtxNsUD19sUjn7D 	#	The Wind Waker - Farewell King of Hyrule (The Legend of Zelda) [Instrumental Remix]
+track:7moclbVC06juaQJfI3F0tr 	#	K.K. Lullaby
+track:4PMaEALT3V9SBXMO6LRrQ2 	#	Kakariko Village
+track:1lJ5GCBJles8q6Qc5Dm7BG 	#	Cowboys of the Sea
+track:3E4FXGWgNHWIz7dEz0tYC2 	#	Andro II
+track:0AjYBTNobEXsuZlKmT3IQM 	#	Departure (From "Final Fantasy Crystal Chronicles")
+track:39DQfjkrW2JnVbcTdjaih4 	#	Akuma (feat. Rachel Mcalpine)
+track:1kkXPpbfav5hXLiEkhfnDM 	#	Bones
+track:2lycYkv4n1BB5vEafWv2pa 	#	Trouble in Mind
+track:1xoqobhiXYSChdZ5s7ae4M 	#	Stomping Grounds (Final Fantasy Crystal Chronicles When the Northern Sky Was Clear)
+album:6kHs3hlleHNoFyFwTTgzfe 	#	SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX
+track:08unC8N1V1dEcqiyi06g6W 	#	Dead of Night
+track:6jzAkKTa5sRAcIG4N1DkV6 	#	Dead Of Night
+track:3Ozx6IrGdoQyAworJzvBDE 	#	Sleeping on the Blacktop
+track:7LXLgoroFNCQQpMQt0tMA7 	#	Everybody Walkin' This Land
+track:5pYwqRZuKgjAO23R9Dc3Sm 	#	Star of the County Down
+track:2S0kFxBbSsrjllnoAqbvEL 	#	Living in a Trance
+track:6ZBJFWDYJSTQg54eDsqnkJ 	#	Love Today
+track:5XZcXfoS6IAiErcvGT2qhx 	#	Kass's Theme
+track:11LM2Sfa2r0FTh3ZNqt3AS 	#	Opera de Ossium
+track:4QeXQ6EfI0rCsZEoDS7NtF 	#	Bird Tutorial
+track:6gaWoxdfAfB2yQKKBQeQ59 	#	Moogies Bloogies
+album:546P1fkMWTbVjeCMivORqf 	#	Unpacking (Original Game Soundtrack)
+album:0rKVkkXXz8BGymXo2rU1HM 	#	Chocobo & Chill
+track:4NEr4XLitLuZJJPntqf6WI 	#	Echoes of the Moss
+track:6ZNktqtOKZe2her0frw4H3 	#	La vie en rose (Arr. for Theremin & Piano)
+track:6EnRBI2h2dJozGapX4jlxl 	#	Story from North America
+track:27Nmf6Zr457LzRGrac8978 	#	Viima
+track:5bG5ladrlcQjp28z2sclgX 	#	Viima
+track:7us2I7a3FFXsj6mxVLQVOC 	#	watermelon
+track:2xXNLutYAOELYVObYb1C1S 	#	As the World Caves In
+track:4c0tJe2ENJwrZbn9Bap2qs 	#	The Moon Will Sing
+track:59ObI3ioIg3ZiWwzgCHP2Y 	#	Melee Range
+track:7FkyQsWH9mmxoYLCNj4f8y 	#	Fire Water Burn
+track:2rVhzcI6r6hiW1F28KOFRt 	#	Neptune's Thaw
+track:6vRJ5I59QD46NKPZQdsOd3 	#	The Android Hell Blues
+track:0Ck93pc1PfHa6zL1XjF1bu 	#	The Skeleton In The Closet
+track:7psZwQcrQe5kYNmUIm72TQ 	#	The Skeleton In The Closet
+track:7BKsF5oyf6mAWm5PtHCcNZ 	#	You Gotta Be Kidding Me
+track:4IN0lWgfyVZOO79sAsNKA5 	#	The Mind Electric
+track:1rbieHTuGFWstwVk9o7Fgr 	#	Banana Man
+track:73MWNenV7mQGUdXB8npY4H 	#	The Fine Print
+track:49JByJYeMi0ywt47Q3HBT1 	#	Сказка
+track:2Z9J5uM5vr6mYGVP6hMOwI 	#	Сказка
+track:6a65QSVqn3CXZilTqbBu1u 	#	i want to live in a skyrim house - Live
+track:78MBXyaVPzP2cQKU6cttm4 	#	Intro: Funeral Mist Over the Woods
+track:1GZzxvJBOQm0FpWDjDR1Tx 	#	Hey There Cthulhu
+track:1Fklo4lPp5PUyLw2cjwpMg 	#	Gjendines Bånlåt
+track:4F7ezw5Lid54Yo7xQ5v4U0 	#	The Church
+track:1qzAQw3RpFpdB7p71KQRrr 	#	Sun - Midnight Version
+track:42JkixtxgfPZGOd5GrWqqZ 	#	Where You Go
+track:60FYYWyVBHGWgVOEsQweuS 	#	Into The Night
+track:5pRYAk9jj0KhEnFY38s3WL 	#	Indonesia Print
+track:0J9G8MIixgpRmMzS1Xub89 	#	Sunflower Dance
+track:3zF1RvARE71MBXeWETPoEk 	#	Aquatic Ambience
+album:2spgyI2HpNL4Mwp02ghoVa 	#	Animal Crossing
+track:0Gx2XSsUQt34eZvJcfYAVe 	#	Ring of Fire
+track:3JxOu8mJFhb4g0Z5NmJp2X 	#	Spirits of the World
+track:796akob3vMQTdxtB3pGv80 	#	Spirits of the World
+track:6BHpxfMHOcL8bkXf0MJWf0 	#	My Jolly Sailor Bold
+album:7MiwPPCcuVaBrgRlJgIn6A 	#	Nocturnal
+track:3N3w5gL6yygktzLSYOZ4sQ 	#	Rose Hip November
+track:724EGPcD83BiKZNUrUtLko 	#	Tides Beneath Strawberry Moon
+track:6VTP8bJXs1urnRyHd93BPK 	#	Ancient Hero (Legendary Hero)
+track:1jecO8NeYLsVWVptITz4c1 	#	Tú
+track:51Grh1RyUDcMBbpuyUIUHI 	#	rises the moon
+track:1S5SOMEQf6jSKbjohHWSSI 	#	Cryptid (Mothman)
+track:5Ms9J0bzaA4GJGM4SSm6q2 	#	Claire de Lune
+track:6mESobRGEJZZAPF0pHzREQ 	#	Cigarra
+track:1DFFFvcQDoBudAcsr5NY9c 	#	Tico-Tico
+track:2KnuaZYoGzDoHiBTNYOTXG 	#	Billie Bossa Nova
+track:1LcwYCQ78z4PvLiU2Qt3XV 	#	outside the party, inside the dream
+track:58tJKUiVBI6FqwoJ5CHY0e 	#	Goddess
+track:4Z1bORxsl4R405AW9i2DGq 	#	TOMBI Lofi
+track:16pAjtVeTmK2bNMLO341gL 	#	Sheikah Tower (From "the Legend of Zelda: Breath of the Wild")
+track:1ZjS0i3ibd47FDSKeiXnBA 	#	Apparently
+track:3COjMzyjRDFZYaDmeUELtS 	#	Appalachian Fiction
+track:4Uy3kNxW2kB8AEoXljEcth 	#	Familia (with Anuel Aa, feat. Bantu) - Spider-Man: Into the Spider-Verse
+track:4QS0cG1wq09uY3SmLYABD1 	#	Aquatic Ambiance (from Donkey Kong Country)
+track:6IFSRaMEFKY3xhYDxTpctj 	#	Korok Forest
+track:28SEh7Zk1VXVa44UHtf8EO 	#	Vah Medoh I (From "The Legend of Zelda: Breath of the Wild")
+track:3c4xAcDQ1eFM1keeI2QIHR 	#	Rutela's Theme/Lake Hylia (From "The Legend of Zelda: Twilight Princess")
+album:0C3RXPIAgsI88AXqFjlwkt 	#	Zelda Cafe
+track:7GkzY4rX5ChjsHM8JeBnU5 	#	A Lady
+track:21vBfWJ7kBLOdaDlRgyEEQ 	#	Ballad of the Wind Fish
+track:69UehRxU9c79kRwpsz3EID 	#	Krakow (unsung)
+track:6tMdpUXfT70TD6Eh3XfB1p 	#	My Ordinary Life
+track:7j2wX0xY8TLnh4oEAg8IU9 	#	Zora's Domain - Lo-Future (from "The Legend of Zelda: Breath of the Wild") - Cover
+track:3b9Ok6c2Dtx8PjO2Y69Sbx 	#	Pure Imagination - lofi
+track:7KDld1KfKH55cqnNobqh3z 	#	Yoshi's Story (from "Yoshi's Story")
+track:2WydAUrMzzmEtrmL37cGLX 	#	Space Fractal
+track:1N3ZaDYe1GMb29uj43uYAM 	#	Super Trouper
+track:35VXmjhRVU1aKgWiSxCMCf 	#	Community Gardens
+track:1gkHE7BG2zF3JqHmtJnzKM 	#	Fade Into Darkness
+track:5aPBguYsjIOwmJIAFf5Dpj 	#	Night On Willow Hill
+track:32filOsmivxaFHKLX6Ixth 	#	You Can't Hide
+track:1yv3aBLO9rgyEHmAR7jI1M 	#	ROCK IT
+track:3f1Jurx7wpabtVoxpLrtCE 	#	BAIXO
+track:1NuAtapalLQtzFu5BjDh5k 	#	Nibbles for Food
+track:7tUeh2EZdMOwN6FBmopYqm 	#	shy little frog
+track:21AUdfi6fLFDp9JuNcHsfS 	#	Hello, World
+track:1MyOc2gYRJVOiwbpdFou2V 	#	Inside the Houses (From "Link's Awakening")
+track:48mFZoarW6xCYRn3bx668j 	#	Richard's Villa (From "Link's Awakening")
+track:7exGrqR5UbbvUvWWohUD4z 	#	Take Five but it's Song of Storms
+track:4jE4OAFqBeWelYUclTdDFB 	#	Depths of the Night (From "Chrono Trigger")
+track:0hgLHFyN9u3WqkK2ofpuUX 	#	The Ultimate Showdown of Ultimate Destiny
+track:6WdcvzQADmrL8nucimUV6r 	#	We'll Meet Again
+track:2LFD3JPc6STJxrOR9Ne1PT 	#	tadpoles lullaby
