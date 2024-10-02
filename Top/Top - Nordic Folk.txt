@@ -2,6 +2,33 @@
 TopByArtistFromPlaylist:Liked - Nordic Folk
 @ExceptArtistFromPlaylist:Korpiklaani
 
+-track:*era metallum*
+-track:*metal cut*
+-Artist:6UIsHrMMddC9hmkwI4J3Jr	#	Atrium Carceri
+-Artist:56TXBqxg34LL3EqFqwS3EX	#	Desiderii Marginis
+-Track:07wABQoR1aAIgrvFWMTm68	#	Atrium Carceri, Cities Last Broadcast, God Body Disconnect - Quiet Days on Earth (2018)
+-Artist:7GVQhnTHmaTrX6bt8eY6Le	#	Arcana
+-Album:6whUmfg024Gl38G9ckicQz	#	Myrkur - Myrkur (2014)
+-Album:6rJfbMmi86eK8MSXNBUW9s	#	Myrkur - M (Deluxe Version) (2015)
+-Album:3ewAlccDDYFoybQaMnkTvW	#	Myrkur - Mareridt (Deluxe Version) (2017)
+-Album:576kGOO7Nla0FTJMIyxcP3	#	Gåte - Iselilja (2004)
+-Track:6wbpF5dQpINX9I0VeRQTmz	#	Grai - В Объятиях Мары (2014)
+-Track:6YZAyrYpxAeN3aZN5UHNhN	#	Eivør - Summertime (2009)
+
+-Track:5YmwsrOgtVstXbOwpYBi33	#	Peter Gundry - Adfectus Superi (2017)
+-Album:7mEXgXa3JZQjO9fP7Cic8H	#	Gåte - Svevn (2018)
+-Track:5zLQvbkGj8jCcB9siuhE6y	#	Myrkur - Vinter (2020)
+
+-Track:0Fmq3h0aQ3CKphzlfups1G	#	Fejd - Härjaren (2016)
+-Album:7u1PmisuIBu3OF8z9t1EjM	#	Fejd - Trolldom (2016)
+-Album:0fhz9SOT0SY1AwQmQvSDC8	#	Me And That Man, Myrkur - Angel of Light (feat. Myrkur) (2021)
+-Artist:2QgzO1Z5XYu9zj3nOYsXUa	#	KAUAN
+-Track:25bPZbhdD20B0OiGKWyxXo	#	Vǫluspá - Meg får du ikkje (2019)
+-Artist:1J1DiyVfll4d0cos64VSZb	#	Danheim
+
+-Track:63CQ0Q5N0p9CmURVoDuEoS	#	Gåte - Bannlyst (2018)
+-Track:1SvkexOJYyxXudodj2s7lk	#	Munknörr - 1 Hour of Shamanic Healing Music - The Beat of the Earth (2023)
+
 -Artist:4OoyRJmRiechzUniRKUQAS	#	Fejd, good music but more modern
 -Album:6CCmfurr8DhrQnxFufQ7fw	#	Jonas Simonson, Karin Nelson, Anders Jormin - Tantum (2018)
 -Album:6Rs04Vw6AboM4srVStb1JF	#	Sriram Maddury, Hilda Örvarsdóttir - Aham Reboot (2022)

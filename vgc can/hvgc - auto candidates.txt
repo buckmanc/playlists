@@ -58,6 +58,8 @@ track:harp twins - *final fantasy*
 -Album:* - anime piano*
 -Album:* - *Naruto album*
 -Album:* - *ghibli*
+-Album:* - *the girl who leapt through time*
+-Album:* - *dir en grey*
 
 -artist:sungha jung
 -artist:dan avidan	#	works with super guitar bros on non-vgc stuff
@@ -215,6 +217,7 @@ track:harp twins - *final fantasy*
 -track:rewrite the stars* # from the greatest showman
 -track:*from the greatest showman*
 -track:*attack on titan
+-from:attack on titan
 -track:*from k-on
 -track:*kyoto anime
 -track:*neon genesis evangelion*
@@ -284,6 +287,7 @@ track:harp twins - *final fantasy*
 -track:king of pride rock
 -from:mulan
 -from:the phantom of the opera
+-from:shrek
 -track:*rick and morty*
 -track:*liszt*
 -track:*pachelbel*
@@ -301,6 +305,10 @@ track:harp twins - *final fantasy*
 -track:o come o come emmanuel
 -track:stand by me
 -track:marry you
+-track:i'll make a man out of you
+-from:titanic
+-track:i can go the distance
+-track:santa baby
 
 
 
@@ -376,3 +384,6 @@ track:harp twins - *final fantasy*
 -Track:2iGYocxYJVWhl5bZH6G5tW	#	Jeff Penny, Zac Zinger, Harpsona - Natsu Yuuzora (2021)
 -Track:2SLONbr4sagr9cEhiZFnYk	#	Soundole, Harpsona - Anxious Heart (From "Final Fantasy VII") (2022)
 -Track:3bC3m6CWHiXryOTSIxSn9D	#	Lucas Guimaraes, JohnStacy, Harpsona, David Russell - Ending (from "Super Mario Bros. 3") (2023)
+
+-Track:0Fjd8JekqIBwqt35HPOv48	#	Samantha Ballard - Golden Hour - Harp Version (2024)
+-Album:2295HgDTvmjwL20XPpZSiS	#	Amy Turk - Courage (2024)

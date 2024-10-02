@@ -6,6 +6,12 @@
 # this playlist is part of a long chain
 
 AlbumsFromPlaylist:liked - lofi vgm - no gamechops
+
+# caspian lofi vgm playlists
+PlaylistTracks:https://open.spotify.com/playlist/3OhVs5fNbkLe27XEvE6s7y
+PlaylistTracks:https://open.spotify.com/playlist/5S85xmkjdaMBp91V5ACjPv
+PlaylistTracks:https://open.spotify.com/playlist/1PUVGulfV6zDerrfaAg6j4
+
 @ExceptArtistFromPlaylist:wish on the beat, frad, closed on sunday, christian mazzariello
 AllByArtist:lofi vgm # curaga records
 -Album:lofi vgm - *goldeneye*
@@ -13,7 +19,6 @@ track:lofi vgm - *archives*goldeneye* # need two updates to get this to work: 1)
 
 # re-exclude gamechops here as gamechops stuff *will* be pulled in otherwise
 -artist:gamechops
--PlaylistTracks:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
 -PlaylistAlbums:1RyG7NEpTBNbSxsfHXUUWw # official gamechops & chill playlist
 
 Album:wish on the beat - *animal crossing*
@@ -34,7 +39,7 @@ Album:Christian Mazzariello - *chill*
 Album:Christian Mazzariello - *study*
 Album:Christian Mazzariello - *vibes*
 
-# kinda overcommitted here but there's good stuff
+# kinda over committed here but there's good stuff
 AllByArtist:5kDZSgsJllCJAkgTiFsOJT	#	A-bug
 -album:abug - breath of nature
 -album:abug - mothership		#	starfox names but vocal
@@ -61,6 +66,27 @@ AllByArtist:5kDZSgsJllCJAkgTiFsOJT	#	A-bug
 -album:abug - ohayou*
 -album:abug - final des
 
+AllByArtist:https://open.spotify.com/artist/1zPvAl7BPbJRM5ZvLUQhfr?si=yqmtR2VxQpOyhWpORY0mKA
+-album:sad gatomon - *anime*
+-album:sad gatomon - *naruto*
+-album:sad gatomon - *promised neverland*
+-album:sad gatomon - *full metal alchemist*
+-album:sad gatomon - *attack on titan*
+-album:sad gatomon - *my hero academia*
+-album:sad gatomon - *your lie in april*
+-album:sad gatomon - *suzume no tojimari*
+-album:sad gatomon - *sword art online*
+-album:sad gatomon - *demon slayer*
+-album:sad gatomon - *chainsaw man*
+-album:sad gatomon - *bleach*
+
+AllByArtist:hotline sehwani
+
+-album:hotline sehwani - *synthwave*
+-album:hotline sehwani - *metal*
+-track:hotline sehwani - *synthwave*
+-track:hotline sehwani - *metal*
+
 Album:1UeUfumhj32iyv5k8yOYHg	#	Link's Journey: A Zelda LoFi Tribute (2023)
 Album:https://open.spotify.com/album/5a1vDMzYeReAdhH54Ogr5G?si=FRPggcreRjelrxdOtRcArw
 
@@ -69,6 +95,7 @@ AllByArtist:7ysUAzUBgOC4KPXklQO3bG	#	Mipsick
 AllByArtist:0pUjlQdvO4B4twvUpRsAnd	#	Caspian
 AllByArtist:0wel8aLqK9057bGREVqsdY	#	Mario Camacho
 AllByArtist:7vnniNdWd5p4IM8knKYiWb	#	demonic scholar
+AllByArtist:lofi lia
 -album:demonic scholar - nostalgic vibe*
 -album:demonic scholar - *classical*
 album:unseen sounds - lofi nostalgia*
@@ -97,11 +124,22 @@ Album:saint spell - *lofi*
 Album:clangon - *zelda*
 Album:lofi berry - triforce pack
 
+# TODO switch to exclusions instead of inclusions for slofi
+# that is, anything excluded for slofi is non-vgm
+Album:slofi - *mario*
+Album:slofi - *zelda*
+Album:slofi - *lethal company*
+Album:slofi - *warcraft*
+Album:slofi - *runescape*
+Album:slofi - *witcher*
+
 track:lofi otaku - *zelda*
 track:lofi otaku - *pokemon*
 track:lofi otaku - *animal crossing*
 
 album:sleeping phoenix - video game lofi*
+
+album:7BHWHtTr9Mc8vzHlZOx7Bx
 
 -album:* - *sailor moon*
 -album:* - *saint seiya*
@@ -146,3 +184,27 @@ album:sleeping phoenix - video game lofi*
 AllByArtist:0OQ1Jx0Xn8Lhz7XmwFvfjZ	#	Champion Xegg
 
 -Artist:3P0sBrtzOwvRnZDvURwHGN	#	Jusho
+
+Album:5MzoYEx2mgFjGhmBzcgCMt	#	TPR, The Silent Protagonist - Promises in the Sky: Focus With Final Fantasy VII (2024)
+Album:6Hdhy806T2NHdlntg15lQz	#	Hotline Sehwani, Lucas Cooper - Astral Observatory - Lofi Piano (From "The Legend of Zelda: Majora's Mask") [Cover] (2024)
+
+
+Album:7H6GaBgVXuftJb8ky2hxdf	#	AVL3X - Nostalgic Collection, Vol. 1 (2024)
+Album:4Ry4pb1kWgIV8QpQZAL9ek	#	PalKid - Four Short Stories from Hyrule (2023)
+Album:7eLSt7vlA1y61EeAyOGOIH	#	Tron Bonne - Pokemon Chillhop & Lofi (2023)
+AllByArtist:0pUjlQdvO4B4twvUpRsAnd	#	Caspian
+Album:00s1kJiOqPFnOyE4Dqs0ap	#	chillNES - super mario bros (lofi) (2024)
+AllByArtist:7zUMyMjorOZNl9uaDagHKh	#	chillNES
+Album:6fFjW2KYHYRHBfo4wwbB9K	#	Cornerian Flight Academy - Zelda-Fi (2023)
+Track:1kAC2EV2Lmeudt7u3EAWQW	#	Tune in with Chewie - 1 AM (Animal Crossing: City Folk) (2018)
+Track:7GdYmzS3RwRHD5vhXm9h9W	#	Hotline Sehwani - Cosmic Cove Galaxy Lofi (From "Super Mario Galaxy 2") (2021)
+Track:2oq0H3KPsuJAW5XDYDKO5s	#	BrosZZ - Kirby vibes (2022)
+
+Track:20B2nxXnTQS8fYy7kr5K3w	#	The Remix Station, ControllerFi - Minecraft Theme (lofi version) (2022)
+Track:04kAjh7XSu2UqH92IolEp1	#	The Remix Station, Chill Bros Studios, ControllerFi - Super Mario Bros (lofi version) (2022)
+Track:3ExY3eqoD0UwqZmT7zEkBq	#	The Remix Station, Chill Bros Studios, ControllerFi - Zelda Ocarina of Time Theme (lofi version) (2022)
+
+Track:23RCHMq8yaDCUxwPGNRQtC	#	Melodies Zone, Evita Gultom - Snow Mountain - Lofi (From "Super Mario 64") - Remix (2022)
+
+Album:6hEcB3q2lWzAuw95CVTE83	#	Plusbelle - Mario Lofi (2022)
+Album:6hJKzQU0FYZobovCZFj5Gn	#	Plusbelle - Back to Mario Lofi (2024)

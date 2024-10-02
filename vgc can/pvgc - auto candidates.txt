@@ -5,6 +5,8 @@
 -PlaylistTracks:6X34Nq53CIJTHkuZ1E7lxL # main piano video game covers playlist
 # AllByArtistFromPlaylist:6X34Nq53CIJTHkuZ1E7lxL # main piano video game covers playlist
 
+PlaylistTracks:0g2sEzo8tipsZ6SnLg5xMZ	#	sleepy zelda piano playlist by setsaile
+
 TPR
 4bAWSbN9ts50xZf6bIwj4Y	#	DS Music
 Super Piano 64
@@ -38,6 +40,20 @@ Guillermo de la Garza
 Kyle Landry
 tim burnelis
 alessio dicorato
+1oXufSLTo4EBFZuOhkVk0Q	#	Dusty Tapes
+Kenzie Smith Piano
+kokiri keys
+modern day troubadour
+2aB7SJewIrs7hAJocStLrj	#	Ava Keys
+
+-Album:Kenzie Smith Piano - Anime Music*
+-Album:Kenzie Smith Piano - Avatar Music*
+-Album:Kenzie Smith Piano - Disney Music*
+-Album:Kenzie Smith Piano - Night Music
+-Album:Kenzie Smith Piano - For the One I Love
+
+-Album:Dusty Tapes - *Pop Piano*
+-Album:Dusty Tapes - *Piano Pop*
 
 Album:Rozen - *piano*
 -Album:Sebastien Skaf - Selected Work I
@@ -46,6 +62,9 @@ Album:Simon Loveridge - *piano*
 Track:Simon Loveridge - *piano*
 
 -Album:Kyle Landry - Works for Piano*
+-Album:Kyle Landry - i see the light
+-Album:Kyle Landry - shelter
+-Album:Kyle Landry - solitaire
 
 -Album:Augustine Mayuga Gonzales - Disasters For Piano
 
@@ -62,6 +81,10 @@ Album:Morunas - *Zelda*
 Album:Morunas - *the witcher*
 Album:Morunas - *animal crossing*
 Album:Morunas - *final fantasy*
+
+Album:setsaile - *ocarina of time*
+Album:setsaile - *video game*
+Album:setsaile - *zelda*
 
 # artist is muddled with others
 # need to manually hunt some good stuff
@@ -120,8 +143,10 @@ Track:gamechops - les dauphins de l'aqueduc*
 -artist:7ee9OgK5bTQEZ8FiKSz32x # wrong tpr again
 -artist:3vBngkkbx94CR6ieyfHVJu # komo
 -artist:jazzthatbrass
+-artist:the game brass
 -artist:jimmy on guitar
 -album:tim burnelis - *music box*
+-artist:*string quartet
 
 -album:* - *lofi
 -album:* - *metal instrumental
@@ -275,6 +300,8 @@ Track:gamechops - les dauphins de l'aqueduc*
 -Album:* - anime piano*
 -Album:* - *Naruto album*
 -Album:* - *ghibli*
+-Album:* - *the girl who leapt through time*
+-Album:* - *dir en grey*
 
 -artist:sungha jung
 -artist:dan avidan	#	works with super guitar bros on non-vgc stuff
@@ -432,6 +459,7 @@ Track:gamechops - les dauphins de l'aqueduc*
 -track:rewrite the stars* # from the greatest showman
 -track:*from the greatest showman*
 -track:*attack on titan
+-from:attack on titan
 -track:*from k-on
 -track:*kyoto anime
 -track:*neon genesis evangelion*
@@ -501,6 +529,7 @@ Track:gamechops - les dauphins de l'aqueduc*
 -track:king of pride rock
 -from:mulan
 -from:the phantom of the opera
+-from:shrek
 -track:*rick and morty*
 -track:*liszt*
 -track:*pachelbel*
@@ -518,6 +547,10 @@ Track:gamechops - les dauphins de l'aqueduc*
 -track:o come o come emmanuel
 -track:stand by me
 -track:marry you
+-track:i'll make a man out of you
+-from:titanic
+-track:i can go the distance
+-track:santa baby
 
 
 
@@ -671,3 +704,56 @@ Track:gamechops - les dauphins de l'aqueduc*
 -Track:6KhMJQuLySaiJjkGmaKRPD	#	Pixel Mixers, Lucas Cooper, optimizasean, Chromatic Apparatus - Bygone Days (2024)
 -Track:4BpN9f71YQ7LN6YHOdwIkA	#	Dom Palombi, Mason Lieberman, Trevor Alan Gomes, Casey Lee Williams, Dave Pollack, Tournament Arc, Josh Vasquez - To Zanarkand (from "Final Fantasy X") - Neo-Soul Version (2024)
 -Track:6xQLpwIFbMN29xToFdRbSx	#	Israfelcello, PurpleSchala - Bombing Mission (from "FINAL FANTASY VII REMAKE") - Cello and Piano cover (2024)
+
+-Track:1VmxnGscclOjNzvq6BWxRG	#	Feora, Lucas Cooper - Ilias Theme - Legend of Zelda (Lofi) (2024)
+-Track:1sonjs2CanUDweyJx6NSqT	#	Israfelcello - Midgar, City of Mako (from "FINAL FANTASY VII REMAKE") - Cello and Piano cover (2024)
+-Track:51WfkIxGpxvxzFtHAt0eKR	#	Lucas Cooper, Tremendouz - Lugia's Song (From "Pokémon: The Movie 2000") - Piano, Whistle & Strings (2024)
+-Track:2HCNsrsjKBp4IDja9yAObA	#	Feora, Lucas Cooper - Pokemon League (Night) - Pokemon Diamond & Pearl (Lofi) (2024)
+
+-Track:5Uny4SW8WCBRS1iJAQ40R4	#	Mellow Yoyo, Alessio Dicorato - Princess Zelda (From "The Legend of Zelda: Ocarina of Time") (2024)
+-Track:54UZm9WGhaT5H6fhyDQ7JI	#	Alessio Dicorato, Mellow Yoyo - Cloud Country (From "Stardew Valley") - Lofi (2024)
+-Track:7p6gaW5Oy8P8FwAXpAL0F0	#	TPR, The Silent Protagonist - Main Theme of Final Fantasy VII (2024)
+-Track:1mmDYxCQ6CwgZM951NivQ5	#	Pixel Mixers, Pablo Enver, Valse39, Becca Michaelson, Phoenix Down RPG, Soul in Sadness - Memories (2024)
+
+-Artist:1JJFOKIKtW4wSVv6vJRsu3	#	Dusty Tapes
+-Album:73DTF713w08xtPPuhu3l0X	#	Kenzie Smith Piano - The Dragon Prince (2021)
+-Album:5lY2Et4oGgtgSGLGABEBUC	#	Kenzie Smith Piano - Perfect Day - Piano Solo (2015)
+-Album:3tkTJf7HgOf6FBKUi148MK	#	Kenzie Smith Piano - Last Smile ~ Piano Solo (2016)
+-Album:0EN8yFPWtiOriVMITvIDaY	#	Kenzie Smith Piano - Owari e Mukau Hajimari no Uta (Piano Solo) (2016)
+-Album:4qV4qFTJNqSA7okaWIt5Ky	#	Kenzie Smith Piano - May Be (Piano Solo Cover) (2016)
+-Album:7mcd8Spai5MCxhlEOOcZIQ	#	Mackenzie Smith, Ian Urbina, Kenzie Smith Piano - Seaside (Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina) (2020)
+-Album:7JDFFbnVspBgS1eUlzMy2W	#	Kenzie Smith Piano - Night Changes (2022)
+-Album:0YnBBjsf3ioHkuNe2mt2mN	#	Lucas Cooper, Chromatic Apparatus - Shop (From "Undertale") [Piano & Cello] (2024)
+-Track:2c1v0uxbNUB2w2fPt0irOW	#	Feora, Alessio Dicorato - Determination - Undertale (Lofi) (2024)
+-Track:6X7IupOsPsF4CjNHTIvzLY	#	Wesley Sprayue, Renara Hawke - Satorl Marsh (Night) (From “Xenoblade Chronicles”) - Piano, Strings, and Vocals (2024)
+-Track:3jEh5dC5A5rnCT7aqTZBl4	#	Pablo Enver - RUN! (2024)
+
+-Track:79eBcFtPVim9g2O5xegWLq	#	TPR, The Silent Protagonist - From The Edge Of Despair (2024)
+-Track:6dH8sLQohcq5SjjoXErAbM	#	Hotline Sehwani, Lucas Cooper - Astral Observatory - Lofi Piano (From "The Legend of Zelda: Majora's Mask") - Cover (2024)
+-Album:5MzoYEx2mgFjGhmBzcgCMt	#	TPR, The Silent Protagonist - Promises in the Sky: Focus With Final Fantasy VII (2024)
+
+-Track:4oqH77W5FGdC2cub2y2ELe	#	WLHR, Lucas Cooper - Goldenrod City (Lo-Fi music from "Pokémon Gold and Silver") (2024)
+-Track:6qzMJrUj9nSdFT1LbeXIOu	#	Lucas Cooper, abbytheoboist - Eterna City (From "Pokémon Pearl, Diamond & Platinum") - Piano & Oboe (2024)
+-Track:1ZdaLrpFS9EzR7VtJVC4Q3	#	Lucas Cooper, Tremendouz - Lugia's Song (From "Pokémon: The Movie 2000") - Piano, Whistle & Strings (2024)
+-Album:1Yos29nC59RcK7uOFjcn1y	#	Chernabogue, Brendan Agnew, DeLuxDolemite, Piano Game Knight - Sinister Swing (2024)
+-Track:5qQ4WwaAmI04WsUxC8ECpG	#	Tim Burnelis - Title Theme (From "Wii Shop Channel") - Piano Remix (2022)
+
+-Track:6AuWuMsJiPF2g6cEbl6uxk	#	ROZEN - Kakariko Village (Piano Reflections) (2023)
+
+-Track:60G5WDVZzp3K6VeqzpwnLk	#	TPR, abbytheoboist - Azalea Town (From "Pokémon HeartGold/SoulSilver") (2024)
+-Track:0qflWdifi8AMVgpKQcfyGh	#	Luke Pickman, Moisés Nieto - His Theme (From "UNDERTALE") (2024)
+-Track:4nUSqsaCrhZnysaYW7tnwa	#	Gentle Game Lullabies, Gentle Game LoFi, Alec Justice, Helene Choyer - Simple And Clean (from "Kingdom Hearts") - Gentle Game LoFi Remix (2024)
+-Track:06hFs8lAE7zuKZZS6NhMeu	#	Hotline Sehwani, Besso0 - Resting Grounds - Lofi (From "Hollow Knight") - Cover (2024)
+-Album:4245C4BB7RbSHemqOeLAc2	#	Dusty Tapes - The Tortured Poets Department (Piano Version) (2024)
+-Track:7bPStq4WBcnnIQPoqDLs5G	#	Hotline Sehwani, Lucas Cooper - Sheik's Theme - Lofi Piano (From "The Legend of Zelda: Ocarina of Time") - Cover (2024)
+-Track:2pFwZqNVKujBe33AvvHEhP	#	Isadora Sinclair, Dusty Tapes - Wrecking Ball - Piano Version (2024)
+-Track:1G9Lw0XKDgsHKZYqKi8eyf	#	Gentle Game Lullabies, empyyyr, Gentle Game LoFi, Po-Hsun Chen - Dearly Beloved (From "Kingdom Hearts") - Gentle Game LoFi Remix (2024)
+
+-Track:5hIWicQ39jkGYu9gkVfUoX	#	WLHR, Alessio Dicorato - National Park (Lo-Fi music from "Pokémon Gold and Silver") (2024)
+
+-Track:2idKXMGYmdDZuAyEcTEq5D	#	Gentle Game Lullabies, Helene Choyer, Gentle Game Music box - Afternoon Streets (from "Kingdom Hearts") - Music Box (2024)
+
+-Track:5XD9KhIxZqwWy9ESC5YelQ	#	PalKid, Lucas Cooper - Verdanturf Town (from "Pokémon Ruby and Sapphire") (2024)
+-Track:3hPViqO6MIKIkmKyqtmJwH	#	TPR, abbytheoboist - New Bark Town (From “Pokémon Gold/Silver/Crystal”) (2024)
+-Track:2t3xsWsf1uSosGnkbqVthP	#	Luke Pickman, Moisés Nieto - Ruins (From "Undertale") (2023)
+-Track:30oY73osa9zRMJrV1AyBb0	#	Moisés Nieto, Luke Pickman - Burden to Bear (From "Crisis Core: Final Fantasy VII") - Flute & Piano Version (2023)

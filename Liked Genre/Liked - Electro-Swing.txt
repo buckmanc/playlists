@@ -1,1 +1,5 @@
-/media/content/Dropbox/CK/Spotify Playlist Generator Config/Playlists/Liked - Electro-Swing.txt
+@ID:5tPSssgHRuISQ403AcM1zB
+LikesByGenre:electroswing
+LikesFromPlaylist:https://open.spotify.com/playlist/2J4YrqcExog5yZZhzOnBk7
+LikesFromPlaylist:https://open.spotify.com/playlist/37i9dQZF1DX3bH0P2uDnWA?si=0c1a40fac14a4e7a
+Track:https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout?si=Xj8zzA3RTti6HYAIic9GAg

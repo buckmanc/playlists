@@ -1,0 +1,14 @@
+@ID:5cGP7N6q03fqnScuRmKynW
+@LimitPerArtist:1
+
+PlaylistTracks:https://open.spotify.com/playlist/5S85xmkjdaMBp91V5ACjPv?si=kvo0a-imRPetj25NzpxH2w
+-PlaylistArtists:ultimate Video Game Lofi
+-PlaylistArtists:ultimate Video Game Lofi - Gamechops
+-PlaylistArtists:ultimate Video Game Lofi - No Gamechops
+
+-Track:6NgBiZKYX52IGZvT92025F	#	Pheeno - Rest (2016)
+-Track:7l0Fsc0ksF4IefhZ4n8MOW	#	Chill Children, jhfly - Sudden Death (2018)
+-Track:1vkHMfjeZen2ZvDYKlelXR	#	Gabri V - København (2022)
+-Track:3X9jeU1hxCAUBX7zEEl67e	#	SeraphRiTT - Breath of Ocarina (2022)
+-Track:1mY9w1gsIROrTWqANCTmC7	#	Mercurius FM, Bomfie - Character Select (Smash Bros 64) (2023)
+-Track:5s1MU6iKhSvkB6xuJIK260	#	kamenoodles - Miracle Cycle (2022)

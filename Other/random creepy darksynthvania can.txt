@@ -1,0 +1,10 @@
+@ID:1WKALNbeaPfro2VoZkkxFX
+LikesFromPlaylist:https://open.spotify.com/playlist/5yuGgFubHvOaITevBacuor?si=NHZgonv5QtabQWV7PsgICQ&pi=HRsyyX4yQvOmR
+-PlaylistTracks:https://open.spotify.com/playlist/0YQoComjW200MfSf6CcwcE
+
+-artist:castlevania sound team
+-artist:blind
+-artist:zircon
+-artist:profondo delle tenebre
+-artist:gaboocarina96
+-artist:gametal

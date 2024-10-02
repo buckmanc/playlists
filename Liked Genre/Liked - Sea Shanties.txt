@@ -1,0 +1,12 @@
+@ID:2XwNap8t9GjMnZo9LtbzPD
+@default:likesbygenre
+
+*shanties*
+*shanty*
+likesbyplaylist:37i9dQZF1DX8shr5OgBdbQ
+
+# excluding metal by excluding specific artists
+# since some of these more traditional renditions come from folk metal bands
+-artist:jonathan young
+-artist:unleash the archers
+-artist:miracle of sound

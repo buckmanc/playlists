@@ -15,6 +15,7 @@ Super Guitar Bros
 atmacoustics
 Jimmy On Guitar
 LucasGitanoFamily
+Josh GUITARofolo
 
 -PlaylistTracks:4OechinjxWqHoDDeOP619j
 -Album:* - *piano*
@@ -70,6 +71,8 @@ LucasGitanoFamily
 -Album:* - anime piano*
 -Album:* - *Naruto album*
 -Album:* - *ghibli*
+-Album:* - *the girl who leapt through time*
+-Album:* - *dir en grey*
 
 -artist:sungha jung
 -artist:dan avidan	#	works with super guitar bros on non-vgc stuff
@@ -227,6 +230,7 @@ LucasGitanoFamily
 -track:rewrite the stars* # from the greatest showman
 -track:*from the greatest showman*
 -track:*attack on titan
+-from:attack on titan
 -track:*from k-on
 -track:*kyoto anime
 -track:*neon genesis evangelion*
@@ -296,6 +300,7 @@ LucasGitanoFamily
 -track:king of pride rock
 -from:mulan
 -from:the phantom of the opera
+-from:shrek
 -track:*rick and morty*
 -track:*liszt*
 -track:*pachelbel*
@@ -313,6 +318,10 @@ LucasGitanoFamily
 -track:o come o come emmanuel
 -track:stand by me
 -track:marry you
+-track:i'll make a man out of you
+-from:titanic
+-track:i can go the distance
+-track:santa baby
 
 
 
@@ -344,3 +353,22 @@ LucasGitanoFamily
 
 -Track:0i7NLm7GYgV0K4nTfEcn4e	#	Lazy Elias, Sleeping Phoenix - Overworld (Super Mario Bros. Wonder Lofi Remix) (2024)
 -Track:2GhXlAvBeuF39Ej0UutCyT	#	Besso0, Sleeping Phoenix - Title Theme (from "The Legend of Zelda: Ocarina of Time") - Lo-fi Edit (2024)
+
+-Album:6JMiEHkcwcKiJDJhBoK6QL	#	Sam Griffin - Shop Loop (2024)
+-Track:5VBSv90HuWZhCwpuJDxuhC	#	Sleeping Phoenix - Midna's Lament (From "The Legend of Zelda - Twilight Princess") (2024)
+
+-Album:1yq84WPIE8Sv5b6V2nhvQO	#	Kyle Throw - Journey: Four Travelers (2024)
+
+-Track:2S6SZxP9Xn5REsaJRb2MN6	#	Sleeping Phoenix, Less Gravity - Kakariko Village (The Legend of Zelda) (2024)
+
+-Track:2S6SZxP9Xn5REsaJRb2MN6	#	Sleeping Phoenix, Less Gravity - Kakariko Village (The Legend of Zelda) (2024)
+
+-Track:2MfSmk4SGR6kKTOUIIeQ7K	#	WLHR, Sleeping Phoenix - Azalea Town (Lo-Fi music from "Pokémon Gold and Silver") (2024)
+
+-Track:1iEAQqERlsnfGzpG0db3bQ	#	LucasGitanoFamily - Bling-Bang-Bang-Born (Mashle) (2024)
+-Track:2esBQGSjIwmtXblcCdhtuO	#	LucasGitanoFamily - Rush E but Flamenco Guitar (2024)
+
+-Album:3yXOOZ3vDw6joBNjfNSPPR	#	LucasGitanoFamily - Van Gogh (2024)
+-Album:0zue1doZp8NUgf6F6mmgwM	#	LucasGitanoFamily - Milagro (2024)
+
+-Track:0CbNDIYqQRLijjuhTkwmph	#	Sleeping Phoenix, Lucas Cooper - Lake Lamode (From "Super Mario Odyssey") (2024)

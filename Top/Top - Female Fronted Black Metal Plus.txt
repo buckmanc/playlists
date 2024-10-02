@@ -1,5 +1,5 @@
 @ID:3T1VdvSDMQUqxcLIu1UYAc
-@LastRun:9/14/2023 12:20:49 AM
+@LastRun:9/17/2024 8:32:46 AM
 @default:TopByArtist
 @LimitPerArtist:1
 # https://rateyourmusic.com/list/drowned_scars/the_ladies_of_black_metal/
@@ -542,8 +542,8 @@ Peste Noire            #  Could not find item. Remove this comment to try again
 Preterite              #  Could not find item. Remove this comment to try again
 Proclivity Gloom       #  Could not find item. Remove this comment to try again
 15PZRc2ekhOihbDOW3lUO3 #  Profanal
-Progetto Chaosgoat666  #  Could not find item. Remove this comment to try again
-Progetto:ChaosGoat.666
+# Progetto Chaosgoat666  #  Could not find item. Remove this comment to try again
+# Progetto:ChaosGoat.666
 2WXmCwCBVXeReOQG0ZMIbw #  Psykick
 6UDRqvrYiU2Dxy3cLVywkf #  PsyKick
 Psychalgia             #  Could not find item. Remove this comment to try again
@@ -748,8 +748,8 @@ Vomitwolves            #  Could not find item. Remove this comment to try again
 7duliekRuvDqTeJRRlpEUC #  Vradiazei
 Vulto Abissal          #  Could not find item. Remove this comment to try again
 War Ancestry           #  Could not find item. Remove this comment to try again
-Wavelength:Satan
-WavelengthSatan        #  Could not find item. Remove this comment to try again
+# Wavelength:Satan
+# WavelengthSatan        #  Could not find item. Remove this comment to try again
 0HrJh2Nfsolo7yI1BNcOrQ #  Wildspeaker
 6eXJ34SkMAEmtUDThVxoFR #  Winged
 4ruibFUt9T92MJT8Tq1ddr #  Winged

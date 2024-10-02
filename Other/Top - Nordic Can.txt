@@ -1,0 +1,21 @@
+@ID:170NkIlbQQU24e9UtFNVMv
+PlaylistTracks:Top - Nordic Folk
+-PlaylistTracks:Liked - Nordic Folk
+
+-Track:36NQqZ2nz01x48fjt2QNJv	#	Gísli Gunnarsson, Sigurboði - Tveggja Heima Sýn (2023)
+-Album:6dmq2NJgWAvrzRVrpPwkzv	#	Keith Jarrett, Jan Garbarek, Palle Danielsson, Jon Christensen - Belonging (1974)
+-Album:6ID17PzjagQlFsc1KFha5v	#	Keith Jarrett, Jan Garbarek, Palle Danielsson, Jon Christensen - My Song (1978)
+-Album:4t93DT5XoCuTDiO9aDOEft	#	Devel Sullivan, Jirka Hájek - Tales of Old: Two Worlds (2020)
+-Track:52YrHJg0f7FW3ANrSnHbiu	#	Borgar Magnason - Come Closer (2023)
+
+-Track:1ZskjFZgGoKxeNwrIFFDRL	#	Nebala - Alagabia (2022)
+-Track:1KYzRpTM56BQvQmuPhT303	#	Einar Selvik, Assassin's Creed - Helreið Oðins - Odin’s Ride To Hel (2020)
+-Track:5jBKs8PvoWk9oeaLTsn7lx	#	Heldom - Geysa (2020)
+-Track:4vv4dUL1xxjZigTSP6H6A3	#	Vǫluspá - Valfar (2019)
+-Track:382v9ouia03LvpRfQ5ETws	#	Daniel Sanden-Warg, Sigurd Brokke - Truls Med Bogen (2007)
+-Track:3SrrBzi0JDYMKHEJmyJ8TA	#	Karl Seglem - Deep Fear. Deep Tranquility. (2022)
+-Album:3zNrqGjTHhmsi4jLvtOWvA	#	Arr. Mario Rusca, Traditional - Original Music from Italy (2010)
+-Track:119lJoX079K9b6veWvf4OO	#	Faun - Satyros (2005)
+-Track:28kn9HcjJGTXooh0muAocX	#	Tenhi - Saivon Kimallus (2011)
+-Track:0kRanjSkXJgJkAKTaFeNmR	#	Groupa, Terje Isungset, Jonas Simonson, Mats Edén, Crussen - Silent Folk - Crussen Remix (2019)
+-Track:2dPpg2A3vpX42dpF40Rjcg	#	Artesia - A l'ombre des grandes forêts (2013)

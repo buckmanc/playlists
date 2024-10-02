@@ -119,6 +119,8 @@ dsc
 -Album:* - anime piano*
 -Album:* - *Naruto album*
 -Album:* - *ghibli*
+-Album:* - *the girl who leapt through time*
+-Album:* - *dir en grey*
 
 -artist:sungha jung
 -artist:dan avidan	#	works with super guitar bros on non-vgc stuff
@@ -276,6 +278,7 @@ dsc
 -track:rewrite the stars* # from the greatest showman
 -track:*from the greatest showman*
 -track:*attack on titan
+-from:attack on titan
 -track:*from k-on
 -track:*kyoto anime
 -track:*neon genesis evangelion*
@@ -345,6 +348,7 @@ dsc
 -track:king of pride rock
 -from:mulan
 -from:the phantom of the opera
+-from:shrek
 -track:*rick and morty*
 -track:*liszt*
 -track:*pachelbel*
@@ -362,6 +366,10 @@ dsc
 -track:o come o come emmanuel
 -track:stand by me
 -track:marry you
+-track:i'll make a man out of you
+-from:titanic
+-track:i can go the distance
+-track:santa baby
 
 
 

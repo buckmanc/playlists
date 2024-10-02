@@ -1,0 +1,42 @@
+@ID:5aEZKanbss9UqslIXKgySL
+likesbygenre:*classical*
+
+# targeting like mozart, grieg, and shit with this playlist
+# which is arguably a genre that I generally like less than any of the things I'm excluding below
+
+-artist:arcana
+-artist:midnight syndicate
+-artist:apoptose
+-artist:empyrium
+-artist:lustmord
+-album:*-flowers made of snow
+-artist:trevor alan gomes
+-artist:nobuo uematsu
+
+-genre:*metal*
+-genre:indian classical*
+-genre:japanese classical*
+
+-Artist:066g3mfGQdbXtyNP3d6EvH	#	Havan
+-Artist:1jG1ZA7JbczzWiRdTPOqtw	#	Funerary Call
+-Artist:2nqa9iCkIKUPik9k84nEr4	#	Amber Asylum
+-Artist:4jp6jGwANHkhNr6gbJNhiy	#	Turilli / Lione Rhapsody
+-Artist:5BnNG7QQQDTNd43ozx5y13	#	Blackmore's Night
+-Artist:1SFqXNEGetmMW6VPZseNqy	#	Kelly Moran
+-Artist:2AMZYRU9gyPG7OEfSYA8Dr	#	Field Works
+-Artist:6P86FLVAK4sxu8OhyQJBvH	#	Kaitlyn Aurelia Smith
+-Artist:6pSQcy8935ABNiK2qOpOlK	#	Lambert
+-Artist:03wtLmrx51o98GKld7O0RU	#	Lindy-Fay Hella
+-Artist:5SaDyTQkjAAdrsmhPzrmw2	#	Jorn
+-Artist:7bUGU28qbm4vGTSrha1H55	#	Vas
+-Artist:00nYMOhJWEPZfnDjXmWACn	#	Peter Bjärgö
+-Artist:5gqhueRUZEa7VDnQt4HODp	#	Nils Frahm
+-Artist:0zQfrabOFYf36Ikb6PXcCY	#	Rhapsody
+-Artist:00nYMOhJWEPZfnDjXmWACn	#	Peter Bjärgö
+-Artist:0wUUKwtuCvOtk9GklaUMj2	#	Artesia
+-Artist:5wrSmddDTl3c9xa5Nl1GAN	#	Die Verbannten Kinder Evas
+-Artist:1dqRsc8t8CsSAy4MDUXPAw	#	S. Sowmya
+-Artist:1q1JhA8NmMYJhIPHKtlFwg	#	Steindór Andersen
+-Artist:3p5cqyRrl8N8aYx2yMKBB1	#	Hilmar Örn Hilmarsson
+
+-Track:7741k8FIhIzCt1gTA0F42J	#	Richie Hawtin, Plastikman, Chilly Gonzales - Contain (In Key) (2022)

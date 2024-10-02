@@ -2,6 +2,7 @@
 
 playlisttracks:liked - lofi all
 -playlisttracks:liked - lofi no vgm
+allbyartist:coffee date
 
 # non-vgm exclusions go here
 # artists that are not lofi should be excluded in lofi - all
@@ -23,5 +24,17 @@ playlisttracks:liked - lofi all
 -Track:6skkQXV16o3qZ3Aic6iGSp	#	Tune in with Chewie - Everlasting (2022)
 
 -Artist:4PMAJlYIlc9EafX6z8lwZ3	#	Raimu
+
+# these should be merged into vgc shared exclusions
+# or into cover support in the app itself
+-from:fullmetal alchemist*
+-from:ghost in the shell*
+-from:nisemonogatari
+-from:hamtaro
+-from:spy x family
+-from:chainsaw man
+-from:touhou
+-from:mushishi
 -track: * - *jojos bizarre*
 -track: * - *howl's moving*
+-track: *hazbin*'
