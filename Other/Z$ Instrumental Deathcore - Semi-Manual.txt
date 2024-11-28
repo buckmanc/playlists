@@ -1,0 +1,7 @@
+@NoExplicit # should be instrumental anyway right???
+
+PlaylistTracks:https://open.spotify.com/playlist/2vzYd0fzfNs9KVSIa4zNPw?si=b2c95fff3f3f468a
+
+# add other albums/artists here
+
+-artist:Infant Annihilator

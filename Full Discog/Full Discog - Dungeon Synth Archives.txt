@@ -23469,8 +23469,115 @@
 # File "/usr/local/bin/yt-dlp", line 5, in <module>	
 # Traceback	
 
-ModuleNotFoundError No module named 'yt_dlp'	#	Could not find item. Remove this comment to try again
-from yt_dlp import main	#	Could not find item. Remove this comment to try again
-File "/usr/local/bin/yt-dlp", line 5, in <module>	#	Could not find item. Remove this comment to try again
-Traceback	#	Could not find item. Remove this comment to try again
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# ModuleNotFoundError No module named 'yt_dlp'	
+# from yt_dlp import main	
+# File "/usr/local/bin/yt-dlp", line 5, in <module>	
+# Traceback	
+
+# Maal Dweb - Witchcraft in a Moonless World  † HDK 16	
+
+# Maal Dweb - Witchcraft in a Moonless World  † HDK 16	
+# Elffor – Temple of the Dead	
+
+# Elffor – Temple of the Dead	
+
+# Dunjon Magik - Dunjon Majik † HDK 29	
+
+# Dunjon Magik - Dunjon Majik † HDK 29	
+7HtRLmgudTRc4atrGHf5Zf	#	Botanic Vendor - A Marvel Of Color And Beauty (Deluxe)
+
+# Echoes of Extinction - Dino Synth Anthology I	
+
+# Echoes of Extinction - Dino Synth Anthology I	
+# John Reppion & Gnoll - Faer the Wanderer † HDK 170	
+
+# John Reppion & Gnoll - Faer the Wanderer † HDK 170	
+
+2hzv7Fs08tqaBWAc195Ag9	#	Sylfvr - A Tale of Forlorn Ruins & Tragic Battles
+
+0Drfy7RDYHwuju5aStI7dV	#	Hole Dweller - Flies the Coop
+2zqRW40C5OijIft9JEQM9m	#	Hole Dweller - Flies the Coop II
+701pCw7Gr56bq7LKMXE0w3	#	Hole Dweller - Flies the Coop Iii
+
+# Onion Knight - The Thief	
+
+# Onion Knight - The Thief	
+
+
+
+
+
+
+
+
+
+
+
+
+
 

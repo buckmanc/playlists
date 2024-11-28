@@ -1,0 +1,10 @@
+@ID:3OpI61GMUVrd3y7nt71Z3t
+@ContainsString:*Instrumental*
+AllByArtistFromPlaylist:Liked - Deathcore
+AllByArtist:Ov Ruin
+@ExceptArtistFromPlaylist:Twocan Sam # good stuff, not deathcore
+-Album:*-Karaokemania*
+
+-Track:1qUjzo0ZdkvyudjlSUaN5v	#	Before I Turn - Tragedy - Instrumental (2020)
+-Track:0qAJsCuZEf7pS9sCHQeSVL	#	Aaron Chaparian - Songwriting Example 227 - Instrumental (2021)
+-Track:4x1Zm8Ua5vA6eSkNQu3yWK	#	The Wise Man's Fear - The Strength to Bury a Friend - Instrumental (2024)
