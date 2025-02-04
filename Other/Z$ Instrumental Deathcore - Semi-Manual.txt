@@ -1,7 +1,15 @@
+@ID:3khHJHF3vUaTTrtklrg0UZ
 @NoExplicit # should be instrumental anyway right???
 
 PlaylistTracks:https://open.spotify.com/playlist/2vzYd0fzfNs9KVSIa4zNPw?si=b2c95fff3f3f468a
 
 # add other albums/artists here
 
+# a bit more graphic than I'm looking for in this playlist
 -artist:Infant Annihilator
+-artist:cannibal corpse
+-artist:nemertines
+-artist:the dark prison massacre
+-artist:vulvodynia
+-artist:decomposition of entrails
+-album:*sodomizer*

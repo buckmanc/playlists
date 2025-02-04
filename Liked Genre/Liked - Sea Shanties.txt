@@ -10,3 +10,34 @@ likesbyplaylist:37i9dQZF1DX8shr5OgBdbQ
 -artist:jonathan young
 -artist:unleash the archers
 -artist:miracle of sound
+-artist:alestorm
+-artist:rumahoy
+-artist:antonio vivaldi
+-artist:assassin's creed
+-artist:video games live
+
+-Track:2SM8RENrMCqHU2Cf7Je4NK	#	Ashley Serena - Bayu Bayushki (2019)
+-Track:5DMy4WdYvtunDEaBtlva0y	#	Clamavi De Profundis - The Battle of Sauron and Finrod Felagund (2020)
+-Artist:7z4fAr9crNNXZuYijh895l	#	Cullen Vance
+-Artist:4gStxnd8dQCtu5jeE4rEBF	#	Firkin
+-Artist:4d2UfcRE5XSsapO3kyzwdP	#	Clamavi De Profundis
+-Artist:4qSxROE2bCYFQbsPGwY2H2	#	Leslie Fish
+-Artist:62uiaKAdkbY94iXJnXyKzc	#	Peyton Parrish
+-Track:22D4NsWSFRTzeMnFIg3Egn	#	The Mechanisms - Pump Shanty (2012)
+-Track:7vrCs4h3BphO87xuR0VOu0	#	Patty Gurdy - Gurdy's Green (2018)
+-Track:1akfhnrvtMuxExrYRQw9BJ	#	Alina Gingertail - Song of Lament (From “Elden Ring”) - Cover (2023)
+-Track:78B9RvFjcpSQgGFtjy1zBE	#	Saltatio Mortis, Sasha, Feuerschwanz, Subway To Sally, Tanzwut, Schandmaul, dArtagnan, Patty Gurdy - Kaufmann und Maid (2020)
+-Track:59ObI3ioIg3ZiWwzgCHP2Y	#	Ginny Di - Melee Range (2020)
+-Track:1wERJ0rIgVFk0ApQNObapy	#	The Rumjacks - The Pot & Kettle (2016)
+-Track:5nvOWJ3RlhDBdG4FUVxYcA	#	The Dread Crew of Oddwood - Trollwhack (2016)
+-Track:5OGyH7GhXgTCC9BFXSnWt9	#	Heather Dale - The Lady (2020)
+-Track:5cvV6J1z50f7JRPmgqXeAJ	#	Karliene - Witch (2017)
+-Track:5XTFYL9hWYByBLe71pjoZ6	#	Peyton Parrish - I'll Make a Man Out of You (2021)
+-Artist:2p2f0IoFel8v0mdBqGsw1C	#	Alpine Universe
+-Track:4ZyrKqjHF0ZcB1YbhZmmg0	#	Alina Gingertail - Bonetrousle (From "Undertale") - Cover (2021)
+-Track:1FDs1EXSd8G62xuqYS0pNv	#	Ye Banished Privateers - You and Me and the Devil Makes Three (2014)
+-Track:5t1RpHDAmJGi6B74UVZPhe	#	Clamavi De Profundis - The Lament for the Rohirrim (2018)
+-Artist:4zAK8a87dIdPw6xRYvsr4c	#	Storm Seeker
+-Artist:4LmjMMv69tN9V7ggJpva6r	#	Patty Gurdy
+-Artist:1LMhG4Azu3o65jp4YcE3yz	#	Jimlapbap
+-Artist:2ImOzhCBveQtdB7x0RcHkQ	#	Brave the Sea

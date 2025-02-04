@@ -1,4 +1,3 @@
-@ID:71Bdya0U99fRAIjYZT9MUc
 @Default:LikesByArtist
 @UpdateSort
 # a playlist for all the completely incidental cool stuff I found while trimming down those female fronted black metal lists

@@ -6,7 +6,8 @@ tenacious d
 tom lehrer
 psychostick
 rhett and link
-bo burnham
+# bo burnham
+bad lip reading
 
 -Track:6iqZywo5B62jZPJamJiMzl	#	Tom Lehrer, The Queen's Six - The Vatican Rag - Arr. Daniel Brittain (2021)
 -Track:1HJkBDfLJk2JDuhVnvgt2K	#	Psychostick - Obey the Beard (2014)
